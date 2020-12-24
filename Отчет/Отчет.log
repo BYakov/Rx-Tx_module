@@ -1,0 +1,2344 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.12.20)  23 DEC 2020 10:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Отчет.tex
+(./Отчет.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-12-07> xparse <2020-03-03>
+(d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(d:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(d:/texlive/2020/texmf-dist/tex/latex/extsizes/extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(d:/texlive/2020/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+))
+(d:/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(d:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count181
+\calc@Bcount=\count182
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count183
+\calc@Cskip=\skip51
+)
+(d:/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen141
+\ESO@tempdimb=\dimen142
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(d:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+\AM@pagewidth=\dimen145
+\AM@pageheight=\dimen146
+
+(d:/texlive/2020/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2020/01/28 v0.5q Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box47
+\AM@global@opts=\toks16
+\AM@pagecnt=\count184
+\AM@toc@title=\toks17
+\c@AM@survey=\count185
+\AM@templatesizebox=\box48
+)
+(d:/texlive/2020/texmf-dist/tex/latex/cmap/cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+
+
+Package cmap Warning: pdftex not detected - exiting.
+
+) (d:/texlive/2020/texmf-dist/tex/latex/t2/mathtext.sty
+Package: mathtext 2018/04/14 v1.0 transparent text-and-math defs
+LaTeX Info: Redefining \halign on input line 121.
+)
+(d:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/12/16 3.52 The Babel package
+
+(d:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/12/16 3.52 Babel common definitions
+\babel@savecnt=\count186
+\U@D=\dimen147
+\l@babelnohyphens=\language86
+
+(d:/texlive/2020/texmf-dist/tex/generic/babel/xebabel.def
+(d:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count187
+
+(d:/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)
+(d:/texlive/2020/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2020/10/16 1.3l Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 159.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen148
+))
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count188
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count189
+\leftroot@=\count190
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count191
+\DOTSCASE@=\count192
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+\symOMLletters=\mathgroup4
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\symOMSletters=\mathgroup5
+\macc@depth=\count193
+\c@MaxMatrixCols=\count194
+\dotsspace@=\muskip16
+\c@parentequation=\count195
+\dspbrk@lvl=\count196
+\tag@help=\toks19
+\row@=\count197
+\column@=\count198
+\maxfields@=\count199
+\andhelp@=\toks20
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks21
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks28
+)
+(d:/texlive/2020/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
+
+(d:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
+\g_MT_multlinerow_int=\count266
+\l_MT_multwidth_dim=\dimen157
+\origjot=\skip58
+\l_MT_shortvdotswithinadjustabove_dim=\dimen158
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen159
+\l_MT_above_intertext_sep=\dimen160
+\l_MT_below_intertext_sep=\dimen161
+\l_MT_above_shortintertext_sep=\dimen162
+\l_MT_below_shortintertext_sep=\dimen163
+\xmathstrut@box=\box51
+\xmathstrut@dim=\dimen164
+)
+(d:/texlive/2020/texmf-dist/tex/latex/was/icomma.sty
+Package: icomma 2002/03/10 v2.0 (WaS)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/euscript.sty
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup8
+)
+(d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty
+(d:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(d:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-12-07 L3 programming layer (loader) 
+
+(d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
+\g__graphics_track_int=\count267
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count268
+\g__pdf_backend_annotation_int=\count269
+))
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(d:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+(d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count270
+\l__fontspec_language_int=\count271
+\l__fontspec_strnum_int=\count272
+\l__fontspec_tmp_int=\count273
+\l__fontspec_tmpa_int=\count274
+\l__fontspec_tmpb_int=\count275
+\l__fontspec_tmpc_int=\count276
+\l__fontspec_em_int=\count277
+\l__fontspec_emdef_int=\count278
+\l__fontspec_strong_int=\count279
+\l__fontspec_strongdef_int=\count280
+\l__fontspec_tmpa_dim=\dimen165
+\l__fontspec_tmpb_dim=\dimen166
+\l__fontspec_tmpc_dim=\dimen167
+
+(d:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(d:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+(d:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(d:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(d:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count281
+\Gm@cntv=\count282
+\c@Gm@tempcnt=\count283
+\Gm@bindingoffset=\dimen168
+\Gm@wd@mp=\dimen169
+\Gm@odd@mp=\dimen170
+\Gm@even@mp=\dimen171
+\Gm@layoutwidth=\dimen172
+\Gm@layoutheight=\dimen173
+\Gm@layouthoffset=\dimen174
+\Gm@layoutvoffset=\dimen175
+\Gm@dimlist=\toks29
+)
+(d:/texlive/2020/texmf-dist/tex/latex/t2/misccorr.sty
+Package: misccorr 1999/09/23 v0.1 misc corrections for russian typesetting
+
+(d:/texlive/2020/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks30
+)
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+\c@rlistctr=\count284
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip59
+\enit@outerparindent=\dimen176
+\enit@toks=\toks31
+\enit@inbox=\box53
+\enit@count@id=\count285
+\enitdp@description=\count286
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen177
+\ar@mcellbox=\box54
+\extrarowheight=\dimen178
+\NC@list=\toks32
+\extratabsurround=\skip60
+\backup@length=\skip61
+\ar@cellbox=\box55
+)
+(d:/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip62
+\aftertitleunit=\skip63
+\ttl@plus=\dimen179
+\ttl@minus=\dimen180
+\ttl@toksa=\toks33
+\titlewidth=\dimen181
+\titlewidthlast=\dimen182
+\titlewidthfirst=\dimen183
+)
+(d:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen184
+\captionmargin@=\dimen185
+\captionwidth=\dimen186
+\caption@tempdima=\dimen187
+\caption@indent=\dimen188
+\caption@parindent=\dimen189
+\caption@hangindent=\dimen190
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {#1. #2}\ifdim \wd \@tempboxa >\hsize #1. #2\par \else \glob
+al \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \vskip \bel
+owcaptionskip  on input line 1139.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count287
+\c@continuedfloat=\count288
+) (d:/texlive/2020/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2020/02/09 v2.3 Making table heads with diagonal lines
+
+(d:/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2020/09/30 v0.4b Improved picture commands (HjG,RN,JT)
+
+(d:/texlive/2020/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: xetex.def on input line 112.
+Package pict2e Info: Driver file for pict2e: p2e-xetex.def on input line 114.
+
+(d:/texlive/2020/texmf-dist/tex/latex/pict2e/p2e-xetex.def
+File: p2e-xetex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks34
+\@arclen=\dimen191
+\@arcrad=\dimen192
+\pIIe@tempdima=\dimen193
+\pIIe@tempdimb=\dimen194
+\pIIe@tempdimc=\dimen195
+\pIIe@tempdimd=\dimen196
+\pIIe@tempdime=\dimen197
+\pIIe@tempdimf=\dimen198
+)
+\diagbox@boxa=\box57
+\diagbox@boxb=\box58
+\diagbox@boxm=\box59
+\diagbox@wd=\dimen199
+\diagbox@ht=\dimen256
+\diagbox@insepl=\dimen257
+\diagbox@insepr=\dimen258
+\diagbox@outsepl=\dimen259
+\diagbox@outsepr=\dimen260
+)
+(d:/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(d:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(d:/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen261
+\Hy@linkcounter=\count289
+\Hy@pagecounter=\count290
+
+(d:/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+\symPD1letters=\mathgroup9
+)
+(d:/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count291
+Package hyperref Info: Option `unicode' set `true' on input line 3427.
+
+(d:/texlive/2020/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020-05-15 v7.00e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+\symPUletters=\mathgroup10
+)
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count292
+
+(d:/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen262
+
+(d:/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(d:/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count293
+\Field@Width=\dimen263
+\Fld@charsize=\dimen264
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(d:/texlive/2020/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count294
+\c@Item=\count295
+\c@Hfootnote=\count296
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(d:/texlive/2020/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020-05-15 v7.00e Hyperref driver for XeTeX
+
+(d:/texlive/2020/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box60
+\c@Hy@AnnotLevel=\count297
+\HyField@AnnotCount=\count298
+\Fld@listcount=\count299
+\c@bookmark@seq@number=\count300
+
+(d:/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(d:/texlive/2020/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+(d:/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip64
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 90.
+
+Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+
+Package fontspec Info: Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+
+(d:/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count301
+\lst@gtempboxa=\box61
+\lst@token=\toks35
+\lst@length=\count302
+\lst@currlwidth=\dimen265
+\lst@column=\count303
+\lst@pos=\count304
+\lst@lostspace=\dimen266
+\lst@width=\dimen267
+\lst@newlines=\count305
+\lst@lineno=\count306
+\lst@maxwidth=\dimen268
+
+(d:/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count307
+\lst@skipnumbers=\count308
+\lst@framebox=\box62
+)
+(d:/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(d:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(d:/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box63
+\UL@hyphenbox=\box64
+\UL@skip=\skip65
+\UL@hook=\toks36
+\UL@height=\dimen269
+\UL@pe=\count309
+\UL@pixel=\dimen270
+\ULC@box=\box65
+Package: ulem 2019/11/18
+\ULdepth=\dimen271
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/hhline.sty
+Package: hhline 2020/01/04 v2.04 Table rule package (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/totalcount/totalcount.sty
+Package: totalcount 2018/01/21 v1.0a Total values of counters (AR)
+\c@totalcount@figure=\count310
+\c@totalcount@table=\count311
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count312
+\rotFPtop=\skip66
+\rotFPbot=\skip67
+\rot@float@box=\box66
+\rot@mess@toks=\toks37
+)
+(d:/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+
+(d:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip68
+\RaggedLeftLeftskip=\skip69
+\RaggedRightLeftskip=\skip70
+\CenteringRightskip=\skip71
+\RaggedLeftRightskip=\skip72
+\RaggedRightRightskip=\skip73
+\CenteringParfillskip=\skip74
+\RaggedLeftParfillskip=\skip75
+\RaggedRightParfillskip=\skip76
+\JustifyingParfillskip=\skip77
+\CenteringParindent=\skip78
+\RaggedLeftParindent=\skip79
+\RaggedRightParindent=\skip80
+\JustifyingParindent=\skip81
+)
+
+LaTeX Warning: Unused global option(s):
+    [utf8x].
+
+(./Отчет.aux)
+\openout1 = `Отчет.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 180.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+80.
+ (d:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 180.
+LaTeX Font Info:    ... okay on input line 180.
+
+(d:/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+LaTeX Info: Redefining \th on input line 180.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup11
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 180.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 180.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 180.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 180.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 180.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 180.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 180.
+LaTeX Font Info:    Redeclaring math accent \check on input line 180.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 180.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 180.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 180.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 180.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 180.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 180.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 1
+80.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 180.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+180.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 180.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 180.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+180.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 180.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 180
+.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 180.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 180.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 180.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 180
+.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=731.23584pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 180.
+(d:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(d:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count313
+)
+LaTeX Info: Redefining \ref on input line 180.
+LaTeX Info: Redefining \pageref on input line 180.
+LaTeX Info: Redefining \nameref on input line 180.
+
+(./Отчет.out) (./Отчет.out)
+\@outlinefile=\write3
+\openout3 = `Отчет.out'.
+
+\c@lstlisting=\count314
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 180.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 180.
+File: Герб.png Graphic file (type bmp)
+<Герб.png>
+
+Overfull \hbox (23.21191pt too wide) in paragraph at lines 183--184
+[][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+lmr on input line 1
+84.
+(d:/texlive/2020/texmf-dist/tex/latex/lm/omllmr.fd
+File: omllmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `OML/lmr/m/up' undefined
+(Font)              using `OML/lmr/m/it' instead on input line 184.
+
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+84.
+(d:/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OML/lmr/m/it' in size <14.4> not available
+(Font)              Font shape `OML/lmm/m/it' tried instead on input line 184.
+LaTeX Font Info:    Font shape `OML/lmr/m/up' in size <10> not available
+(Font)              Font shape `OML/lmm/m/it' tried instead on input line 184.
+LaTeX Font Info:    Font shape `OML/lmr/m/up' in size <7> not available
+(Font)              Font shape `OML/lmm/m/it' tried instead on input line 184.
+LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 1
+84.
+
+(d:/texlive/2020/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+LaTeX Font Warning: Font shape `OMS/lmr/m/up' undefined
+(Font)              using `OMS/lmr/m/n' instead on input line 184.
+
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+184.
+(d:/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 184.
+LaTeX Font Info:    Font shape `OMS/lmr/m/up' in size <10> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 184.
+LaTeX Font Info:    Font shape `OMS/lmr/m/up' in size <7> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 184.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 184
+.
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 184
+.
+
+(d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 18
+4.
+
+(d:/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for PD1+TimesNewRoman(0) on
+ input line 184.
+LaTeX Font Info:    No file PD1TimesNewRoman(0).fd. on input line 184.
+
+
+LaTeX Font Warning: Font shape `PD1/TimesNewRoman(0)/m/up' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 184.
+
+LaTeX Font Info:    Trying to load font information for PU+TimesNewRoman(0) on 
+input line 184.
+LaTeX Font Info:    No file PUTimesNewRoman(0).fd. on input line 184.
+
+LaTeX Font Warning: Font shape `PU/TimesNewRoman(0)/m/up' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 184.
+
+! Extra }, or forgotten \endgroup.
+\UL@stop ...alty \ifnum \lastkern =\thr@@ \egroup 
+                                                  \egroup \ifdim \wd \UL@box...
+l.202 ...ектронные системы и устройства}>> \hfill}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+\UL@stop ...num \lastkern =\thr@@ \egroup \egroup 
+                                                  \ifdim \wd \UL@box =\z@ \e...
+l.202 ...ектронные системы и устройства}>> \hfill}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.202 ...ектронные системы и устройства}>> \hfill}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.202 ...ектронные системы и устройства}>> \hfill}
+                                                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+LaTeX Font Info:    Font shape `OML/lmr/m/up' in size <12> not available
+(Font)              Font shape `OML/lmm/m/it' tried instead on input line 236.
+LaTeX Font Info:    Font shape `OML/lmr/m/up' in size <8> not available
+(Font)              Font shape `OML/lmm/m/it' tried instead on input line 236.
+LaTeX Font Info:    Font shape `OML/lmr/m/up' in size <6> not available
+(Font)              Font shape `OML/lmm/m/it' tried instead on input line 236.
+LaTeX Font Info:    Font shape `OMS/lmr/m/up' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 236.
+LaTeX Font Info:    Font shape `OMS/lmr/m/up' in size <8> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 236.
+LaTeX Font Info:    Font shape `OMS/lmr/m/up' in size <6> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 236.
+! Extra }, or forgotten \endgroup.
+\UL@stop ...alty \ifnum \lastkern =\thr@@ \egroup 
+                                                  \egroup \ifdim \wd \UL@box...
+l.237 ...ы \textbf{РЛ1-74} & \uline{\hspace*{4cm}}
+                                                   & \uline{\hfill \textbf{М...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+\UL@stop ...num \lastkern =\thr@@ \egroup \egroup 
+                                                  \ifdim \wd \UL@box =\z@ \e...
+l.237 ...ы \textbf{РЛ1-74} & \uline{\hspace*{4cm}}
+                                                   & \uline{\hfill \textbf{М...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.237 ...ы \textbf{РЛ1-74} & \uline{\hspace*{4cm}}
+                                                   & \uline{\hfill \textbf{М...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.237 ...ы \textbf{РЛ1-74} & \uline{\hspace*{4cm}}
+                                                   & \uline{\hfill \textbf{М...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\UL@stop ...alty \ifnum \lastkern =\thr@@ \egroup 
+                                                  \egroup \ifdim \wd \UL@box...
+l.244 ...^IРуководитель КП & \uline{\hspace*{4cm}}
+                                                   & \uline{\hfill \textbf{А...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten \endgroup.
+\UL@stop ...num \lastkern =\thr@@ \egroup \egroup 
+                                                  \ifdim \wd \UL@box =\z@ \e...
+l.244 ...^IРуководитель КП & \uline{\hspace*{4cm}}
+                                                   & \uline{\hfill \textbf{А...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.244 ...^IРуководитель КП & \uline{\hspace*{4cm}}
+                                                   & \uline{\hfill \textbf{А...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.244 ...^IРуководитель КП & \uline{\hspace*{4cm}}
+                                                   & \uline{\hfill \textbf{А...
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 270--275
+\TU/TimesNewRoman(0)/m/n/14.4 KIKAD, СОГЛАСОВАНИЕ, ПРИЕМОПЕРЕДАТЧИК, АЦП, ЦАП,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--275
+\TU/TimesNewRoman(0)/m/n/14.4 АНТИАЛИАСИНГОВЫЙ ФИЛЬТР, МАЛОШУМЯЩИЙ УСИЛИТЕЛЬ,
+ []
+
+[2] (./Отчет.toc [3])
+\tf@toc=\write4
+\openout4 = `Отчет.toc'.
+
+ [4]
+Underfull \hbox (badness 7522) in paragraph at lines 304--305
+\TU/TimesNewRoman(0)/m/n/14.4 проекта печатной платы для изготовления фотошабло
+нов на разном
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 312--313
+\TU/TimesNewRoman(0)/m/n/14.4 моделирования электрических и электронных цепей с
+ интегрированным
+ []
+
+[5]
+Underfull \hbox (badness 1509) in paragraph at lines 319--320
+\TU/TimesNewRoman(0)/m/n/14.4 телефонной связи и предназначено для обеспечения 
+высокоскоростного
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 319--320
+\TU/TimesNewRoman(0)/m/n/14.4 интернета вещей, устройствам виртуальной реальнос
+ти и устройствам
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 321--322
+[]\TU/TimesNewRoman(0)/m/n/14.4 Известны системы с технологией множества входов
+ и множества
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 321--322
+\TU/TimesNewRoman(0)/m/n/14.4 выходов (MIMO), реализуемых в системах LTE, 5G, W
+i-Fi, а именно в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--331
+[]\TU/TimesNewRoman(0)/m/n/14.4 Например, модульность реализуется в радиолокаци
+и. Заявка
+ []
+
+
+Underfull \hbox (badness 4981) in paragraph at lines 323--331
+\TU/TimesNewRoman(0)/m/n/14.4 RU 2496120. Она содержит многофункциональную мног
+одиапазонную
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 323--331
+\TU/TimesNewRoman(0)/m/n/14.4 отличающуюся тем, что она содержит i РЧМ i = (1,N
+), каждый из
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 323--331
+\TU/TimesNewRoman(0)/m/n/14.4 приведенной в патенте, относятся: полудуплексный 
+режим передачи;
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 332--335
+[]\TU/TimesNewRoman(0)/m/n/14.4 Решение поставленной задачи достигается тем, чт
+о используется
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--335
+\TU/TimesNewRoman(0)/m/n/14.4 квадратурный прием, реализованный в приёмо-переда
+ющих ячейках
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--335
+\TU/TimesNewRoman(0)/m/n/14.4 пользователей обеспечивается использованием отдел
+ьных модулей,
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+[]\TU/TimesNewRoman(0)/m/n/14.4 Система управления и сериализатор, выполненный 
+в виде
+ []
+
+
+Underfull \hbox (badness 4660) in paragraph at lines 347--348
+\TU/TimesNewRoman(0)/m/n/14.4 программируемой логической интегральной схемы (ПЛ
+ИС) или ASIC
+ []
+
+File: Система антеной решетки.png Graphic file (type bmp)
+<Система антеной решетки.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--366
+[]\TU/TimesNewRoman(0)/m/n/14.4 управление генератором, системой питания, усили
+телями;
+ []
+
+[7]
+Underfull \hbox (badness 7486) in paragraph at lines 379--380
+\TU/TimesNewRoman(0)/m/n/14.4 передающего модуля (ППМ). В дальнейших курсовых и
+ выпускной
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 379--380
+\TU/TimesNewRoman(0)/m/n/14.4 квалификационной работе планируется реализация мо
+дуля и комплекса
+ []
+
+[8]
+File: Структурная схема.png Graphic file (type bmp)
+<Структурная схема.png>
+
+Underfull \hbox (badness 4144) in paragraph at lines 384--391
+[]\TU/TimesNewRoman(0)/m/n/14.4 В качестве приемо-передающей ячейки будет реали
+зована схема
+ []
+
+[9]
+Underfull \hbox (badness 2486) in paragraph at lines 398--400
+[]\TU/TimesNewRoman(0)/m/n/14.4 На необходимую величину разрядности АЦП влияют 
+следующие
+ []
+
+
+LaTeX Warning: Reference `созвездиеQAM16' on page 10 undefined on input line 40
+5.
+
+LaTeX Font Info:    Font shape `OML/lmr/m/up' in size <14.4> not available
+(Font)              Font shape `OML/lmm/m/it' tried instead on input line 406.
+LaTeX Font Info:    Font shape `OMS/lmr/m/up' in size <14.4> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 406.
+File: СозвездиеQAM16.png Graphic file (type bmp)
+<СозвездиеQAM16.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--427
+[]\TU/TimesNewRoman(0)/m/n/14.4 Итого, получаем расчётную разрядность в 7.32 би
+т, а значит
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 429--430
+\TU/TimesNewRoman(0)/m/n/14.4 приёмника позволяет уменьшить частоту дискретизац
+ии вдвое. Кроме
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 429--430
+\TU/TimesNewRoman(0)/m/n/14.4 того, антиалиасинговый ФНЧ имеет неидеально прямо
+угольный спад
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
+[]\TU/TimesNewRoman(0)/m/n/14.4 Составим список подходящих вариантов АЦП среди 
+двух
+ []
+
+[11]
+File: Обвязка АЦП.png Graphic file (type bmp)
+<Обвязка АЦП.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 463--465
+[]\TU/TimesNewRoman(0)/m/n/14.4 Так как приёмный тракт проектируемого устройств
+а является
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 463--465
+\TU/TimesNewRoman(0)/m/n/14.4 квадратурным приёмником, то разумнее всего исполь
+зовать в качестве
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 469--470
+[]\TU/TimesNewRoman(0)/m/n/14.4 В качестве вариантов рассмотрим продукцию трёх 
+фирм:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--483
+[]\TU/TimesNewRoman(0)/m/n/14.4 Стандартная обвязка выбранного нами демодулятор
+а ADL5380
+ []
+
+File: Обвязка демодулятора.png Graphic file (type bmp)
+<Обвязка демодулятора.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+[]\TU/TimesNewRoman(0)/m/n/14.4 Составим список подходящих вариантов МШУ среди 
+двух
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+\TU/TimesNewRoman(0)/m/n/14.4 производителей: \TU/TimesNewRoman(0)/m/it/14.4 «A
+nalogDevices» \TU/TimesNewRoman(0)/m/n/14.4 и \TU/TimesNewRoman(0)/m/it/14.4 «N
+XPSemiconductors» \TU/TimesNewRoman(0)/m/n/14.4 и выберем
+ []
+
+[14]
+Underfull \hbox (badness 3199) in paragraph at lines 524--525
+[]\TU/TimesNewRoman(0)/m/n/14.4 возможность обеспечения входного и выходного со
+противлений
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 532--534
+\TU/TimesNewRoman(0)/m/n/14.4 будем использовать схему включающую цепь обратной
+ связи, которая
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 541--542
+[]\TU/TimesNewRoman(0)/m/n/14.4 Напряжение питания составляет 2.5 В. при максим
+альном токе
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 541--542
+\TU/TimesNewRoman(0)/m/n/14.4 25 мА., что даёт максимальную потребляемую мощнос
+ть 62.5 мВт. на
+ []
+
+File: Обвязка МШУ.png Graphic file (type bmp)
+<Обвязка МШУ.png>
+[15]
+File: МШУ усиление.png Graphic file (type bmp)
+<МШУ усиление.png>
+
+Underfull \hbox (badness 4024) in paragraph at lines 553--560
+[]\TU/TimesNewRoman(0)/m/n/14.4 Так как в МШУ решено использовать 3 каскада BGU
+7003W с
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+[]\TU/TimesNewRoman(0)/m/n/14.4 Составим список подходящих вариантов УПЧ среди 
+двух
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--562
+\TU/TimesNewRoman(0)/m/n/14.4 производителей: \TU/TimesNewRoman(0)/m/it/14.4 «A
+nalogDevices» \TU/TimesNewRoman(0)/m/n/14.4 и \TU/TimesNewRoman(0)/m/it/14.4 «N
+XPSemiconductors» \TU/TimesNewRoman(0)/m/n/14.4 и выберем
+ []
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 572--573
+\TU/TimesNewRoman(0)/m/n/14.4 Необходимый коэффициент усиления тракта ПЧ обеспе
+чивается одним
+ []
+
+[16]
+Underfull \hbox (badness 3838) in paragraph at lines 581--582
+\TU/TimesNewRoman(0)/m/n/14.4 что даёт максимальную потребляемую мощность 137.5
+ мВт. на одно
+ []
+
+File: Обвязка УПЧ.png Graphic file (type bmp)
+<Обвязка УПЧ.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 593--594
+[]\TU/TimesNewRoman(0)/m/n/14.4 Основные характеристики ЦАП соответствую таким 
+же
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 595--596
+[]\TU/TimesNewRoman(0)/m/n/14.4 В качестве вариантов рассмотрим продукцию двух 
+фирм:
+ []
+
+[18]
+File: Обвязка ЦАП.png Graphic file (type bmp)
+<Обвязка ЦАП.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 633--635
+[]\TU/TimesNewRoman(0)/m/n/14.4 Стандартная обвязка выбранного нами модулятора 
+ADL5375
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 633--635
+\TU/TimesNewRoman(0)/m/n/14.4 представлена на рисунке [][]10[][], полученном из
+ документации [[]]. Данная
+ []
+
+[19]
+File: Обвязка модулятора.png Graphic file (type bmp)
+<Обвязка модулятора.png>
+
+Underfull \hbox (badness 1803) in paragraph at lines 652--653
+[]\TU/TimesNewRoman(0)/m/n/14.4 Максимальное выходное напряжение ЦАП составляет
+ 1.4 В., что
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 652--653
+\TU/TimesNewRoman(0)/m/n/14.4 при внутреннем сопротивлении в 70 кОм. даёт выход
+ную мощность в
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 652--653
+\TU/TimesNewRoman(0)/m/n/14.4 -15,5 дБм. Необходимая выходная мощность передатч
+ика согласно ТЗ
+ []
+
+[20]
+Underfull \hbox (badness 3199) in paragraph at lines 660--661
+[]\TU/TimesNewRoman(0)/m/n/14.4 возможность обеспечения входного и выходного со
+противлений
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 664--665
+\TU/TimesNewRoman(0)/m/n/14.4 Необходимый коэффициент усиления передающего УВЧ 
+обеспечивается
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 669--671
+[]\TU/TimesNewRoman(0)/m/n/14.4 Стандартная обвязка выбранного нами оконечного 
+усилителя
+ []
+
+
+Underfull \hbox (badness 7012) in paragraph at lines 675--676
+\TU/TimesNewRoman(0)/m/n/14.4 что даёт максимальную потребляемую мощность 450 м
+Вт. на одно
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 675--676
+\TU/TimesNewRoman(0)/m/n/14.4 устройство. Общая потребляемая мощность всего тра
+кта усилителя
+ []
+
+File: Обвязка оконечного усилителя.png Graphic file (type bmp)
+<Обвязка оконечного усилителя.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 686--687
+[]\TU/TimesNewRoman(0)/m/n/14.4 Основным критерием выбора гетеродина является р
+абочая полоса
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 686--687
+\TU/TimesNewRoman(0)/m/n/14.4 генереруемых частот, которая составляет 1–6 ГГц. 
+Единственным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 686--687
+\TU/TimesNewRoman(0)/m/n/14.4 найденным доступным вариантом является LTC6945 [[
+]] фирмы
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 688--690
+[]\TU/TimesNewRoman(0)/m/n/14.4 Стандартная обвязка выбранного нами генератора 
+LTC6946
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 688--690
+\TU/TimesNewRoman(0)/m/n/14.4 представлена на рисунке [][]12[][], полученном из
+ документации [[]]. Данная
+ []
+
+[22]
+File: Обвязка генератора.png Graphic file (type bmp)
+<Обвязка генератора.png>
+
+Underfull \hbox (badness 1147) in paragraph at lines 718--720
+\TU/TimesNewRoman(0)/m/n/14.4 Котельникова. Далее рассчитаем максимальную групп
+овую задержку по
+ []
+
+File: Не балансный.png Graphic file (type bmp)
+<Не балансный.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Зона найквиста.png Graphic file (type bmp)
+<Зона найквиста.png>
+[23]
+Underfull \hbox (badness 5161) in paragraph at lines 760--761
+\TU/TimesNewRoman(0)/m/n/14.4 зонах Найквиста. Это позволяет увеличить отношени
+е сигнал-шум в
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 763--764
+\TU/TimesNewRoman(0)/m/n/14.4 ) с аналогичными характеристиками, приведенными н
+а рисунке [][]14[][] и в
+ []
+
+File: Фильтр.png Graphic file (type bmp)
+<Фильтр.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24]
+
+LaTeX Warning: Text page 25 contains only floats.
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
+[]\TU/TimesNewRoman(0)/m/n/14.4 Гетеродин — напряжения питания составляют 5 В. 
+при
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 784--785
+\TU/TimesNewRoman(0)/m/n/14.4 максимальном токе 65 мА. и 3.3 В. при максимально
+м токе 140 мА,
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 797--798
+[]\TU/TimesNewRoman(0)/m/n/14.4 Понижение будет осуществляться линейными стабил
+изаторами
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 797--798
+\TU/TimesNewRoman(0)/m/n/14.4 LD1117 [[]] c номинальным током 0.8 А, что полнос
+тью удовлетворяет
+ []
+
+
+Underfull \hbox (badness 2547) in paragraph at lines 800--802
+[]\TU/TimesNewRoman(0)/m/n/14.4 Стандартная обвязка выбранного нами стабилизато
+ра напряжения
+ []
+
+File: Обвязка стабилизатора.png Graphic file (type bmp)
+<Обвязка стабилизатора.png>
+[27]
+Underfull \hbox (badness 3872) in paragraph at lines 819--821
+[]\TU/TimesNewRoman(0)/m/n/14.4 Для правильного согласования и отсутствия отраж
+ений выберем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--821
+\TU/TimesNewRoman(0)/m/n/14.4 систему расчету встроенную в KiKad. Она работает 
+по формулам
+ []
+
+File: Волновод.png Graphic file (type bmp)
+<Волновод.png>
+File: Длинна.png Graphic file (type bmp)
+<Длинна.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 836--836
+[]\TU/TimesNewRoman(0)/m/n/14.4 Рисунок 18 – |Размер балансной линии, идущей от
+ генератора к
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 841--842
+\TU/TimesNewRoman(0)/m/n/14.4 сигнал поиступает с параллельного выхода АЦП то е
+го не правильное
+ []
+
+File: Волновод 100Мгц.png Graphic file (type bmp)
+<Волновод 100Мгц.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Цифвх-вых.png Graphic file (type bmp)
+<Цифвх-вых.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: ПЛИС.png Graphic file (type bmp)
+<ПЛИС.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--866
+[]\TU/TimesNewRoman(0)/m/n/14.4 Для считывания и передачи данных использован ко
+ннектор с
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 859--866
+\TU/TimesNewRoman(0)/m/n/14.4 шагом пина $\OT1/cmr/m/n/14.4 2\OML/cmm/m/it/14.4
+ ;\OT1/cmr/m/n/14.4 54 \OML/cmm/m/it/14.4 mm$\TU/TimesNewRoman(0)/m/n/14.4 . Да
+нное решение обусловлено использованием в
+ []
+
+[28]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: Расчет минимальной толщины дорожки.png Graphic file (type bmp)
+<Расчет минимальной толщины дорожки.png>
+File: Система питания.png Graphic file (type bmp)
+<Система питания.png>
+
+Underfull \hbox (badness 1067) in paragraph at lines 867--880
+\TU/TimesNewRoman(0)/m/n/14.4 равной 5 Вт, а значит ток равен 1 А при питающем 
+напряжении 5 В.
+ []
+
+[29] [30]
+File: Класс цепей.png Graphic file (type bmp)
+<Класс цепей.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
+[]\TU/TimesNewRoman(0)/m/n/14.4 Из таблицы классов выберем класс печатной платы
+. По
+ []
+
+File: Класс печатных плат.png Graphic file (type bmp)
+<Класс печатных плат.png>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: SDRтоп.png Graphic file (type bmp)
+<SDRтоп.png>
+File: SDRбот.png Graphic file (type bmp)
+<SDRбот.png>
+[31]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 924--926
+[]\TU/TimesNewRoman(0)/m/n/14.4 Целью данной работы была реализация приемо-пере
+дающей
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 924--926
+\TU/TimesNewRoman(0)/m/n/14.4 и рабочая полоса. Это позволит провести первичные
+ эксперименты
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 924--926
+\TU/TimesNewRoman(0)/m/n/14.4 и определить конструктивные и иные недочеты в дан
+ном прототипе.
+ []
+
+
+Underfull \hbox (badness 4492) in paragraph at lines 924--926
+\TU/TimesNewRoman(0)/m/n/14.4 По результатам испытаний будут внесены правки в д
+анную РПЗ. В
+ []
+
+
+Underfull \hbox (badness 6859) in paragraph at lines 924--926
+\TU/TimesNewRoman(0)/m/n/14.4 качестве приемной и передающей антенны будет испо
+льзована патч
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 924--926
+\TU/TimesNewRoman(0)/m/n/14.4 антенна реализованная в качестве курсовой работы 
+«Проектирование
+ []
+
+
+Underfull \hbox (badness 7963) in paragraph at lines 924--926
+\TU/TimesNewRoman(0)/m/n/14.4 и моделирование сверхширокополосной печатной анте
+нной решетки»
+ []
+
+File: План работ.png Graphic file (type bmp)
+<План работ.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 930--930
+\TU/TimesNewRoman(0)/m/n/14.4 курсовой ”Проектировани радиоэлектронного устройс
+тва а так же
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 930--930
+\TU/TimesNewRoman(0)/m/n/14.4 реализацию всего комплекса в качестве выпускной к
+валификационной
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 942--943
+[]\TU/TimesNewRoman(0)/m/n/14.4 https://www.analog.com/media/en/technical-docum
+entation/data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 944--945
+[]\TU/TimesNewRoman(0)/m/n/14.4 https://www.analog.com/media/en/technical-docum
+entation/data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 946--947
+[]\TU/TimesNewRoman(0)/m/n/14.4 https://www.nxp.com/docs/en/data-sheet/BGU7003W
+.pdf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 948--949
+[]\TU/TimesNewRoman(0)/m/n/14.4 https://www.nxp.com/docs/en/data-sheet/BGA2874.
+pdf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 950--951
+[]\TU/TimesNewRoman(0)/m/n/14.4 https://www.analog.com/media/en/technical-docum
+entation/data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--953
+[]\TU/TimesNewRoman(0)/m/n/14.4 https://www.analog.com/media/en/technical-docum
+entation/data-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--957
+[]\TU/TimesNewRoman(0)/m/n/14.4 http://www.st.com/st-web-ui/static/active/en/re
+source/technical/document/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 958--959
+[]\TU/TimesNewRoman(0)/m/n/14.4 https://www.analog.com/media/en/technical-docum
+entation/data-
+ []
+
+[35] [36]
+File: Структурная схема модуля.pdf Graphic file (type pdf)
+<use Структурная схема модуля.pdf>
+File: Структурная схема модуля.pdf Graphic file (type pdf)
+<use Структурная схема модуля.pdf>
+File: Структурная схема модуля.pdf Graphic file (type pdf)
+<use Структурная схема модуля.pdf, page 1>
+File: Структурная схема модуля.pdf Graphic file (type pdf)
+<use Структурная схема модуля.pdf, page 1>
+File: Структурная схема модуля.pdf Graphic file (type pdf)
+<use Структурная схема модуля.pdf, page 1>
+File: Структурная схема модуля.pdf Graphic file (type pdf)
+<use Структурная схема модуля.pdf, page 1>
+File: Структурная схема модуля.pdf Graphic file (type pdf)
+<use Структурная схема модуля.pdf, page 1>
+ [37] [38]
+File: Структурная схема ПЛИС.pdf Graphic file (type pdf)
+<use Структурная схема ПЛИС.pdf>
+File: Структурная схема ПЛИС.pdf Graphic file (type pdf)
+<use Структурная схема ПЛИС.pdf>
+File: Структурная схема ПЛИС.pdf Graphic file (type pdf)
+<use Структурная схема ПЛИС.pdf, page 1>
+File: Структурная схема ПЛИС.pdf Graphic file (type pdf)
+<use Структурная схема ПЛИС.pdf, page 1>
+File: Структурная схема ПЛИС.pdf Graphic file (type pdf)
+<use Структурная схема ПЛИС.pdf, page 1>
+File: Структурная схема ПЛИС.pdf Graphic file (type pdf)
+<use Структурная схема ПЛИС.pdf, page 1>
+File: Структурная схема ПЛИС.pdf Graphic file (type pdf)
+<use Структурная схема ПЛИС.pdf, page 1>
+ [39] [40]
+File: SDR-Sch-title.pdf Graphic file (type pdf)
+<use SDR-Sch-title.pdf>
+File: SDR-Sch-title.pdf Graphic file (type pdf)
+<use SDR-Sch-title.pdf>
+File: SDR-Sch-title.pdf Graphic file (type pdf)
+<use SDR-Sch-title.pdf, page 1>
+File: SDR-Sch-title.pdf Graphic file (type pdf)
+<use SDR-Sch-title.pdf, page 1>
+File: SDR-Sch-title.pdf Graphic file (type pdf)
+<use SDR-Sch-title.pdf, page 1>
+File: SDR-Sch-title.pdf Graphic file (type pdf)
+<use SDR-Sch-title.pdf, page 1>
+File: SDR-Sch-title.pdf Graphic file (type pdf)
+<use SDR-Sch-title.pdf, page 1>
+ [41]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 1>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 1>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 1>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 1>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 1>
+ [42]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 2>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 2>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 2>
+ [43]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 3>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 3>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 3>
+ [44]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 4>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 4>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 4>
+ [45]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 5>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 5>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 5>
+ [46]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 6>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 6>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 6>
+ [47]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 7>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 7>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 7>
+ [48]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 8>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 8>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 8>
+ [49]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 9>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 9>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 9>
+
+[50]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 10>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 10>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 10>
+ [51]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 11>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 11>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 11>
+ [52]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 12>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 12>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 12>
+ [53]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 13>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 13>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 13>
+ [54]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 14>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 14>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 14>
+ [55]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 15>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 15>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 15>
+ [56]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 16>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 16>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 16>
+ [57]
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 17>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 17>
+File: SDR-Sch.pdf Graphic file (type pdf)
+<use SDR-Sch.pdf, page 17>
+ [58] [59]
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 1>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 1>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 1>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 1>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 1>
+ [60]
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 2>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 2>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 2>
+ [61]
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 3>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 3>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 3>
+ [62]
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 4>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 4>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 4>
+ [63]
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 5>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 5>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 5>
+ [64]
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 6>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 6>
+File: SDR-PCB.pdf Graphic file (type pdf)
+<use SDR-PCB.pdf, page 6>
+
+[65]
+
+Package caption Warning: Unused \captionsetup[lstlisting] on input line 137.
+See the caption package documentation for explanation.
+
+
+AED: lastpage setting LastPage
+(./Отчет.aux)
+Package rerunfilecheck Info: File `Отчет.out' has not changed.
+(rerunfilecheck)             Checksum: E48EFE1C831DFDBF6AF37C4CA713A559;10209.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 19127 strings out of 477298
+ 341714 string characters out of 5836089
+ 909511 words of memory out of 5000000
+ 38341 multiletter control sequences out of 15000+600000
+ 417982 words of font info for 130 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 80i,17n,86p,663b,511s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Отчет.pdf (65 pages).

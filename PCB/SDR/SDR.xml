@@ -1,0 +1,3410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\Git\Kursach_7\PCB\SDR\SDR.sch</source>
+    <date>23.11.2020 15:29:38</date>
+    <tool>Eeschema (5.1.8)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SDR.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/RF_Generator_1/" tstamps="/5FB9C49B/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RF_Generator.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Modulator_1/" tstamps="/5FCE03EA/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Modulator.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Amp_int_1/" tstamps="/5FD4CB6C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Amp_int.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Int_filter_1/" tstamps="/5FB17334/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Int_filter.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Int_filter_2/" tstamps="/5FB5DB09/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Int_filter.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Power_amp_1/" tstamps="/5FC50738/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power_amp.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Amp_int_2/" tstamps="/5FCDE39D/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Amp_int.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/Power/" tstamps="/5FCE96D4/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/low_noise_amp_1/" tstamps="/5FB5214A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>low_noise_amp.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/low_noise_amp_2/" tstamps="/5FE93DF4/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>low_noise_amp.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/low_noise_amp_3/" tstamps="/5FEA0824/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>low_noise_amp.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Demodulator_1/" tstamps="/5FD13150/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Demodulator.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/DAC_1/" tstamps="/5FB693D0/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>DAC.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/Balanced_filter_1/" tstamps="/5FCDC65D/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balanced_filter.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/Balanced_filter_2/" tstamps="/5FD26E70/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Balanced_filter.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/Power_amp_2/" tstamps="/5FF36AC7/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power_amp.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/ADC_1/" tstamps="/5FB692EB/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>ADC.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J102">
+      <value>SMA</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132289_EdgeMount</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FB77EC1</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC34F37</tstamp>
+    </comp>
+    <comp ref="C104">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC34F3D</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC3EEAC</tstamp>
+    </comp>
+    <comp ref="C105">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC3EEB6</tstamp>
+    </comp>
+    <comp ref="C106">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC95397</tstamp>
+    </comp>
+    <comp ref="C108">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC957A8</tstamp>
+    </comp>
+    <comp ref="J103">
+      <value>Conn_02x20_Top_Bottom</value>
+      <footprint>Connector_PinHeader_1.00mm:PinHeader_2x20_P1.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x20_Odd_Even" description="Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FCF0FC8</tstamp>
+    </comp>
+    <comp ref="R103">
+      <value>10</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE17101</tstamp>
+    </comp>
+    <comp ref="C107">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE1710B</tstamp>
+    </comp>
+    <comp ref="J101">
+      <value>SMA</value>
+      <footprint>Connector_Coaxial:SMA_Amphenol_132289_EdgeMount</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FB5AC18</tstamp>
+    </comp>
+    <comp ref="C101">
+      <value>1.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/15-pf-41602</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE569B6</tstamp>
+    </comp>
+    <comp ref="C103">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE569C7</tstamp>
+    </comp>
+    <comp ref="C102">
+      <value>1.5p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/15-pf-41602</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FE569CD</tstamp>
+    </comp>
+    <comp ref="C109">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0774D</tstamp>
+    </comp>
+    <comp ref="C111">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC0F82D</tstamp>
+    </comp>
+    <comp ref="C110">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC46D72</tstamp>
+    </comp>
+    <comp ref="C112">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FC77950</tstamp>
+    </comp>
+    <comp ref="J104">
+      <value>Conn_02x20_Top_Bottom</value>
+      <footprint>Connector_PinHeader_1.00mm:PinHeader_2x20_P1.00mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_02x20_Odd_Even" description="Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FDB26F4</tstamp>
+    </comp>
+    <comp ref="C218">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FC3BD7E</tstamp>
+    </comp>
+    <comp ref="C216">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FC38B26</tstamp>
+    </comp>
+    <comp ref="C217">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FC30491</tstamp>
+    </comp>
+    <comp ref="C213">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FC494DA</tstamp>
+    </comp>
+    <comp ref="R203">
+      <value>15</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBEB72C</tstamp>
+    </comp>
+    <comp ref="C214">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/10-nf-1206-41657</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FCBB298</tstamp>
+    </comp>
+    <comp ref="C212">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FCAE880</tstamp>
+    </comp>
+    <comp ref="C215">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/10-nf-1206-41657</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBF5E6F</tstamp>
+    </comp>
+    <comp ref="C204">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FB37060</tstamp>
+    </comp>
+    <comp ref="D201">
+      <value>LTC6946</value>
+      <footprint>Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias</footprint>
+      <datasheet>https://www.analog.com/media/en/technical-documentation/data-sheets/6946fb.pdf</datasheet>
+      <libsource lib="_SDR" part="LTC6946" description="ГУН с ФАПЧ"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>6018A42E</tstamp>
+    </comp>
+    <comp ref="X201">
+      <value>XO91</value>
+      <footprint>Oscillator:Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm</footprint>
+      <datasheet>http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf</datasheet>
+      <libsource lib="Oscillator" part="XO91" description="HCMOS Clock Oscillator"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FB9FA1A</tstamp>
+    </comp>
+    <comp ref="C205">
+      <value>4.7n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206------47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBB99ED</tstamp>
+    </comp>
+    <comp ref="C206">
+      <value>56n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----56-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBBA24F</tstamp>
+    </comp>
+    <comp ref="R202">
+      <value>97.6</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBBCE92</tstamp>
+    </comp>
+    <comp ref="C208">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBDEB3D</tstamp>
+    </comp>
+    <comp ref="L201">
+      <value>68n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FC83A2B</tstamp>
+    </comp>
+    <comp ref="L202">
+      <value>68n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FC858EE</tstamp>
+    </comp>
+    <comp ref="C202">
+      <value>10n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/10-nf-1206-41657</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FC94B70</tstamp>
+    </comp>
+    <comp ref="C203">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FCC0409</tstamp>
+    </comp>
+    <comp ref="C209">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBBD3B4</tstamp>
+    </comp>
+    <comp ref="C210">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBCD857</tstamp>
+    </comp>
+    <comp ref="C211">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FC3614B</tstamp>
+    </comp>
+    <comp ref="C201">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBA9C71</tstamp>
+    </comp>
+    <comp ref="R201">
+      <value>51.1</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBAAAFF</tstamp>
+    </comp>
+    <comp ref="C207">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/RF_Generator_1/" tstamps="/5FB9C49B/"/>
+      <tstamp>5FBAF0F7</tstamp>
+    </comp>
+    <comp ref="C303">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Modulator_1/" tstamps="/5FCE03EA/"/>
+      <tstamp>5FCEFC98</tstamp>
+    </comp>
+    <comp ref="C301">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Modulator_1/" tstamps="/5FCE03EA/"/>
+      <tstamp>5FCEFCA2</tstamp>
+    </comp>
+    <comp ref="C305">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Modulator_1/" tstamps="/5FCE03EA/"/>
+      <tstamp>5FD04328</tstamp>
+    </comp>
+    <comp ref="C306">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Modulator_1/" tstamps="/5FCE03EA/"/>
+      <tstamp>5FD0F19A</tstamp>
+    </comp>
+    <comp ref="C307">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Modulator_1/" tstamps="/5FCE03EA/"/>
+      <tstamp>5FB66104</tstamp>
+    </comp>
+    <comp ref="D301">
+      <value>ADL5375</value>
+      <footprint>Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</footprint>
+      <libsource lib="_SDR" part="ADL5375" description="Квадратурный модулятор"/>
+      <sheetpath names="/Modulator_1/" tstamps="/5FCE03EA/"/>
+      <tstamp>6010BB3E</tstamp>
+    </comp>
+    <comp ref="C304">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Modulator_1/" tstamps="/5FCE03EA/"/>
+      <tstamp>6012E772</tstamp>
+    </comp>
+    <comp ref="C302">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Modulator_1/" tstamps="/5FCE03EA/"/>
+      <tstamp>6012E778</tstamp>
+    </comp>
+    <comp ref="U401">
+      <value>BGA2874</value>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering</footprint>
+      <datasheet>https://www.nxp.com/docs/en/data-sheet/BGA2874.pdf</datasheet>
+      <libsource lib="SDR_lib" part="BGA2874" description="Rf amp 750Mhz"/>
+      <sheetpath names="/Amp_int_1/" tstamps="/5FD4CB6C/"/>
+      <tstamp>5FD4D40E</tstamp>
+    </comp>
+    <comp ref="C401">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Amp_int_1/" tstamps="/5FD4CB6C/"/>
+      <tstamp>5FD4EA85</tstamp>
+    </comp>
+    <comp ref="C402">
+      <value>22n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/22-nf-41640</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Amp_int_1/" tstamps="/5FD4CB6C/"/>
+      <tstamp>5FD50ACB</tstamp>
+    </comp>
+    <comp ref="C403">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Amp_int_1/" tstamps="/5FD4CB6C/"/>
+      <tstamp>5FD5245A</tstamp>
+    </comp>
+    <comp ref="L503">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB73CA4</tstamp>
+    </comp>
+    <comp ref="C503">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB7B875</tstamp>
+    </comp>
+    <comp ref="L504">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB7D49D</tstamp>
+    </comp>
+    <comp ref="C505">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB83367</tstamp>
+    </comp>
+    <comp ref="C501">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/10-pf-41608</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FC47BAF</tstamp>
+    </comp>
+    <comp ref="C507">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/10-pf-41608</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FC4C7AA</tstamp>
+    </comp>
+    <comp ref="C502">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/120-pf-41623</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB7F6E8</tstamp>
+    </comp>
+    <comp ref="C506">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/120-pf-41623</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB83371</tstamp>
+    </comp>
+    <comp ref="C504">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB7BD84</tstamp>
+    </comp>
+    <comp ref="L502">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB7373C</tstamp>
+    </comp>
+    <comp ref="L501">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>5FB72A91</tstamp>
+    </comp>
+    <comp ref="L505">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>6021197A</tstamp>
+    </comp>
+    <comp ref="L507">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>602121D4</tstamp>
+    </comp>
+    <comp ref="L509">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>60212A2B</tstamp>
+    </comp>
+    <comp ref="L510">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>60213192</tstamp>
+    </comp>
+    <comp ref="L506">
+      <value>20n</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqw18an20nj00d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>6021BFEE</tstamp>
+    </comp>
+    <comp ref="L508">
+      <value>20n</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqw18an20nj00d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_1/" tstamps="/5FB17334/"/>
+      <tstamp>6021C909</tstamp>
+    </comp>
+    <comp ref="L603">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB73CA4</tstamp>
+    </comp>
+    <comp ref="C603">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB7B875</tstamp>
+    </comp>
+    <comp ref="L604">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB7D49D</tstamp>
+    </comp>
+    <comp ref="C605">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB83367</tstamp>
+    </comp>
+    <comp ref="C601">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/10-pf-41608</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FC47BAF</tstamp>
+    </comp>
+    <comp ref="C607">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/10-pf-41608</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FC4C7AA</tstamp>
+    </comp>
+    <comp ref="C602">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/120-pf-41623</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB7F6E8</tstamp>
+    </comp>
+    <comp ref="C606">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/120-pf-41623</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB83371</tstamp>
+    </comp>
+    <comp ref="C604">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB7BD84</tstamp>
+    </comp>
+    <comp ref="L602">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB7373C</tstamp>
+    </comp>
+    <comp ref="L601">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>5FB72A91</tstamp>
+    </comp>
+    <comp ref="L605">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>6021197A</tstamp>
+    </comp>
+    <comp ref="L607">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>602121D4</tstamp>
+    </comp>
+    <comp ref="L609">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>60212A2B</tstamp>
+    </comp>
+    <comp ref="L610">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>60213192</tstamp>
+    </comp>
+    <comp ref="L606">
+      <value>20n</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqw18an20nj00d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>6021BFEE</tstamp>
+    </comp>
+    <comp ref="L608">
+      <value>20n</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqw18an20nj00d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Int_filter_2/" tstamps="/5FB5DB09/"/>
+      <tstamp>6021C909</tstamp>
+    </comp>
+    <comp ref="C702">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power_amp_1/" tstamps="/5FC50738/"/>
+      <tstamp>5FC56240</tstamp>
+    </comp>
+    <comp ref="C701">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power_amp_1/" tstamps="/5FC50738/"/>
+      <tstamp>5FC56267</tstamp>
+    </comp>
+    <comp ref="L701">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Power_amp_1/" tstamps="/5FC50738/"/>
+      <tstamp>5FC7420C</tstamp>
+    </comp>
+    <comp ref="DA701">
+      <value>AVT-55689</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3_Handsoldering</footprint>
+      <datasheet>https://cdn1.components.ru/174/210174.pdf</datasheet>
+      <libsource lib="SDR_lib" part="AVT-55689" description="Rf power amp"/>
+      <sheetpath names="/Power_amp_1/" tstamps="/5FC50738/"/>
+      <tstamp>5FC790F2</tstamp>
+    </comp>
+    <comp ref="U801">
+      <value>BGA2874</value>
+      <footprint>Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering</footprint>
+      <datasheet>https://www.nxp.com/docs/en/data-sheet/BGA2874.pdf</datasheet>
+      <libsource lib="SDR_lib" part="BGA2874" description="Rf amp 750Mhz"/>
+      <sheetpath names="/Amp_int_2/" tstamps="/5FCDE39D/"/>
+      <tstamp>5FD4D40E</tstamp>
+    </comp>
+    <comp ref="C801">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Amp_int_2/" tstamps="/5FCDE39D/"/>
+      <tstamp>5FD4EA85</tstamp>
+    </comp>
+    <comp ref="C802">
+      <value>22n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/22-nf-41640</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Amp_int_2/" tstamps="/5FCDE39D/"/>
+      <tstamp>5FD50ACB</tstamp>
+    </comp>
+    <comp ref="C803">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Amp_int_2/" tstamps="/5FCDE39D/"/>
+      <tstamp>5FD5245A</tstamp>
+    </comp>
+    <comp ref="U901">
+      <value>LD1117S33TR_SOT223</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LD1117S33TR_SOT223" description="800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB9129F</tstamp>
+    </comp>
+    <comp ref="U902">
+      <value>LD1117S25TR_SOT223</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000544.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="LD1117S25TR_SOT223" description="800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 2.5V, SOT-223"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB92F43</tstamp>
+    </comp>
+    <comp ref="C902">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB9952D</tstamp>
+    </comp>
+    <comp ref="C903">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB99A3F</tstamp>
+    </comp>
+    <comp ref="C905">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB99DB8</tstamp>
+    </comp>
+    <comp ref="C906">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x5.4</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB9B3DB</tstamp>
+    </comp>
+    <comp ref="C907">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x5.4</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB9BEE7</tstamp>
+    </comp>
+    <comp ref="C904">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB9A0BA</tstamp>
+    </comp>
+    <comp ref="C901">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:CP_Elec_4x5.4</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP" description="Polarized capacitor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FB9F92C</tstamp>
+    </comp>
+    <comp ref="R902">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FBA0754</tstamp>
+    </comp>
+    <comp ref="R903">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FBA14F4</tstamp>
+    </comp>
+    <comp ref="D902">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FBA2141</tstamp>
+    </comp>
+    <comp ref="D903">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FBA3322</tstamp>
+    </comp>
+    <comp ref="R901">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FBA7BEE</tstamp>
+    </comp>
+    <comp ref="D901">
+      <value>LED</value>
+      <footprint>Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/Power/" tstamps="/5FCE96D4/"/>
+      <tstamp>5FBA7BF4</tstamp>
+    </comp>
+    <comp ref="C1001">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_1/" tstamps="/5FB5214A/"/>
+      <tstamp>5FB53D83</tstamp>
+    </comp>
+    <comp ref="C1002">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_1/" tstamps="/5FB5214A/"/>
+      <tstamp>5FB53D8F</tstamp>
+    </comp>
+    <comp ref="R1001">
+      <value>4.7К</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_1/" tstamps="/5FB5214A/"/>
+      <tstamp>5FB53D89</tstamp>
+    </comp>
+    <comp ref="U1001">
+      <value>BGU7003W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-886</footprint>
+      <datasheet>https://www.nxp.com/docs/en/data-sheet/BGU7003W.pdf</datasheet>
+      <libsource lib="SDR_lib" part="BGU7003W" description="Rf amp 6Ghz"/>
+      <sheetpath names="/low_noise_amp_1/" tstamps="/5FB5214A/"/>
+      <tstamp>5FB53D7D</tstamp>
+    </comp>
+    <comp ref="R1003">
+      <value>180</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_1/" tstamps="/5FB5214A/"/>
+      <tstamp>5FB87796</tstamp>
+    </comp>
+    <comp ref="C1004">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_1/" tstamps="/5FB5214A/"/>
+      <tstamp>5FB8BC1E</tstamp>
+    </comp>
+    <comp ref="R1002">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_1/" tstamps="/5FB5214A/"/>
+      <tstamp>5FB8E3CD</tstamp>
+    </comp>
+    <comp ref="C1003">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_1/" tstamps="/5FB5214A/"/>
+      <tstamp>5FB8EC70</tstamp>
+    </comp>
+    <comp ref="C1101">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_2/" tstamps="/5FE93DF4/"/>
+      <tstamp>5FB53D83</tstamp>
+    </comp>
+    <comp ref="C1102">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_2/" tstamps="/5FE93DF4/"/>
+      <tstamp>5FB53D8F</tstamp>
+    </comp>
+    <comp ref="R1101">
+      <value>4.7К</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_2/" tstamps="/5FE93DF4/"/>
+      <tstamp>5FB53D89</tstamp>
+    </comp>
+    <comp ref="U1101">
+      <value>BGU7003W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-886</footprint>
+      <datasheet>https://www.nxp.com/docs/en/data-sheet/BGU7003W.pdf</datasheet>
+      <libsource lib="SDR_lib" part="BGU7003W" description="Rf amp 6Ghz"/>
+      <sheetpath names="/low_noise_amp_2/" tstamps="/5FE93DF4/"/>
+      <tstamp>5FB53D7D</tstamp>
+    </comp>
+    <comp ref="R1103">
+      <value>180</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_2/" tstamps="/5FE93DF4/"/>
+      <tstamp>5FB87796</tstamp>
+    </comp>
+    <comp ref="C1104">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_2/" tstamps="/5FE93DF4/"/>
+      <tstamp>5FB8BC1E</tstamp>
+    </comp>
+    <comp ref="R1102">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_2/" tstamps="/5FE93DF4/"/>
+      <tstamp>5FB8E3CD</tstamp>
+    </comp>
+    <comp ref="C1103">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_2/" tstamps="/5FE93DF4/"/>
+      <tstamp>5FB8EC70</tstamp>
+    </comp>
+    <comp ref="C1201">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_3/" tstamps="/5FEA0824/"/>
+      <tstamp>5FB53D83</tstamp>
+    </comp>
+    <comp ref="C1202">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_3/" tstamps="/5FEA0824/"/>
+      <tstamp>5FB53D8F</tstamp>
+    </comp>
+    <comp ref="R1201">
+      <value>4.7К</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_3/" tstamps="/5FEA0824/"/>
+      <tstamp>5FB53D89</tstamp>
+    </comp>
+    <comp ref="U1201">
+      <value>BGU7003W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-886</footprint>
+      <datasheet>https://www.nxp.com/docs/en/data-sheet/BGU7003W.pdf</datasheet>
+      <libsource lib="SDR_lib" part="BGU7003W" description="Rf amp 6Ghz"/>
+      <sheetpath names="/low_noise_amp_3/" tstamps="/5FEA0824/"/>
+      <tstamp>5FB53D7D</tstamp>
+    </comp>
+    <comp ref="R1203">
+      <value>180</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_3/" tstamps="/5FEA0824/"/>
+      <tstamp>5FB87796</tstamp>
+    </comp>
+    <comp ref="C1204">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_3/" tstamps="/5FEA0824/"/>
+      <tstamp>5FB8BC1E</tstamp>
+    </comp>
+    <comp ref="R1202">
+      <value>680</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/low_noise_amp_3/" tstamps="/5FEA0824/"/>
+      <tstamp>5FB8E3CD</tstamp>
+    </comp>
+    <comp ref="C1203">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/low_noise_amp_3/" tstamps="/5FEA0824/"/>
+      <tstamp>5FB8EC70</tstamp>
+    </comp>
+    <comp ref="R1301">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/Demodulator_1/" tstamps="/5FD13150/"/>
+      <tstamp>5FD3B05B</tstamp>
+    </comp>
+    <comp ref="C1306">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Demodulator_1/" tstamps="/5FD13150/"/>
+      <tstamp>5FD28B40</tstamp>
+    </comp>
+    <comp ref="C1303">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Demodulator_1/" tstamps="/5FD13150/"/>
+      <tstamp>5FD1AE22</tstamp>
+    </comp>
+    <comp ref="D1301">
+      <value>ADL5380</value>
+      <footprint>Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</footprint>
+      <libsource lib="_SDR" part="ADL5380" description="Квадратурный демодулятор 400-6000 МГц"/>
+      <sheetpath names="/Demodulator_1/" tstamps="/5FD13150/"/>
+      <tstamp>5FB97A7C</tstamp>
+    </comp>
+    <comp ref="C1305">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Demodulator_1/" tstamps="/5FD13150/"/>
+      <tstamp>5FBB147E</tstamp>
+    </comp>
+    <comp ref="C1302">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Demodulator_1/" tstamps="/5FD13150/"/>
+      <tstamp>5FBB1484</tstamp>
+    </comp>
+    <comp ref="C1304">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Demodulator_1/" tstamps="/5FD13150/"/>
+      <tstamp>5FBB53C4</tstamp>
+    </comp>
+    <comp ref="C1301">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Demodulator_1/" tstamps="/5FD13150/"/>
+      <tstamp>5FBB53CA</tstamp>
+    </comp>
+    <comp ref="C1503">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DAC_1/" tstamps="/5FB693D0/"/>
+      <tstamp>5FED5D0A</tstamp>
+    </comp>
+    <comp ref="R1501">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DAC_1/" tstamps="/5FB693D0/"/>
+      <tstamp>5FEE92EB</tstamp>
+    </comp>
+    <comp ref="R1502">
+      <value>1.5k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/DAC_1/" tstamps="/5FB693D0/"/>
+      <tstamp>5FF00D39</tstamp>
+    </comp>
+    <comp ref="D1502">
+      <value>D_Zener</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.chipdip.ru/product/ad1580art</datasheet>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <sheetpath names="/DAC_1/" tstamps="/5FB693D0/"/>
+      <tstamp>5FF03FD4</tstamp>
+    </comp>
+    <comp ref="C1501">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DAC_1/" tstamps="/5FB693D0/"/>
+      <tstamp>5FF0A9B2</tstamp>
+    </comp>
+    <comp ref="C1502">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DAC_1/" tstamps="/5FB693D0/"/>
+      <tstamp>5FF122D1</tstamp>
+    </comp>
+    <comp ref="D1501">
+      <value>ADV7123</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <libsource lib="_SDR" part="ADV7123" description="Быстродействующий ЦАП 140 МГц"/>
+      <sheetpath names="/DAC_1/" tstamps="/5FB693D0/"/>
+      <tstamp>5FD8EBE9</tstamp>
+    </comp>
+    <comp ref="C1504">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/DAC_1/" tstamps="/5FB693D0/"/>
+      <tstamp>5FF1870A</tstamp>
+    </comp>
+    <comp ref="L1601">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE042E</tstamp>
+    </comp>
+    <comp ref="L1605">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE0434</tstamp>
+    </comp>
+    <comp ref="L1610">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FD65F13</tstamp>
+    </comp>
+    <comp ref="C1605">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE0440</tstamp>
+    </comp>
+    <comp ref="L1613">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE0446</tstamp>
+    </comp>
+    <comp ref="C1609">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE044C</tstamp>
+    </comp>
+    <comp ref="C1601">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/10-pf-41608</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE045C</tstamp>
+    </comp>
+    <comp ref="C1613">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/10-pf-41608</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE0462</tstamp>
+    </comp>
+    <comp ref="C1603">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/120-pf-41623</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE046E</tstamp>
+    </comp>
+    <comp ref="C1611">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/120-pf-41623</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE0480</tstamp>
+    </comp>
+    <comp ref="C1607">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCE0486</tstamp>
+    </comp>
+    <comp ref="L1603">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCEA439</tstamp>
+    </comp>
+    <comp ref="L1615">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCECB7D</tstamp>
+    </comp>
+    <comp ref="L1611">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCED9A5</tstamp>
+    </comp>
+    <comp ref="L1607">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>5FCEE23F</tstamp>
+    </comp>
+    <comp ref="L1501">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hs10nj02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>6022EEBB</tstamp>
+    </comp>
+    <comp ref="L1503">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hs10nj02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>6022FE97</tstamp>
+    </comp>
+    <comp ref="L1504">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hs10nj02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>6023075C</tstamp>
+    </comp>
+    <comp ref="L1502">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hs10nj02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_1/" tstamps="/5FCDC65D/"/>
+      <tstamp>6023119E</tstamp>
+    </comp>
+    <comp ref="L1701">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE042E</tstamp>
+    </comp>
+    <comp ref="L1705">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE0434</tstamp>
+    </comp>
+    <comp ref="L1710">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FD65F13</tstamp>
+    </comp>
+    <comp ref="C1705">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE0440</tstamp>
+    </comp>
+    <comp ref="L1713">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE0446</tstamp>
+    </comp>
+    <comp ref="C1709">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE044C</tstamp>
+    </comp>
+    <comp ref="C1701">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/10-pf-41608</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE045C</tstamp>
+    </comp>
+    <comp ref="C1713">
+      <value>10p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/10-pf-41608</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE0462</tstamp>
+    </comp>
+    <comp ref="C1703">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/120-pf-41623</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE046E</tstamp>
+    </comp>
+    <comp ref="C1711">
+      <value>120p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/120-pf-41623</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE0480</tstamp>
+    </comp>
+    <comp ref="C1707">
+      <value>200p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/200-pf-41626</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCE0486</tstamp>
+    </comp>
+    <comp ref="L1703">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCEA439</tstamp>
+    </comp>
+    <comp ref="L1715">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCECB7D</tstamp>
+    </comp>
+    <comp ref="L1711">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCED9A5</tstamp>
+    </comp>
+    <comp ref="L1707">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>5FCEE23F</tstamp>
+    </comp>
+    <comp ref="L1602">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hs10nj02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>6022EEBB</tstamp>
+    </comp>
+    <comp ref="L1606">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hs10nj02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>6022FE97</tstamp>
+    </comp>
+    <comp ref="L1608">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hs10nj02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>6023075C</tstamp>
+    </comp>
+    <comp ref="L1604">
+      <value>10n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hs10nj02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Balanced_filter_2/" tstamps="/5FD26E70/"/>
+      <tstamp>6023119E</tstamp>
+    </comp>
+    <comp ref="C1802">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power_amp_2/" tstamps="/5FF36AC7/"/>
+      <tstamp>5FC56240</tstamp>
+    </comp>
+    <comp ref="C1801">
+      <value>330p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/Power_amp_2/" tstamps="/5FF36AC7/"/>
+      <tstamp>5FC56267</tstamp>
+    </comp>
+    <comp ref="L1801">
+      <value>120n</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder</footprint>
+      <datasheet>https://www.chipdip.ru/product/lqg15hnr12j02d</datasheet>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <sheetpath names="/Power_amp_2/" tstamps="/5FF36AC7/"/>
+      <tstamp>5FC7420C</tstamp>
+    </comp>
+    <comp ref="DA1801">
+      <value>AVT-55689</value>
+      <footprint>Package_TO_SOT_SMD:SOT-89-3_Handsoldering</footprint>
+      <datasheet>https://cdn1.components.ru/174/210174.pdf</datasheet>
+      <libsource lib="SDR_lib" part="AVT-55689" description="Rf power amp"/>
+      <sheetpath names="/Power_amp_2/" tstamps="/5FF36AC7/"/>
+      <tstamp>5FC790F2</tstamp>
+    </comp>
+    <comp ref="C1401">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FB724CF</tstamp>
+    </comp>
+    <comp ref="C1402">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FB70984</tstamp>
+    </comp>
+    <comp ref="C1405">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FB6F5EF</tstamp>
+    </comp>
+    <comp ref="C1403">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FBBE54D</tstamp>
+    </comp>
+    <comp ref="C1406">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FBBE557</tstamp>
+    </comp>
+    <comp ref="C1409">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FBBE561</tstamp>
+    </comp>
+    <comp ref="C1408">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FB6C414</tstamp>
+    </comp>
+    <comp ref="C1404">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FCD8E40</tstamp>
+    </comp>
+    <comp ref="C1407">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <datasheet>https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FCD0E9B</tstamp>
+    </comp>
+    <comp ref="D1401">
+      <value>AD9288</value>
+      <footprint>Package_QFP:LQFP-48_7x7mm_P0.5mm</footprint>
+      <libsource lib="_SDR" part="AD9288" description="Конвейерный АЦП 100 MSmp"/>
+      <sheetpath names="/ADC_1/" tstamps="/5FB692EB/"/>
+      <tstamp>5FCAB94B</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x20_Odd_Even">
+      <description>Generic connector, double row, 02x20, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x20_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+        <pin num="40" name="Pin_40" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="CP">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Oscillator" part="XO91">
+      <description>HCMOS Clock Oscillator</description>
+      <docs>http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf</docs>
+      <footprints>
+        <fp>Oscillator*SMD*EuroQuartz*XO91*7.0x5.0mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">XO91</field>
+        <field name="Footprint">Oscillator:Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AP1117-15">
+      <aliases>
+        <alias>AP1117-18</alias>
+        <alias>AP1117-25</alias>
+        <alias>AP1117-33</alias>
+        <alias>AP1117-50</alias>
+        <alias>LD1117S33TR_SOT223</alias>
+        <alias>LD1117S12TR_SOT223</alias>
+        <alias>LD1117S18TR_SOT223</alias>
+        <alias>LD1117S25TR_SOT223</alias>
+        <alias>LD1117S50TR_SOT223</alias>
+        <alias>NCP1117-12_SOT223</alias>
+        <alias>NCP1117-1.5_SOT223</alias>
+        <alias>NCP1117-1.8_SOT223</alias>
+        <alias>NCP1117-2.0_SOT223</alias>
+        <alias>NCP1117-2.5_SOT223</alias>
+        <alias>NCP1117-2.85_SOT223</alias>
+        <alias>NCP1117-3.3_SOT223</alias>
+        <alias>NCP1117-5.0_SOT223</alias>
+        <alias>AMS1117-1.5</alias>
+        <alias>AMS1117-1.8</alias>
+        <alias>AMS1117-2.5</alias>
+        <alias>AMS1117-2.85</alias>
+        <alias>AMS1117-3.3</alias>
+        <alias>AMS1117-5.0</alias>
+      </aliases>
+      <description>1A Low Dropout regulator, positive, 1.5V fixed output, SOT-223</description>
+      <docs>http://www.diodes.com/datasheets/AP1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP1117-15</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SDR_lib" part="AVT-55689">
+      <description>Rf power amp</description>
+      <docs>https://cdn1.components.ru/174/210174.pdf</docs>
+      <footprints>
+        <fp>TO?220*StaggerOdd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">DA</field>
+        <field name="Value">AVT-55689</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-89-3_Handsoldering</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="~" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="SDR_lib" part="BGA2874">
+      <description>Rf amp 750Mhz</description>
+      <docs>https://www.nxp.com/docs/en/data-sheet/BGA2874.pdf</docs>
+      <footprints>
+        <fp>TO?220*StaggerOdd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BGA2874</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-363_SC-70-6_Handsoldering</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vcc" type="input"/>
+        <pin num="2" name="GND2" type="power_in"/>
+        <pin num="3" name="~" type="output"/>
+        <pin num="4" name="GND1" type="input"/>
+        <pin num="5" name="GND2" type="power_in"/>
+        <pin num="6" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="SDR_lib" part="BGU7003W">
+      <description>Rf amp 6Ghz</description>
+      <docs>https://www.nxp.com/docs/en/data-sheet/BGU7003W.pdf</docs>
+      <footprints>
+        <fp>TO?220*StaggerOdd*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BGU7003W</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-886</field>
+      </fields>
+      <pins>
+        <pin num="1" name="R_Bi" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="~" type="output"/>
+        <pin num="5" name="EN" type="input"/>
+        <pin num="6" name="Vcc" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="_SDR" part="AD9288">
+      <description>Конвейерный АЦП 100 MSmp</description>
+      <docs>https://www.analog.com/media/en/technical-documentation/data-sheets/AD9288.pdf</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">AD9288</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+      </fields>
+      <pins>
+        <pin num="1,12,16,27,29,32,34,45" name="GND" type="power_in"/>
+        <pin num="2" name="AinA" type="input"/>
+        <pin num="3" name="~AinA" type="input"/>
+        <pin num="4" name="DFS" type="input"/>
+        <pin num="5" name="REFA" type="power_in"/>
+        <pin num="6" name="REFout" type="power_out"/>
+        <pin num="7" name="REFB" type="power_in"/>
+        <pin num="8" name="S1" type="input"/>
+        <pin num="9" name="S2" type="input"/>
+        <pin num="10" name="~AinB" type="input"/>
+        <pin num="11" name="AinB" type="input"/>
+        <pin num="13,30,31,48" name="VD" type="power_in"/>
+        <pin num="14" name="ENCB" type="input"/>
+        <pin num="15,28,33,46" name="VDD" type="power_in"/>
+        <pin num="17" name="D7B" type="output"/>
+        <pin num="18" name="D6B" type="output"/>
+        <pin num="19" name="D5B" type="output"/>
+        <pin num="20" name="D4B" type="output"/>
+        <pin num="21" name="D3B" type="output"/>
+        <pin num="22" name="D2B" type="output"/>
+        <pin num="23" name="D1B" type="output"/>
+        <pin num="24" name="D0B" type="output"/>
+        <pin num="25,26,35,36" name="NC" type="NotConnected"/>
+        <pin num="37" name="D0A" type="output"/>
+        <pin num="38" name="D1A" type="output"/>
+        <pin num="39" name="D2A" type="output"/>
+        <pin num="40" name="D3A" type="output"/>
+        <pin num="41" name="D4A" type="output"/>
+        <pin num="42" name="D5A" type="output"/>
+        <pin num="43" name="D6A" type="output"/>
+        <pin num="44" name="D7A" type="output"/>
+        <pin num="47" name="ENCA" type="input"/>
+        <pin num="~" name="GND" type="power_in"/>
+        <pin num="~_" name="VD" type="power_in"/>
+        <pin num="~__" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="_SDR" part="ADL5375">
+      <description>Квадратурный модулятор</description>
+      <footprints>
+        <fp>Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</fp>
+        <fp>Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ADL5375</field>
+        <field name="Footprint">Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DSOP" type="input"/>
+        <pin num="2,5,8,11,12,14,17,19,20,23" name="COMM" type="power_in"/>
+        <pin num="3" name="LOIP" type="input"/>
+        <pin num="4" name="LOIN" type="input"/>
+        <pin num="6,7,13,15" name="NC" type="NotConnected"/>
+        <pin num="9" name="QBBN" type="input"/>
+        <pin num="10" name="QBBP" type="input"/>
+        <pin num="16" name="RFOUT" type="output"/>
+        <pin num="18" name="VPS1" type="power_in"/>
+        <pin num="21" name="IBBP" type="input"/>
+        <pin num="22" name="IBBN" type="input"/>
+        <pin num="24" name="VPS2" type="power_in"/>
+        <pin num="25" name="EP" type="power_in"/>
+        <pin num="~" name="COMM" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="_SDR" part="ADL5380">
+      <description>Квадратурный демодулятор 400-6000 МГц</description>
+      <footprints>
+        <fp>Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</fp>
+        <fp>Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ADL5380</field>
+        <field name="Footprint">Package_CSP:LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias</field>
+      </fields>
+      <pins>
+        <pin num="1,18,20,23" name="GND3" type="power_in"/>
+        <pin num="2,5" name="GND1" type="power_in"/>
+        <pin num="3" name="IHI" type="output"/>
+        <pin num="4" name="ILO" type="output"/>
+        <pin num="6" name="VCC1" type="power_in"/>
+        <pin num="7" name="ENBL" type="input"/>
+        <pin num="8,11" name="GND4" type="power_in"/>
+        <pin num="9" name="LOIP" type="input"/>
+        <pin num="10" name="LOIN" type="input"/>
+        <pin num="12" name="NC" type="NotConnected"/>
+        <pin num="13" name="VCC2" type="power_in"/>
+        <pin num="14,17" name="GND2" type="power_in"/>
+        <pin num="15" name="QHI" type="output"/>
+        <pin num="16" name="QLO" type="output"/>
+        <pin num="19" name="ADJ" type="passive"/>
+        <pin num="21" name="RFIN" type="input"/>
+        <pin num="22" name="RFIP" type="input"/>
+        <pin num="24" name="VCC3" type="power_in"/>
+        <pin num="25" name="EP" type="power_in"/>
+        <pin num="~" name="GND1" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="_SDR" part="ADV7123">
+      <description>Быстродействующий ЦАП 140 МГц</description>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ADV7123</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G0" type="input"/>
+        <pin num="2" name="G1" type="input"/>
+        <pin num="3" name="G2" type="input"/>
+        <pin num="4" name="G3" type="input"/>
+        <pin num="5" name="G4" type="input"/>
+        <pin num="6" name="G5" type="input"/>
+        <pin num="7" name="G6" type="input"/>
+        <pin num="8" name="G7" type="input"/>
+        <pin num="9" name="G8" type="input"/>
+        <pin num="10" name="G9" type="input"/>
+        <pin num="11" name="~BLANK" type="input"/>
+        <pin num="12" name="~SYNC" type="input"/>
+        <pin num="13,29,30" name="VAA" type="power_in"/>
+        <pin num="14" name="B0" type="input"/>
+        <pin num="15" name="B1" type="input"/>
+        <pin num="16" name="B2" type="input"/>
+        <pin num="17" name="B3" type="input"/>
+        <pin num="18" name="B4" type="input"/>
+        <pin num="19" name="B5" type="input"/>
+        <pin num="20" name="B6" type="input"/>
+        <pin num="21" name="B7" type="input"/>
+        <pin num="22" name="B8" type="input"/>
+        <pin num="23" name="B9" type="input"/>
+        <pin num="24" name="CLOCK" type="input"/>
+        <pin num="25,26" name="GND" type="power_in"/>
+        <pin num="27" name="~IOB" type="output"/>
+        <pin num="28" name="IOB" type="output"/>
+        <pin num="31" name="~IOG" type="output"/>
+        <pin num="32" name="IOG" type="output"/>
+        <pin num="33" name="~IOR" type="output"/>
+        <pin num="34" name="IOR" type="output"/>
+        <pin num="35" name="COMP" type="passive"/>
+        <pin num="36" name="Vref" type="power_out"/>
+        <pin num="37" name="Rset" type="passive"/>
+        <pin num="38" name="~PSAVE" type="input"/>
+        <pin num="39" name="R0" type="input"/>
+        <pin num="40" name="R1" type="input"/>
+        <pin num="41" name="R2" type="input"/>
+        <pin num="42" name="R3" type="input"/>
+        <pin num="43" name="R4" type="input"/>
+        <pin num="44" name="R5" type="input"/>
+        <pin num="45" name="R6" type="input"/>
+        <pin num="46" name="R7" type="input"/>
+        <pin num="47" name="R8" type="input"/>
+        <pin num="48" name="R9" type="input"/>
+        <pin num="~" name="GND" type="power_in"/>
+        <pin num="~~" name="VAA" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="_SDR" part="LTC6946">
+      <description>ГУН с ФАПЧ</description>
+      <footprints>
+        <fp>Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias</fp>
+        <fp>Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LTC6946</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vrefo" type="power_in"/>
+        <pin num="2" name="REFO" type="output"/>
+        <pin num="3" name="STAT" type="output"/>
+        <pin num="4" name="~CS" type="input"/>
+        <pin num="5" name="SCLK" type="input"/>
+        <pin num="6" name="SDI" type="input"/>
+        <pin num="7" name="SDO" type="output"/>
+        <pin num="8" name="Vd" type="power_in"/>
+        <pin num="9" name="~MUTE" type="input"/>
+        <pin num="11" name="~RF" type="output"/>
+        <pin num="12" name="RF" type="output"/>
+        <pin num="13" name="Vrf" type="power_in"/>
+        <pin num="14" name="BB" type="passive"/>
+        <pin num="15" name="TUNE" type="input"/>
+        <pin num="16" name="TB" type="passive"/>
+        <pin num="18" name="CMc" type="passive"/>
+        <pin num="19" name="CMb" type="passive"/>
+        <pin num="20" name="CMa" type="passive"/>
+        <pin num="22" name="Vvco" type="power_in"/>
+        <pin num="23,21,17,10" name="GND" type="power_in"/>
+        <pin num="24" name="Vcp" type="power_in"/>
+        <pin num="25" name="CP" type="output"/>
+        <pin num="26" name="Vref" type="power_in"/>
+        <pin num="27" name="REF" type="passive"/>
+        <pin num="28" name="~REF" type="passive"/>
+        <pin num="~" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>D:\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>D:\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Oscillator">
+      <uri>D:\KiCad\share\kicad\library/Oscillator.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>D:\KiCad\share\kicad\library/Regulator_Linear.lib</uri>
+    </library>
+    <library logical="SDR_lib">
+      <uri>D:\Git\Kursach_7\PCB\SDR/SDR_lib.lib</uri>
+    </library>
+    <library logical="_SDR">
+      <uri>D:\Git\Kursach_7\PCB\SDR/_SDR.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C214" pin="1"/>
+      <node ref="C217" pin="1"/>
+      <node ref="U901" pin="2"/>
+      <node ref="J104" pin="2"/>
+      <node ref="C202" pin="1"/>
+      <node ref="L202" pin="1"/>
+      <node ref="L201" pin="1"/>
+      <node ref="D201" pin="1"/>
+      <node ref="D201" pin="13"/>
+      <node ref="X201" pin="1"/>
+      <node ref="X201" pin="4"/>
+      <node ref="D201" pin="26"/>
+      <node ref="D201" pin="8"/>
+      <node ref="C216" pin="1"/>
+      <node ref="C1401" pin="2"/>
+      <node ref="C1406" pin="2"/>
+      <node ref="C1405" pin="2"/>
+      <node ref="C1403" pin="2"/>
+      <node ref="C1402" pin="2"/>
+      <node ref="D1401" pin="13,30,31,48"/>
+      <node ref="D1401" pin="~_"/>
+      <node ref="D1401" pin="~__"/>
+      <node ref="C1408" pin="2"/>
+      <node ref="D1401" pin="15,28,33,46"/>
+      <node ref="D1501" pin="~~"/>
+      <node ref="R1502" pin="1"/>
+      <node ref="C1503" pin="2"/>
+      <node ref="C1502" pin="1"/>
+      <node ref="D1501" pin="13,29,30"/>
+      <node ref="C213" pin="1"/>
+      <node ref="C1504" pin="1"/>
+      <node ref="C1409" pin="2"/>
+      <node ref="R902" pin="2"/>
+      <node ref="J104" pin="1"/>
+      <node ref="C904" pin="2"/>
+      <node ref="J104" pin="19"/>
+      <node ref="C906" pin="1"/>
+      <node ref="J104" pin="20"/>
+    </net>
+    <net code="2" name="COMM">
+      <node ref="C1406" pin="1"/>
+      <node ref="C1403" pin="1"/>
+      <node ref="C1405" pin="1"/>
+      <node ref="C1204" pin="1"/>
+      <node ref="D1401" pin="1,12,16,27,29,32,34,45"/>
+      <node ref="C1102" pin="1"/>
+      <node ref="C1101" pin="2"/>
+      <node ref="U1101" pin="3"/>
+      <node ref="C1104" pin="1"/>
+      <node ref="D1401" pin="~"/>
+      <node ref="U401" pin="2"/>
+      <node ref="U401" pin="4"/>
+      <node ref="U401" pin="5"/>
+      <node ref="C1301" pin="1"/>
+      <node ref="C1504" pin="2"/>
+      <node ref="C1409" pin="1"/>
+      <node ref="C1306" pin="1"/>
+      <node ref="C1303" pin="1"/>
+      <node ref="D1301" pin="1,18,20,23"/>
+      <node ref="D1301" pin="25"/>
+      <node ref="C1401" pin="1"/>
+      <node ref="C1201" pin="2"/>
+      <node ref="C402" pin="1"/>
+      <node ref="C1402" pin="1"/>
+      <node ref="C1407" pin="2"/>
+      <node ref="C1404" pin="2"/>
+      <node ref="C1408" pin="1"/>
+      <node ref="C503" pin="2"/>
+      <node ref="C505" pin="2"/>
+      <node ref="C1002" pin="1"/>
+      <node ref="J104" pin="12"/>
+      <node ref="C1001" pin="2"/>
+      <node ref="U1001" pin="3"/>
+      <node ref="C1004" pin="1"/>
+      <node ref="C102" pin="2"/>
+      <node ref="C112" pin="1"/>
+      <node ref="C110" pin="2"/>
+      <node ref="C507" pin="2"/>
+      <node ref="C501" pin="2"/>
+      <node ref="C502" pin="2"/>
+      <node ref="C506" pin="2"/>
+      <node ref="C504" pin="2"/>
+      <node ref="C601" pin="2"/>
+      <node ref="U1201" pin="3"/>
+      <node ref="C607" pin="2"/>
+      <node ref="C1202" pin="1"/>
+      <node ref="C1501" pin="2"/>
+      <node ref="C602" pin="2"/>
+      <node ref="C606" pin="2"/>
+      <node ref="C604" pin="2"/>
+      <node ref="DA1801" pin="2"/>
+      <node ref="C603" pin="2"/>
+      <node ref="C605" pin="2"/>
+      <node ref="C207" pin="1"/>
+      <node ref="C202" pin="2"/>
+      <node ref="C209" pin="2"/>
+      <node ref="C210" pin="2"/>
+      <node ref="R201" pin="2"/>
+      <node ref="C211" pin="2"/>
+      <node ref="C904" pin="1"/>
+      <node ref="C205" pin="2"/>
+      <node ref="C905" pin="1"/>
+      <node ref="X201" pin="2"/>
+      <node ref="C906" pin="2"/>
+      <node ref="C907" pin="2"/>
+      <node ref="C215" pin="2"/>
+      <node ref="C902" pin="1"/>
+      <node ref="C901" pin="2"/>
+      <node ref="D301" pin="~"/>
+      <node ref="C302" pin="1"/>
+      <node ref="C304" pin="1"/>
+      <node ref="D301" pin="2,5,8,11,12,14,17,19,20,23"/>
+      <node ref="D301" pin="25"/>
+      <node ref="U901" pin="1"/>
+      <node ref="U902" pin="1"/>
+      <node ref="DA701" pin="2"/>
+      <node ref="C802" pin="1"/>
+      <node ref="U801" pin="5"/>
+      <node ref="U801" pin="4"/>
+      <node ref="U801" pin="2"/>
+      <node ref="C301" pin="1"/>
+      <node ref="C303" pin="1"/>
+      <node ref="C213" pin="2"/>
+      <node ref="D1501" pin="25,26"/>
+      <node ref="C212" pin="1"/>
+      <node ref="C214" pin="2"/>
+      <node ref="D1301" pin="~"/>
+      <node ref="D1301" pin="~"/>
+      <node ref="D1301" pin="8,11"/>
+      <node ref="D1301" pin="2,5"/>
+      <node ref="D1301" pin="~"/>
+      <node ref="C1502" pin="2"/>
+      <node ref="D1301" pin="~"/>
+      <node ref="R1501" pin="2"/>
+      <node ref="C1304" pin="1"/>
+      <node ref="D1502" pin="2"/>
+      <node ref="D1501" pin="~"/>
+      <node ref="D901" pin="1"/>
+      <node ref="C217" pin="2"/>
+      <node ref="D903" pin="1"/>
+      <node ref="D902" pin="1"/>
+      <node ref="C216" pin="2"/>
+      <node ref="D201" pin="~"/>
+      <node ref="C903" pin="1"/>
+      <node ref="D201" pin="23,21,17,10"/>
+      <node ref="C206" pin="2"/>
+      <node ref="C208" pin="2"/>
+      <node ref="C1302" pin="1"/>
+      <node ref="C1305" pin="1"/>
+      <node ref="C218" pin="2"/>
+      <node ref="D1301" pin="14,17"/>
+      <node ref="C111" pin="1"/>
+      <node ref="J103" pin="2"/>
+      <node ref="C106" pin="1"/>
+      <node ref="C109" pin="2"/>
+      <node ref="C108" pin="1"/>
+      <node ref="J103" pin="20"/>
+      <node ref="J104" pin="8"/>
+      <node ref="J104" pin="4"/>
+      <node ref="J104" pin="10"/>
+      <node ref="J104" pin="28"/>
+      <node ref="J104" pin="6"/>
+      <node ref="J104" pin="14"/>
+      <node ref="J104" pin="22"/>
+      <node ref="J104" pin="18"/>
+      <node ref="J101" pin="2"/>
+      <node ref="J104" pin="16"/>
+      <node ref="J102" pin="2"/>
+      <node ref="J104" pin="24"/>
+      <node ref="J104" pin="26"/>
+    </net>
+    <net code="3" name="+5V">
+      <node ref="C1301" pin="2"/>
+      <node ref="C1303" pin="2"/>
+      <node ref="J104" pin="34"/>
+      <node ref="J104" pin="35"/>
+      <node ref="D301" pin="18"/>
+      <node ref="D201" pin="22"/>
+      <node ref="J104" pin="32"/>
+      <node ref="C1304" pin="2"/>
+      <node ref="C901" pin="1"/>
+      <node ref="J104" pin="36"/>
+      <node ref="C1306" pin="2"/>
+      <node ref="U902" pin="3"/>
+      <node ref="U901" pin="3"/>
+      <node ref="D301" pin="24"/>
+      <node ref="R1301" pin="2"/>
+      <node ref="R901" pin="2"/>
+      <node ref="C301" pin="2"/>
+      <node ref="C303" pin="2"/>
+      <node ref="C902" pin="2"/>
+      <node ref="L1801" pin="2"/>
+      <node ref="D1301" pin="13"/>
+      <node ref="R203" pin="1"/>
+      <node ref="C1305" pin="2"/>
+      <node ref="C1302" pin="2"/>
+      <node ref="C304" pin="2"/>
+      <node ref="J104" pin="38"/>
+      <node ref="D1301" pin="24"/>
+      <node ref="J104" pin="37"/>
+      <node ref="C302" pin="2"/>
+      <node ref="C903" pin="2"/>
+      <node ref="L701" pin="2"/>
+      <node ref="J104" pin="40"/>
+      <node ref="C218" pin="1"/>
+      <node ref="D1301" pin="6"/>
+      <node ref="J104" pin="39"/>
+    </net>
+    <net code="4" name="+2V5">
+      <node ref="R903" pin="2"/>
+      <node ref="J104" pin="30"/>
+      <node ref="C907" pin="1"/>
+      <node ref="C905" pin="2"/>
+      <node ref="C1204" pin="2"/>
+      <node ref="R1203" pin="1"/>
+      <node ref="R1101" pin="1"/>
+      <node ref="C1102" pin="2"/>
+      <node ref="R1201" pin="1"/>
+      <node ref="U801" pin="1"/>
+      <node ref="C1202" pin="2"/>
+      <node ref="U1201" pin="6"/>
+      <node ref="C802" pin="2"/>
+      <node ref="U1101" pin="6"/>
+      <node ref="R1001" pin="1"/>
+      <node ref="U902" pin="2"/>
+      <node ref="C1002" pin="2"/>
+      <node ref="U1001" pin="6"/>
+      <node ref="R1003" pin="1"/>
+      <node ref="C1004" pin="2"/>
+      <node ref="R1103" pin="1"/>
+      <node ref="C1104" pin="2"/>
+      <node ref="U401" pin="1"/>
+      <node ref="C402" pin="2"/>
+    </net>
+    <net code="5" name="/Modulator_1/~ENB">
+      <node ref="D301" pin="1"/>
+      <node ref="J104" pin="33"/>
+    </net>
+    <net code="6" name="/Balanced_filter_2/IN2">
+      <node ref="D1501" pin="27"/>
+      <node ref="C1701" pin="2"/>
+      <node ref="C1703" pin="2"/>
+      <node ref="L1703" pin="1"/>
+    </net>
+    <net code="7" name="/Balanced_filter_2/OUT2">
+      <node ref="D301" pin="9"/>
+      <node ref="C1713" pin="2"/>
+      <node ref="L1715" pin="2"/>
+      <node ref="C1711" pin="2"/>
+    </net>
+    <net code="8" name="/Balanced_filter_2/OUT1">
+      <node ref="C1713" pin="1"/>
+      <node ref="C1711" pin="1"/>
+      <node ref="D301" pin="10"/>
+      <node ref="L1713" pin="2"/>
+    </net>
+    <net code="9" name="/RF_Generator_1/STAT">
+      <node ref="J104" pin="15"/>
+      <node ref="D201" pin="3"/>
+    </net>
+    <net code="10" name="/RF_Generator_1/~MUTE">
+      <node ref="J104" pin="17"/>
+      <node ref="D201" pin="9"/>
+    </net>
+    <net code="11" name="/DAC_1/Gout">
+      <node ref="L1601" pin="1"/>
+      <node ref="C1601" pin="1"/>
+      <node ref="D1501" pin="32"/>
+      <node ref="C1603" pin="1"/>
+    </net>
+    <net code="12" name="/Modulator_1/Iin">
+      <node ref="C1611" pin="1"/>
+      <node ref="L1613" pin="2"/>
+      <node ref="C1613" pin="1"/>
+      <node ref="D301" pin="21"/>
+    </net>
+    <net code="13" name="/Balanced_filter_1/IN2">
+      <node ref="L1603" pin="1"/>
+      <node ref="C1603" pin="2"/>
+      <node ref="C1601" pin="2"/>
+      <node ref="D1501" pin="31"/>
+    </net>
+    <net code="14" name="/Balanced_filter_1/OUT2">
+      <node ref="L1615" pin="2"/>
+      <node ref="D301" pin="22"/>
+      <node ref="C1613" pin="2"/>
+      <node ref="C1611" pin="2"/>
+    </net>
+    <net code="15" name="/DAC_1/Bout">
+      <node ref="L1701" pin="1"/>
+      <node ref="C1703" pin="1"/>
+      <node ref="C1701" pin="1"/>
+      <node ref="D1501" pin="28"/>
+    </net>
+    <net code="16" name="/low_noise_amp_1/Ven">
+      <node ref="U1101" pin="5"/>
+      <node ref="U1201" pin="5"/>
+      <node ref="J104" pin="29"/>
+      <node ref="U1001" pin="5"/>
+    </net>
+    <net code="17" name="DB_1">
+      <node ref="D1401" pin="23"/>
+      <node ref="J103" pin="5"/>
+    </net>
+    <net code="18" name="DA_1">
+      <node ref="J103" pin="6"/>
+      <node ref="D1401" pin="38"/>
+    </net>
+    <net code="19" name="/ADC_1/Ain">
+      <node ref="D1401" pin="2"/>
+      <node ref="C403" pin="1"/>
+    </net>
+    <net code="20" name="/ADC_1/~Ain">
+      <node ref="C111" pin="2"/>
+      <node ref="D1401" pin="3"/>
+    </net>
+    <net code="21" name="/ADC_1/~Bin">
+      <node ref="C112" pin="2"/>
+      <node ref="D1401" pin="10"/>
+    </net>
+    <net code="22" name="/Demodulator_1/~ENB">
+      <node ref="J104" pin="31"/>
+      <node ref="D1301" pin="7"/>
+    </net>
+    <net code="23" name="/ADC_1/S2">
+      <node ref="J104" pin="7"/>
+      <node ref="D1401" pin="9"/>
+    </net>
+    <net code="24" name="~CS">
+      <node ref="J104" pin="21"/>
+      <node ref="D201" pin="4"/>
+    </net>
+    <net code="25" name="CLK">
+      <node ref="D201" pin="5"/>
+      <node ref="J104" pin="23"/>
+    </net>
+    <net code="26" name="SDO">
+      <node ref="J104" pin="25"/>
+      <node ref="D201" pin="7"/>
+    </net>
+    <net code="27" name="SDI">
+      <node ref="D201" pin="6"/>
+      <node ref="J104" pin="27"/>
+    </net>
+    <net code="28" name="DB_0">
+      <node ref="D1401" pin="24"/>
+      <node ref="J103" pin="3"/>
+    </net>
+    <net code="31" name="/ADC_1/DFS">
+      <node ref="D1401" pin="4"/>
+      <node ref="J104" pin="3"/>
+    </net>
+    <net code="32" name="/ADC_1/S1">
+      <node ref="D1401" pin="8"/>
+      <node ref="J104" pin="5"/>
+    </net>
+    <net code="33" name="/Modulator_1/RFout">
+      <node ref="C305" pin="1"/>
+      <node ref="C1801" pin="2"/>
+    </net>
+    <net code="34" name="DA_2">
+      <node ref="J103" pin="8"/>
+      <node ref="D1401" pin="39"/>
+    </net>
+    <net code="35" name="DA_3">
+      <node ref="D1401" pin="40"/>
+      <node ref="J103" pin="10"/>
+    </net>
+    <net code="36" name="DA_0">
+      <node ref="D1401" pin="37"/>
+      <node ref="J103" pin="4"/>
+    </net>
+    <net code="37" name="DB_3">
+      <node ref="J103" pin="9"/>
+      <node ref="D1401" pin="21"/>
+    </net>
+    <net code="38" name="DB_2">
+      <node ref="D1401" pin="22"/>
+      <node ref="J103" pin="7"/>
+    </net>
+    <net code="39" name="DA_4">
+      <node ref="D1401" pin="41"/>
+      <node ref="J103" pin="12"/>
+    </net>
+    <net code="40" name="DB_5">
+      <node ref="J103" pin="13"/>
+      <node ref="D1401" pin="19"/>
+    </net>
+    <net code="41" name="DA_5">
+      <node ref="J103" pin="14"/>
+      <node ref="D1401" pin="42"/>
+    </net>
+    <net code="42" name="DB_6">
+      <node ref="D1401" pin="18"/>
+      <node ref="J103" pin="15"/>
+    </net>
+    <net code="43" name="DA_6">
+      <node ref="D1401" pin="43"/>
+      <node ref="J103" pin="16"/>
+    </net>
+    <net code="44" name="DB_7">
+      <node ref="J103" pin="17"/>
+      <node ref="D1401" pin="17"/>
+    </net>
+    <net code="45" name="DA_7">
+      <node ref="J103" pin="18"/>
+      <node ref="D1401" pin="44"/>
+    </net>
+    <net code="46" name="DB_4">
+      <node ref="D1401" pin="20"/>
+      <node ref="J103" pin="11"/>
+    </net>
+    <net code="47" name="DG0">
+      <node ref="J103" pin="21"/>
+      <node ref="D1501" pin="1"/>
+    </net>
+    <net code="48" name="DB0">
+      <node ref="J103" pin="22"/>
+      <node ref="D1501" pin="14"/>
+    </net>
+    <net code="49" name="DG1">
+      <node ref="D1501" pin="2"/>
+      <node ref="J103" pin="23"/>
+    </net>
+    <net code="50" name="DB1">
+      <node ref="J103" pin="24"/>
+      <node ref="D1501" pin="15"/>
+    </net>
+    <net code="51" name="DG2">
+      <node ref="D1501" pin="3"/>
+      <node ref="J103" pin="25"/>
+    </net>
+    <net code="52" name="DB2">
+      <node ref="D1501" pin="16"/>
+      <node ref="J103" pin="26"/>
+    </net>
+    <net code="53" name="DG3">
+      <node ref="D1501" pin="4"/>
+      <node ref="J103" pin="27"/>
+    </net>
+    <net code="54" name="DB3">
+      <node ref="D1501" pin="17"/>
+      <node ref="J103" pin="28"/>
+    </net>
+    <net code="55" name="/ADC_1/ENC_A">
+      <node ref="D1401" pin="47"/>
+      <node ref="D1401" pin="14"/>
+      <node ref="J103" pin="1"/>
+    </net>
+    <net code="56" name="Net-(C107-Pad2)">
+      <node ref="C107" pin="2"/>
+      <node ref="R103" pin="1"/>
+    </net>
+    <net code="57" name="/low_noise_amp_3/RF_out">
+      <node ref="R1202" pin="1"/>
+      <node ref="R1203" pin="2"/>
+      <node ref="U1201" pin="4"/>
+      <node ref="R103" pin="2"/>
+    </net>
+    <net code="58" name="Net-(C101-Pad1)">
+      <node ref="C101" pin="1"/>
+      <node ref="J101" pin="1"/>
+      <node ref="C103" pin="2"/>
+    </net>
+    <net code="59" name="Net-(C101-Pad2)">
+      <node ref="C101" pin="2"/>
+      <node ref="C102" pin="1"/>
+    </net>
+    <net code="60" name="DB7">
+      <node ref="D1501" pin="21"/>
+      <node ref="J103" pin="36"/>
+    </net>
+    <net code="61" name="DG4">
+      <node ref="D1501" pin="5"/>
+      <node ref="J103" pin="29"/>
+    </net>
+    <net code="62" name="DB4">
+      <node ref="J103" pin="30"/>
+      <node ref="D1501" pin="18"/>
+    </net>
+    <net code="63" name="DG5">
+      <node ref="J103" pin="31"/>
+      <node ref="D1501" pin="6"/>
+    </net>
+    <net code="64" name="DB5">
+      <node ref="D1501" pin="19"/>
+      <node ref="J103" pin="32"/>
+    </net>
+    <net code="65" name="DG6">
+      <node ref="D1501" pin="7"/>
+      <node ref="J103" pin="33"/>
+    </net>
+    <net code="66" name="DB6">
+      <node ref="D1501" pin="20"/>
+      <node ref="J103" pin="34"/>
+    </net>
+    <net code="67" name="DG7">
+      <node ref="J103" pin="35"/>
+      <node ref="D1501" pin="8"/>
+    </net>
+    <net code="68" name="DG8">
+      <node ref="D1501" pin="9"/>
+      <node ref="J103" pin="37"/>
+    </net>
+    <net code="69" name="DB8">
+      <node ref="D1501" pin="22"/>
+      <node ref="J103" pin="38"/>
+    </net>
+    <net code="70" name="DG9">
+      <node ref="J103" pin="39"/>
+      <node ref="D1501" pin="10"/>
+    </net>
+    <net code="71" name="DB9">
+      <node ref="D1501" pin="23"/>
+      <node ref="J103" pin="40"/>
+    </net>
+    <net code="72" name="Net-(C105-Pad2)">
+      <node ref="R102" pin="1"/>
+      <node ref="C105" pin="2"/>
+    </net>
+    <net code="73" name="Net-(C104-Pad2)">
+      <node ref="R101" pin="1"/>
+      <node ref="C104" pin="2"/>
+    </net>
+    <net code="74" name="/low_noise_amp_1/RF_out">
+      <node ref="R1002" pin="1"/>
+      <node ref="R101" pin="2"/>
+      <node ref="R1003" pin="2"/>
+      <node ref="U1001" pin="4"/>
+    </net>
+    <net code="75" name="/low_noise_amp_2/Rf_in">
+      <node ref="C1103" pin="2"/>
+      <node ref="C104" pin="1"/>
+      <node ref="U1101" pin="2"/>
+    </net>
+    <net code="76" name="/low_noise_amp_2/RF_out">
+      <node ref="U1101" pin="4"/>
+      <node ref="R1102" pin="1"/>
+      <node ref="R1103" pin="2"/>
+      <node ref="R102" pin="2"/>
+    </net>
+    <net code="77" name="/low_noise_amp_3/Rf_in">
+      <node ref="U1201" pin="2"/>
+      <node ref="C105" pin="1"/>
+      <node ref="C1203" pin="2"/>
+    </net>
+    <net code="78" name="/Power_amp_2/RF_out">
+      <node ref="C701" pin="2"/>
+      <node ref="C1802" pin="1"/>
+    </net>
+    <net code="79" name="/Power_amp_1/RF_out">
+      <node ref="J102" pin="1"/>
+      <node ref="C702" pin="1"/>
+    </net>
+    <net code="81" name="/Int_filter_1/OUT1">
+      <node ref="C506" pin="1"/>
+      <node ref="C507" pin="1"/>
+      <node ref="C401" pin="2"/>
+      <node ref="L510" pin="2"/>
+    </net>
+    <net code="82" name="/Int_filter_2/OUT1">
+      <node ref="C801" pin="2"/>
+      <node ref="C607" pin="1"/>
+      <node ref="L610" pin="2"/>
+      <node ref="C606" pin="1"/>
+    </net>
+    <net code="83" name="/Demodulator_1/~LOin">
+      <node ref="C307" pin="2"/>
+      <node ref="D1301" pin="10"/>
+      <node ref="C204" pin="2"/>
+    </net>
+    <net code="84" name="/DAC_1/Rout">
+      <node ref="D1501" pin="34"/>
+    </net>
+    <net code="88" name="/DAC_1/~PSAVE">
+      <node ref="D1501" pin="38"/>
+      <node ref="J104" pin="9"/>
+    </net>
+    <net code="89" name="/DAC_1/~SYNC">
+      <node ref="D1501" pin="12"/>
+      <node ref="J104" pin="11"/>
+    </net>
+    <net code="90" name="/DAC_1/~BLANK">
+      <node ref="J104" pin="13"/>
+      <node ref="D1501" pin="11"/>
+    </net>
+    <net code="91" name="/DAC_1/~Rout">
+      <node ref="D1501" pin="33"/>
+    </net>
+    <net code="92" name="/ADC_1/Bin">
+      <node ref="D1401" pin="11"/>
+      <node ref="C803" pin="1"/>
+    </net>
+    <net code="93" name="/DAC_1/CLOCK">
+      <node ref="J103" pin="19"/>
+      <node ref="D1501" pin="24"/>
+    </net>
+    <net code="94" name="/Demodulator_1/LOin">
+      <node ref="D1301" pin="9"/>
+      <node ref="C306" pin="2"/>
+      <node ref="C203" pin="2"/>
+    </net>
+    <net code="95" name="/low_noise_amp_1/Rf_in">
+      <node ref="C103" pin="1"/>
+      <node ref="U1001" pin="2"/>
+      <node ref="C1003" pin="2"/>
+    </net>
+    <net code="96" name="/Int_filter_2/IN1">
+      <node ref="L601" pin="1"/>
+      <node ref="D1301" pin="15"/>
+      <node ref="C601" pin="1"/>
+      <node ref="C602" pin="1"/>
+    </net>
+    <net code="97" name="/Demodulator_1/~Iout">
+      <node ref="C109" pin="1"/>
+      <node ref="D1301" pin="4"/>
+    </net>
+    <net code="98" name="/Demodulator_1/~Qout">
+      <node ref="D1301" pin="16"/>
+      <node ref="C110" pin="1"/>
+    </net>
+    <net code="99" name="/Int_filter_1/IN1">
+      <node ref="C502" pin="1"/>
+      <node ref="L501" pin="1"/>
+      <node ref="D1301" pin="3"/>
+      <node ref="C501" pin="1"/>
+    </net>
+    <net code="100" name="/Demodulator_1/RFin">
+      <node ref="C107" pin="1"/>
+      <node ref="D1301" pin="22"/>
+    </net>
+    <net code="101" name="/Demodulator_1/~RFin">
+      <node ref="D1301" pin="21"/>
+      <node ref="C108" pin="2"/>
+      <node ref="C106" pin="2"/>
+    </net>
+    <net code="102" name="Net-(C504-Pad1)">
+      <node ref="C504" pin="1"/>
+      <node ref="L503" pin="1"/>
+      <node ref="L507" pin="2"/>
+    </net>
+    <net code="103" name="Net-(L503-Pad2)">
+      <node ref="L503" pin="2"/>
+      <node ref="L508" pin="1"/>
+    </net>
+    <net code="104" name="Net-(L508-Pad2)">
+      <node ref="L509" pin="1"/>
+      <node ref="L508" pin="2"/>
+    </net>
+    <net code="105" name="Net-(L506-Pad2)">
+      <node ref="L507" pin="1"/>
+      <node ref="L506" pin="2"/>
+    </net>
+    <net code="106" name="Net-(L502-Pad2)">
+      <node ref="L502" pin="2"/>
+      <node ref="L506" pin="1"/>
+    </net>
+    <net code="107" name="Net-(L501-Pad2)">
+      <node ref="L501" pin="2"/>
+      <node ref="L505" pin="1"/>
+    </net>
+    <net code="108" name="Net-(C503-Pad1)">
+      <node ref="C503" pin="1"/>
+      <node ref="L505" pin="2"/>
+      <node ref="L502" pin="1"/>
+    </net>
+    <net code="109" name="Net-(C505-Pad1)">
+      <node ref="L504" pin="1"/>
+      <node ref="L509" pin="2"/>
+      <node ref="C505" pin="1"/>
+    </net>
+    <net code="110" name="Net-(L504-Pad2)">
+      <node ref="L510" pin="1"/>
+      <node ref="L504" pin="2"/>
+    </net>
+    <net code="111" name="Net-(C1001-Pad1)">
+      <node ref="C1001" pin="1"/>
+      <node ref="R1001" pin="2"/>
+      <node ref="U1001" pin="1"/>
+    </net>
+    <net code="112" name="Net-(C1003-Pad1)">
+      <node ref="R1002" pin="2"/>
+      <node ref="C1003" pin="1"/>
+    </net>
+    <net code="113" name="Net-(L604-Pad2)">
+      <node ref="L604" pin="2"/>
+      <node ref="L610" pin="1"/>
+    </net>
+    <net code="114" name="Net-(L602-Pad2)">
+      <node ref="L602" pin="2"/>
+      <node ref="L606" pin="1"/>
+    </net>
+    <net code="115" name="Net-(L606-Pad2)">
+      <node ref="L607" pin="1"/>
+      <node ref="L606" pin="2"/>
+    </net>
+    <net code="116" name="Net-(L603-Pad2)">
+      <node ref="L608" pin="1"/>
+      <node ref="L603" pin="2"/>
+    </net>
+    <net code="117" name="Net-(L608-Pad2)">
+      <node ref="L609" pin="1"/>
+      <node ref="L608" pin="2"/>
+    </net>
+    <net code="118" name="Net-(C604-Pad1)">
+      <node ref="L607" pin="2"/>
+      <node ref="C604" pin="1"/>
+      <node ref="L603" pin="1"/>
+    </net>
+    <net code="119" name="Net-(C605-Pad1)">
+      <node ref="C605" pin="1"/>
+      <node ref="L604" pin="1"/>
+      <node ref="L609" pin="2"/>
+    </net>
+    <net code="120" name="Net-(L601-Pad2)">
+      <node ref="L601" pin="2"/>
+      <node ref="L605" pin="1"/>
+    </net>
+    <net code="121" name="Net-(C603-Pad1)">
+      <node ref="C603" pin="1"/>
+      <node ref="L602" pin="1"/>
+      <node ref="L605" pin="2"/>
+    </net>
+    <net code="122" name="Net-(D1401-Pad25,26,35,36)">
+      <node ref="D1401" pin="25,26,35,36"/>
+    </net>
+    <net code="123" name="Net-(C1404-Pad1)">
+      <node ref="C1404" pin="1"/>
+      <node ref="C1407" pin="1"/>
+      <node ref="D1401" pin="5"/>
+      <node ref="D1401" pin="6"/>
+      <node ref="D1401" pin="7"/>
+    </net>
+    <net code="124" name="/DAC_1/DR3">
+      <node ref="D1501" pin="42"/>
+    </net>
+    <net code="125" name="/DAC_1/DR0">
+      <node ref="D1501" pin="39"/>
+    </net>
+    <net code="126" name="/DAC_1/DR1">
+      <node ref="D1501" pin="40"/>
+    </net>
+    <net code="127" name="/DAC_1/DR2">
+      <node ref="D1501" pin="41"/>
+    </net>
+    <net code="128" name="/DAC_1/DR4">
+      <node ref="D1501" pin="43"/>
+    </net>
+    <net code="129" name="/DAC_1/DR5">
+      <node ref="D1501" pin="44"/>
+    </net>
+    <net code="130" name="/DAC_1/DR6">
+      <node ref="D1501" pin="45"/>
+    </net>
+    <net code="131" name="/DAC_1/DR7">
+      <node ref="D1501" pin="46"/>
+    </net>
+    <net code="132" name="/DAC_1/DR8">
+      <node ref="D1501" pin="47"/>
+    </net>
+    <net code="133" name="/DAC_1/DR9">
+      <node ref="D1501" pin="48"/>
+    </net>
+    <net code="134" name="Net-(C1503-Pad1)">
+      <node ref="C1503" pin="1"/>
+      <node ref="D1501" pin="35"/>
+    </net>
+    <net code="135" name="Net-(D1501-Pad37)">
+      <node ref="R1501" pin="1"/>
+      <node ref="D1501" pin="37"/>
+    </net>
+    <net code="136" name="Net-(C1501-Pad1)">
+      <node ref="C1501" pin="1"/>
+      <node ref="D1501" pin="36"/>
+      <node ref="R1502" pin="2"/>
+      <node ref="D1502" pin="1"/>
+    </net>
+    <net code="137" name="Net-(C215-Pad1)">
+      <node ref="R203" pin="2"/>
+      <node ref="D201" pin="24"/>
+      <node ref="C215" pin="1"/>
+    </net>
+    <net code="138" name="Net-(C205-Pad1)">
+      <node ref="D201" pin="15"/>
+      <node ref="C205" pin="1"/>
+      <node ref="R202" pin="1"/>
+      <node ref="D201" pin="25"/>
+    </net>
+    <net code="139" name="Net-(C201-Pad1)">
+      <node ref="C201" pin="1"/>
+      <node ref="D201" pin="27"/>
+      <node ref="R201" pin="1"/>
+    </net>
+    <net code="140" name="Net-(C207-Pad2)">
+      <node ref="D201" pin="28"/>
+      <node ref="C207" pin="2"/>
+    </net>
+    <net code="141" name="Net-(D201-Pad2)">
+      <node ref="D201" pin="2"/>
+    </net>
+    <net code="142" name="Net-(C206-Pad1)">
+      <node ref="R202" pin="2"/>
+      <node ref="C206" pin="1"/>
+    </net>
+    <net code="143" name="Net-(C201-Pad2)">
+      <node ref="X201" pin="3"/>
+      <node ref="C201" pin="2"/>
+    </net>
+    <net code="144" name="Net-(C203-Pad1)">
+      <node ref="L201" pin="2"/>
+      <node ref="C203" pin="1"/>
+      <node ref="D201" pin="12"/>
+    </net>
+    <net code="145" name="/RF_Generator_1/BB">
+      <node ref="C212" pin="2"/>
+      <node ref="D201" pin="14"/>
+    </net>
+    <net code="146" name="Net-(C204-Pad1)">
+      <node ref="L202" pin="2"/>
+      <node ref="C204" pin="1"/>
+      <node ref="D201" pin="11"/>
+    </net>
+    <net code="147" name="Net-(C208-Pad1)">
+      <node ref="D201" pin="20"/>
+      <node ref="D201" pin="19"/>
+      <node ref="D201" pin="18"/>
+      <node ref="C209" pin="1"/>
+      <node ref="C208" pin="1"/>
+      <node ref="C210" pin="1"/>
+      <node ref="D201" pin="16"/>
+      <node ref="C211" pin="1"/>
+    </net>
+    <net code="148" name="Net-(C701-Pad1)">
+      <node ref="C701" pin="1"/>
+      <node ref="DA701" pin="1"/>
+    </net>
+    <net code="149" name="Net-(C702-Pad2)">
+      <node ref="DA701" pin="3"/>
+      <node ref="L701" pin="1"/>
+      <node ref="C702" pin="2"/>
+    </net>
+    <net code="150" name="Net-(C1605-Pad2)">
+      <node ref="L1603" pin="2"/>
+      <node ref="L1607" pin="1"/>
+      <node ref="C1605" pin="2"/>
+    </net>
+    <net code="151" name="Net-(C1607-Pad2)">
+      <node ref="L1504" pin="1"/>
+      <node ref="L1502" pin="2"/>
+      <node ref="C1607" pin="2"/>
+    </net>
+    <net code="152" name="Net-(C1609-Pad2)">
+      <node ref="L1615" pin="1"/>
+      <node ref="L1611" pin="2"/>
+      <node ref="C1609" pin="2"/>
+    </net>
+    <net code="153" name="Net-(L1504-Pad2)">
+      <node ref="L1611" pin="1"/>
+      <node ref="L1504" pin="2"/>
+    </net>
+    <net code="154" name="Net-(C1605-Pad1)">
+      <node ref="L1605" pin="1"/>
+      <node ref="C1605" pin="1"/>
+      <node ref="L1601" pin="2"/>
+    </net>
+    <net code="155" name="Net-(L1503-Pad2)">
+      <node ref="L1610" pin="1"/>
+      <node ref="L1503" pin="2"/>
+    </net>
+    <net code="156" name="Net-(L1502-Pad1)">
+      <node ref="L1502" pin="1"/>
+      <node ref="L1607" pin="2"/>
+    </net>
+    <net code="157" name="Net-(L1501-Pad1)">
+      <node ref="L1501" pin="1"/>
+      <node ref="L1605" pin="2"/>
+    </net>
+    <net code="158" name="Net-(C1609-Pad1)">
+      <node ref="L1610" pin="2"/>
+      <node ref="C1609" pin="1"/>
+      <node ref="L1613" pin="1"/>
+    </net>
+    <net code="159" name="Net-(C1607-Pad1)">
+      <node ref="L1501" pin="2"/>
+      <node ref="L1503" pin="1"/>
+      <node ref="C1607" pin="1"/>
+    </net>
+    <net code="160" name="Net-(C803-Pad2)">
+      <node ref="U801" pin="3"/>
+      <node ref="C803" pin="2"/>
+    </net>
+    <net code="161" name="Net-(C801-Pad1)">
+      <node ref="C801" pin="1"/>
+      <node ref="U801" pin="6"/>
+    </net>
+    <net code="162" name="Net-(C307-Pad1)">
+      <node ref="C307" pin="1"/>
+      <node ref="D301" pin="4"/>
+    </net>
+    <net code="163" name="Net-(C306-Pad1)">
+      <node ref="C306" pin="1"/>
+      <node ref="D301" pin="3"/>
+    </net>
+    <net code="164" name="Net-(C305-Pad2)">
+      <node ref="D301" pin="16"/>
+      <node ref="C305" pin="2"/>
+    </net>
+    <net code="165" name="Net-(D301-Pad6,7,13,15)">
+      <node ref="D301" pin="6,7,13,15"/>
+    </net>
+    <net code="166" name="Net-(D901-Pad2)">
+      <node ref="R901" pin="1"/>
+      <node ref="D901" pin="2"/>
+    </net>
+    <net code="167" name="Net-(D902-Pad2)">
+      <node ref="D902" pin="2"/>
+      <node ref="R902" pin="1"/>
+    </net>
+    <net code="168" name="Net-(D903-Pad2)">
+      <node ref="R903" pin="1"/>
+      <node ref="D903" pin="2"/>
+    </net>
+    <net code="169" name="Net-(D1301-Pad12)">
+      <node ref="D1301" pin="12"/>
+    </net>
+    <net code="170" name="Net-(D1301-Pad19)">
+      <node ref="D1301" pin="19"/>
+      <node ref="R1301" pin="1"/>
+    </net>
+    <net code="171" name="Net-(L1608-Pad2)">
+      <node ref="L1608" pin="2"/>
+      <node ref="L1711" pin="1"/>
+    </net>
+    <net code="172" name="Net-(C1709-Pad2)">
+      <node ref="C1709" pin="2"/>
+      <node ref="L1715" pin="1"/>
+      <node ref="L1711" pin="2"/>
+    </net>
+    <net code="173" name="Net-(C1707-Pad1)">
+      <node ref="L1606" pin="1"/>
+      <node ref="L1602" pin="2"/>
+      <node ref="C1707" pin="1"/>
+    </net>
+    <net code="174" name="Net-(C1707-Pad2)">
+      <node ref="L1604" pin="2"/>
+      <node ref="L1608" pin="1"/>
+      <node ref="C1707" pin="2"/>
+    </net>
+    <net code="175" name="Net-(L1606-Pad2)">
+      <node ref="L1710" pin="1"/>
+      <node ref="L1606" pin="2"/>
+    </net>
+    <net code="176" name="Net-(L1604-Pad1)">
+      <node ref="L1604" pin="1"/>
+      <node ref="L1707" pin="2"/>
+    </net>
+    <net code="177" name="Net-(L1602-Pad1)">
+      <node ref="L1705" pin="2"/>
+      <node ref="L1602" pin="1"/>
+    </net>
+    <net code="178" name="Net-(C1705-Pad2)">
+      <node ref="L1703" pin="2"/>
+      <node ref="L1707" pin="1"/>
+      <node ref="C1705" pin="2"/>
+    </net>
+    <net code="179" name="Net-(C1705-Pad1)">
+      <node ref="C1705" pin="1"/>
+      <node ref="L1705" pin="1"/>
+      <node ref="L1701" pin="2"/>
+    </net>
+    <net code="180" name="Net-(C1709-Pad1)">
+      <node ref="L1710" pin="2"/>
+      <node ref="C1709" pin="1"/>
+      <node ref="L1713" pin="1"/>
+    </net>
+    <net code="181" name="Net-(C401-Pad1)">
+      <node ref="C401" pin="1"/>
+      <node ref="U401" pin="6"/>
+    </net>
+    <net code="182" name="Net-(C403-Pad2)">
+      <node ref="C403" pin="2"/>
+      <node ref="U401" pin="3"/>
+    </net>
+    <net code="183" name="Net-(C1103-Pad1)">
+      <node ref="R1102" pin="2"/>
+      <node ref="C1103" pin="1"/>
+    </net>
+    <net code="184" name="Net-(C1101-Pad1)">
+      <node ref="C1101" pin="1"/>
+      <node ref="U1101" pin="1"/>
+      <node ref="R1101" pin="2"/>
+    </net>
+    <net code="185" name="Net-(C1203-Pad1)">
+      <node ref="R1202" pin="2"/>
+      <node ref="C1203" pin="1"/>
+    </net>
+    <net code="186" name="Net-(C1201-Pad1)">
+      <node ref="U1201" pin="1"/>
+      <node ref="C1201" pin="1"/>
+      <node ref="R1201" pin="2"/>
+    </net>
+    <net code="187" name="Net-(C1802-Pad2)">
+      <node ref="DA1801" pin="3"/>
+      <node ref="L1801" pin="1"/>
+      <node ref="C1802" pin="2"/>
+    </net>
+    <net code="188" name="Net-(C1801-Pad1)">
+      <node ref="DA1801" pin="1"/>
+      <node ref="C1801" pin="1"/>
+    </net>
+  </nets>
+</export>

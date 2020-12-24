@@ -1,0 +1,829 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 8268 11693 portrait
+encoding utf-8
+Sheet 2 18
+Title "РЧ Модуль\\nСхема принципиальная"
+Date "2020-12-21"
+Rev ""
+Comp "МГТУ им. Н.Э. Баумана"
+Comment1 "МГТУ.464419.001"
+Comment2 "Белкин М.А."
+Comment3 "Каранкевич А.А."
+Comment4 ""
+$EndDescr
+$Comp
+L power:Earth #PWR038
+U 1 1 5FC36231
+P 3560 7960
+F 0 "#PWR038" H 3560 7710 50  0001 C CNN
+F 1 "Earth" H 3560 7810 50  0001 C CNN
+F 2 "" H 3560 7960 50  0001 C CNN
+F 3 "~" H 3560 7960 50  0001 C CNN
+	1    3560 7960
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR027
+U 1 1 5FC84D0F
+P 1090 4410
+F 0 "#PWR027" H 1090 4260 50  0001 C CNN
+F 1 "+3.3V" H 1105 4583 50  0000 C CNN
+F 2 "" H 1090 4410 50  0001 C CNN
+F 3 "" H 1090 4410 50  0001 C CNN
+	1    1090 4410
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1090 4410 1200 4410
+$Comp
+L power:+3.3V #PWR028
+U 1 1 5FC84436
+P 1500 4110
+F 0 "#PWR028" H 1500 3960 50  0001 C CNN
+F 1 "+3.3V" H 1515 4283 50  0000 C CNN
+F 2 "" H 1500 4110 50  0001 C CNN
+F 3 "" H 1500 4110 50  0001 C CNN
+	1    1500 4110
+	1    0    0    -1  
+$EndComp
+NoConn ~ 3910 4710
+Wire Wire Line
+	3910 4510 3600 4510
+$Comp
+L power:Earth #PWR033
+U 1 1 5FC6437D
+P 3300 4510
+F 0 "#PWR033" H 3300 4260 50  0001 C CNN
+F 1 "Earth" H 3300 4360 50  0001 C CNN
+F 2 "" H 3300 4510 50  0001 C CNN
+F 3 "~" H 3300 4510 50  0001 C CNN
+	1    3300 4510
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 4410 3910 4410
+Wire Wire Line
+	6710 5110 6860 5110
+Connection ~ 6710 5110
+$Comp
+L power:+5V #PWR050
+U 1 1 5FC51A1A
+P 6710 5110
+F 0 "#PWR050" H 6710 4960 50  0001 C CNN
+F 1 "+5V" H 6725 5283 50  0000 C CNN
+F 2 "" H 6710 5110 50  0001 C CNN
+F 3 "" H 6710 5110 50  0001 C CNN
+	1    6710 5110
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5210 5110 6710 5110
+$Comp
+L Device:C C30
+U 1 1 5FC3BD7E
+P 7010 5110
+AR Path="/5FB9C49B/5FC3BD7E" Ref="C30"  Part="1" 
+AR Path="/5FCE0595/5FC3BD7E" Ref="C?"  Part="1" 
+F 0 "C30" V 6758 5110 50  0000 C CNN
+F 1 "10n" V 6849 5110 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 7048 4960 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658" H 7010 5110 50  0001 C CNN
+	1    7010 5110
+	0    -1   1    0   
+$EndComp
+$Comp
+L power:Earth #PWR051
+U 1 1 5FC3BD66
+P 7160 5110
+AR Path="/5FB9C49B/5FC3BD66" Ref="#PWR051"  Part="1" 
+AR Path="/5FCE0595/5FC3BD66" Ref="#PWR?"  Part="1" 
+F 0 "#PWR051" H 7160 4860 50  0001 C CNN
+F 1 "Earth" H 7160 4960 50  0001 C CNN
+F 2 "" H 7160 5110 50  0001 C CNN
+F 3 "~" H 7160 5110 50  0001 C CNN
+	1    7160 5110
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5210 4910 5850 4910
+Wire Wire Line
+	5850 4910 5970 4910
+Connection ~ 5850 4910
+$Comp
+L power:+3.3V #PWR044
+U 1 1 5FC38B30
+P 5850 4910
+F 0 "#PWR044" H 5850 4760 50  0001 C CNN
+F 1 "+3.3V" H 5865 5083 50  0000 C CNN
+F 2 "" H 5850 4910 50  0001 C CNN
+F 3 "" H 5850 4910 50  0001 C CNN
+	1    5850 4910
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C28
+U 1 1 5FC38B26
+P 6120 4910
+AR Path="/5FB9C49B/5FC38B26" Ref="C28"  Part="1" 
+AR Path="/5FCE0595/5FC38B26" Ref="C?"  Part="1" 
+F 0 "C28" V 5868 4910 50  0000 C CNN
+F 1 "10n" V 5959 4910 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 6158 4760 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658" H 6120 4910 50  0001 C CNN
+	1    6120 4910
+	0    -1   1    0   
+$EndComp
+$Comp
+L power:Earth #PWR048
+U 1 1 5FC38B0E
+P 6270 4910
+AR Path="/5FB9C49B/5FC38B0E" Ref="#PWR048"  Part="1" 
+AR Path="/5FCE0595/5FC38B0E" Ref="#PWR?"  Part="1" 
+F 0 "#PWR048" H 6270 4660 50  0001 C CNN
+F 1 "Earth" H 6270 4760 50  0001 C CNN
+F 2 "" H 6270 4910 50  0001 C CNN
+F 3 "~" H 6270 4910 50  0001 C CNN
+	1    6270 4910
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5420 5580 6060 5580
+Wire Wire Line
+	5420 5410 5210 5410
+Wire Wire Line
+	5420 5580 5420 5410
+Wire Wire Line
+	6060 5580 6180 5580
+Connection ~ 6060 5580
+$Comp
+L power:+3.3V #PWR046
+U 1 1 5FC3049C
+P 6060 5580
+F 0 "#PWR046" H 6060 5430 50  0001 C CNN
+F 1 "+3.3V" H 6075 5753 50  0000 C CNN
+F 2 "" H 6060 5580 50  0001 C CNN
+F 3 "" H 6060 5580 50  0001 C CNN
+	1    6060 5580
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C29
+U 1 1 5FC30491
+P 6330 5580
+AR Path="/5FB9C49B/5FC30491" Ref="C29"  Part="1" 
+AR Path="/5FCE0595/5FC30491" Ref="C?"  Part="1" 
+F 0 "C29" V 6078 5580 50  0000 C CNN
+F 1 "100n" V 6169 5580 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 6368 5430 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658" H 6330 5580 50  0001 C CNN
+	1    6330 5580
+	0    -1   1    0   
+$EndComp
+$Comp
+L power:Earth #PWR049
+U 1 1 5FC30479
+P 6480 5580
+AR Path="/5FB9C49B/5FC30479" Ref="#PWR049"  Part="1" 
+AR Path="/5FCE0595/5FC30479" Ref="#PWR?"  Part="1" 
+F 0 "#PWR049" H 6480 5330 50  0001 C CNN
+F 1 "Earth" H 6480 5430 50  0001 C CNN
+F 2 "" H 6480 5580 50  0001 C CNN
+F 3 "~" H 6480 5580 50  0001 C CNN
+	1    6480 5580
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR039
+U 1 1 5FC2F7E1
+P 5210 5510
+F 0 "#PWR039" H 5210 5260 50  0001 C CNN
+F 1 "Earth" H 5210 5360 50  0001 C CNN
+F 2 "" H 5210 5510 50  0001 C CNN
+F 3 "~" H 5210 5510 50  0001 C CNN
+	1    5210 5510
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5420 5310 5520 5310
+Connection ~ 5420 5310
+$Comp
+L power:+3.3V #PWR040
+U 1 1 5FC2CCF7
+P 5420 5310
+F 0 "#PWR040" H 5420 5160 50  0001 C CNN
+F 1 "+3.3V" H 5435 5483 50  0000 C CNN
+F 2 "" H 5420 5310 50  0001 C CNN
+F 3 "" H 5420 5310 50  0001 C CNN
+	1    5420 5310
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5210 5310 5420 5310
+$Comp
+L Device:C C25
+U 1 1 5FC494DA
+P 5670 5310
+AR Path="/5FB9C49B/5FC494DA" Ref="C25"  Part="1" 
+AR Path="/5FCE0595/5FC494DA" Ref="C?"  Part="1" 
+F 0 "C25" V 5418 5310 50  0000 C CNN
+F 1 "100n" V 5509 5310 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 5708 5160 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658" H 5670 5310 50  0001 C CNN
+	1    5670 5310
+	0    -1   1    0   
+$EndComp
+Text Label 5600 3380 3    50   ~ 0
+BB
+Text Label 3910 5610 2    50   ~ 0
+BB
+Wire Wire Line
+	3860 5510 3860 6460
+Connection ~ 3860 5510
+Wire Wire Line
+	3910 5510 3860 5510
+Wire Wire Line
+	3860 5410 3860 5510
+Connection ~ 3860 5410
+Wire Wire Line
+	3910 5410 3860 5410
+Wire Wire Line
+	3860 5310 3860 5410
+Connection ~ 3860 5310
+Wire Wire Line
+	3910 5310 3860 5310
+Wire Wire Line
+	3860 5210 3860 5310
+Wire Wire Line
+	3860 5210 3910 5210
+Wire Wire Line
+	2980 5310 2980 5360
+Connection ~ 2980 5310
+Wire Wire Line
+	3380 5310 3380 5010
+Connection ~ 3380 5310
+Wire Wire Line
+	3380 5310 2980 5310
+Wire Wire Line
+	3380 5010 3910 5010
+Wire Wire Line
+	3380 5410 3380 5310
+Wire Wire Line
+	2980 4910 2980 5310
+Wire Wire Line
+	3910 4910 2980 4910
+Text Label 5210 5210 0    50   ~ 0
+Vrf
+Wire Wire Line
+	6120 3030 6250 3030
+Connection ~ 6120 3030
+$Comp
+L power:+3.3V #PWR047
+U 1 1 5FBED76C
+P 6120 3030
+F 0 "#PWR047" H 6120 2880 50  0001 C CNN
+F 1 "+3.3V" H 6135 3203 50  0000 C CNN
+F 2 "" H 6120 3030 50  0001 C CNN
+F 3 "" H 6120 3030 50  0001 C CNN
+	1    6120 3030
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR042
+U 1 1 5FBEC47F
+P 5600 1880
+F 0 "#PWR042" H 5600 1730 50  0001 C CNN
+F 1 "+5V" H 5615 2053 50  0000 C CNN
+F 2 "" H 5600 1880 50  0001 C CNN
+F 3 "" H 5600 1880 50  0001 C CNN
+	1    5600 1880
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 5FBEB72C
+P 5800 1880
+AR Path="/5FB9C49B/5FBEB72C" Ref="R6"  Part="1" 
+AR Path="/5FCE0595/5FBEB72C" Ref="R?"  Part="1" 
+F 0 "R6" V 6007 1880 50  0000 C CNN
+F 1 "15" V 5916 1880 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 5730 1880 50  0001 C CNN
+F 3 "~" H 5800 1880 50  0001 C CNN
+	1    5800 1880
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C26
+U 1 1 5FCBB298
+P 5900 3030
+AR Path="/5FB9C49B/5FCBB298" Ref="C26"  Part="1" 
+AR Path="/5FCE0595/5FCBB298" Ref="C?"  Part="1" 
+F 0 "C26" V 5648 3030 50  0000 C CNN
+F 1 "10n" V 5739 3030 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 5938 2880 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/10-nf-1206-41657" H 5900 3030 50  0001 C CNN
+	1    5900 3030
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C24
+U 1 1 5FCAE880
+P 5600 3230
+AR Path="/5FB9C49B/5FCAE880" Ref="C24"  Part="1" 
+AR Path="/5FCE0595/5FCAE880" Ref="C?"  Part="1" 
+F 0 "C24" H 5715 3276 50  0000 L CNN
+F 1 "1u" H 5715 3185 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 5638 3080 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649" H 5600 3230 50  0001 C CNN
+	1    5600 3230
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 3030 5600 3030
+Wire Wire Line
+	5600 3030 5600 3080
+$Comp
+L power:Earth #PWR041
+U 1 1 5FF11495
+P 5450 3030
+F 0 "#PWR041" H 5450 2780 50  0001 C CNN
+F 1 "Earth" H 5450 2880 50  0001 C CNN
+F 2 "" H 5450 3030 50  0001 C CNN
+F 3 "~" H 5450 3030 50  0001 C CNN
+	1    5450 3030
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 3030 5450 3030
+Connection ~ 5600 3030
+Text Label 6250 3030 0    50   ~ 0
+Vrf
+Wire Wire Line
+	6050 3030 6120 3030
+Wire Wire Line
+	5650 1880 5600 1880
+$Comp
+L power:Earth #PWR045
+U 1 1 600CB8E8
+P 5950 2180
+AR Path="/5FB9C49B/600CB8E8" Ref="#PWR045"  Part="1" 
+AR Path="/5FCE0595/600CB8E8" Ref="#PWR?"  Part="1" 
+F 0 "#PWR045" H 5950 1930 50  0001 C CNN
+F 1 "Earth" H 5950 2030 50  0001 C CNN
+F 2 "" H 5950 2180 50  0001 C CNN
+F 3 "~" H 5950 2180 50  0001 C CNN
+	1    5950 2180
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C27
+U 1 1 5FBF5E6F
+P 5950 2030
+AR Path="/5FB9C49B/5FBF5E6F" Ref="C27"  Part="1" 
+AR Path="/5FCE0595/5FBF5E6F" Ref="C?"  Part="1" 
+F 0 "C27" H 6065 2076 50  0000 L CNN
+F 1 "10n" H 6065 1985 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 5988 1880 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/10-nf-1206-41657" H 5950 2030 50  0001 C CNN
+	1    5950 2030
+	1    0    0    -1  
+$EndComp
+Connection ~ 5950 1880
+Wire Wire Line
+	3610 4210 3910 4210
+Wire Wire Line
+	3000 2950 3910 2950
+Wire Wire Line
+	3910 2950 3910 4110
+Wire Wire Line
+	3300 3350 3610 3350
+Wire Wire Line
+	3610 3350 3610 4210
+Text HLabel 5210 4710 2    50   Output ~ 0
+STAT
+Text HLabel 5210 4610 2    50   Input ~ 0
+~MUTE
+Wire Bus Line
+	5410 4000 5520 4000
+Wire Wire Line
+	5310 4110 5210 4110
+Wire Wire Line
+	5210 4410 5310 4410
+Wire Wire Line
+	5310 4310 5210 4310
+Wire Wire Line
+	5310 4210 5210 4210
+Text HLabel 5520 4000 2    50   BiDi ~ 0
+SPI
+Entry Wire Line
+	5410 4310 5310 4410
+Entry Wire Line
+	5410 4210 5310 4310
+Entry Wire Line
+	5410 4110 5310 4210
+Wire Wire Line
+	3860 6460 3860 6960
+Wire Wire Line
+	3000 2450 3000 2250
+$Comp
+L power:+3.3V #PWR032
+U 1 1 601ABFE1
+P 3000 2250
+F 0 "#PWR032" H 3000 2100 50  0001 C CNN
+F 1 "+3.3V" H 3015 2423 50  0000 C CNN
+F 2 "" H 3000 2250 50  0001 C CNN
+F 3 "" H 3000 2250 50  0001 C CNN
+	1    3000 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 2450 3300 2450
+Connection ~ 3000 2450
+Wire Wire Line
+	3000 2550 3000 2450
+Wire Wire Line
+	3300 2450 3300 2550
+Wire Wire Line
+	2900 2450 3000 2450
+Connection ~ 3300 3350
+Wire Wire Line
+	3300 3350 2900 3350
+Wire Wire Line
+	3300 2850 3300 3350
+Connection ~ 3000 2950
+Wire Wire Line
+	3000 2950 3000 2850
+Wire Wire Line
+	2900 2950 3000 2950
+Wire Wire Line
+	2450 3350 2600 3350
+Wire Wire Line
+	2450 2950 2600 2950
+$Comp
+L Device:C C16
+U 1 1 5FB37060
+P 2750 3350
+AR Path="/5FB9C49B/5FB37060" Ref="C16"  Part="1" 
+AR Path="/5FCE0595/5FB37060" Ref="C?"  Part="1" 
+F 0 "C16" V 2498 3350 50  0000 C CNN
+F 1 "100p" V 2589 3350 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2788 3200 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622" H 2750 3350 50  0001 C CNN
+	1    2750 3350
+	0    1    1    0   
+$EndComp
+Connection ~ 2400 4410
+Wire Wire Line
+	2400 4410 2400 4510
+Wire Wire Line
+	2350 4410 2400 4410
+Wire Wire Line
+	1800 4410 2050 4410
+$Comp
+L power:Earth #PWR029
+U 1 1 5FBAA676
+P 1500 4710
+AR Path="/5FB9C49B/5FBAA676" Ref="#PWR029"  Part="1" 
+AR Path="/5FCE0595/5FBAA676" Ref="#PWR?"  Part="1" 
+F 0 "#PWR029" H 1500 4460 50  0001 C CNN
+F 1 "Earth" H 1500 4560 50  0001 C CNN
+F 2 "" H 1500 4710 50  0001 C CNN
+F 3 "~" H 1500 4710 50  0001 C CNN
+	1    1500 4710
+	1    0    0    -1  
+$EndComp
+$Comp
+L Oscillator:XO91 X1
+U 1 1 5FB9FA1A
+P 1500 4410
+AR Path="/5FB9C49B/5FB9FA1A" Ref="X1"  Part="1" 
+AR Path="/5FCE0595/5FB9FA1A" Ref="X?"  Part="1" 
+F 0 "X1" H 1844 4456 50  0000 L CNN
+F 1 "XO91" H 1844 4365 50  0000 L CNN
+F 2 "Oscillator:Oscillator_SMD_EuroQuartz_XO91-4Pin_7.0x5.0mm" H 2200 4060 50  0001 C CNN
+F 3 "http://cdn-reichelt.de/documents/datenblatt/B400/XO91.pdf" H 1400 4410 50  0001 C CNN
+	1    1500 4410
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C17
+U 1 1 5FBB99ED
+P 2980 5510
+AR Path="/5FB9C49B/5FBB99ED" Ref="C17"  Part="1" 
+AR Path="/5FCE0595/5FBB99ED" Ref="C?"  Part="1" 
+F 0 "C17" H 3095 5556 50  0000 L CNN
+F 1 "4.7n" H 3095 5465 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 3018 5360 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206------47-nf-50v" H 2980 5510 50  0001 C CNN
+	1    2980 5510
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C18
+U 1 1 5FBBA24F
+P 3380 5960
+AR Path="/5FB9C49B/5FBBA24F" Ref="C18"  Part="1" 
+AR Path="/5FCE0595/5FBBA24F" Ref="C?"  Part="1" 
+F 0 "C18" H 3495 6006 50  0000 L CNN
+F 1 "56n" H 3495 5915 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 3418 5810 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----56-nf-50v" H 3380 5960 50  0001 C CNN
+	1    3380 5960
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR034
+U 1 1 5FBBB1AD
+P 3380 6110
+AR Path="/5FB9C49B/5FBBB1AD" Ref="#PWR034"  Part="1" 
+AR Path="/5FCE0595/5FBBB1AD" Ref="#PWR?"  Part="1" 
+F 0 "#PWR034" H 3380 5860 50  0001 C CNN
+F 1 "Earth" H 3380 5960 50  0001 C CNN
+F 2 "" H 3380 6110 50  0001 C CNN
+F 3 "~" H 3380 6110 50  0001 C CNN
+	1    3380 6110
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2980 6110 3380 6110
+Wire Wire Line
+	2980 5660 2980 6110
+Connection ~ 3380 6110
+Wire Wire Line
+	3380 5810 3380 5710
+$Comp
+L Device:R R5
+U 1 1 5FBBCE92
+P 3380 5560
+AR Path="/5FB9C49B/5FBBCE92" Ref="R5"  Part="1" 
+AR Path="/5FCE0595/5FBBCE92" Ref="R?"  Part="1" 
+F 0 "R5" H 3450 5606 50  0000 L CNN
+F 1 "97.6" H 3450 5515 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 3310 5560 50  0001 C CNN
+F 3 "~" H 3380 5560 50  0001 C CNN
+	1    3380 5560
+	1    0    0    -1  
+$EndComp
+Entry Wire Line
+	5410 4010 5310 4110
+$Comp
+L Device:C C20
+U 1 1 5FBDEB3D
+P 3710 6460
+AR Path="/5FB9C49B/5FBDEB3D" Ref="C20"  Part="1" 
+AR Path="/5FCE0595/5FBDEB3D" Ref="C?"  Part="1" 
+F 0 "C20" V 3458 6460 50  0000 C CNN
+F 1 "1u" V 3549 6460 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 3748 6310 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649" H 3710 6460 50  0001 C CNN
+	1    3710 6460
+	0    1    1    0   
+$EndComp
+Connection ~ 3860 6460
+$Comp
+L power:Earth #PWR035
+U 1 1 5FBDF54E
+P 3560 6460
+AR Path="/5FB9C49B/5FBDF54E" Ref="#PWR035"  Part="1" 
+AR Path="/5FCE0595/5FBDF54E" Ref="#PWR?"  Part="1" 
+F 0 "#PWR035" H 3560 6210 50  0001 C CNN
+F 1 "Earth" H 3560 6310 50  0001 C CNN
+F 2 "" H 3560 6460 50  0001 C CNN
+F 3 "~" H 3560 6460 50  0001 C CNN
+	1    3560 6460
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:L L1
+U 1 1 5FC83A2B
+P 3000 2700
+AR Path="/5FB9C49B/5FC83A2B" Ref="L1"  Part="1" 
+AR Path="/5FCE0595/5FC83A2B" Ref="L?"  Part="1" 
+F 0 "L1" H 3053 2746 50  0000 L CNN
+F 1 "68n" H 3053 2655 50  0000 L CNN
+F 2 "Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 3000 2700 50  0001 C CNN
+F 3 "~" H 3000 2700 50  0001 C CNN
+	1    3000 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:L L2
+U 1 1 5FC858EE
+P 3300 2700
+AR Path="/5FB9C49B/5FC858EE" Ref="L2"  Part="1" 
+AR Path="/5FCE0595/5FC858EE" Ref="L?"  Part="1" 
+F 0 "L2" H 3353 2746 50  0000 L CNN
+F 1 "68n" H 3353 2655 50  0000 L CNN
+F 2 "Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 3300 2700 50  0001 C CNN
+F 3 "~" H 3300 2700 50  0001 C CNN
+	1    3300 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C14
+U 1 1 5FC94B70
+P 2750 2450
+AR Path="/5FB9C49B/5FC94B70" Ref="C14"  Part="1" 
+AR Path="/5FCE0595/5FC94B70" Ref="C?"  Part="1" 
+F 0 "C14" V 2498 2450 50  0000 C CNN
+F 1 "10n" V 2589 2450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 2788 2300 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/10-nf-1206-41657" H 2750 2450 50  0001 C CNN
+	1    2750 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L power:Earth #PWR031
+U 1 1 5FC95639
+P 2600 2450
+AR Path="/5FB9C49B/5FC95639" Ref="#PWR031"  Part="1" 
+AR Path="/5FCE0595/5FC95639" Ref="#PWR?"  Part="1" 
+F 0 "#PWR031" H 2600 2200 50  0001 C CNN
+F 1 "Earth" H 2600 2300 50  0001 C CNN
+F 2 "" H 2600 2450 50  0001 C CNN
+F 3 "~" H 2600 2450 50  0001 C CNN
+	1    2600 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C15
+U 1 1 5FCC0409
+P 2750 2950
+AR Path="/5FB9C49B/5FCC0409" Ref="C15"  Part="1" 
+AR Path="/5FCE0595/5FCC0409" Ref="C?"  Part="1" 
+F 0 "C15" V 2498 2950 50  0000 C CNN
+F 1 "100p" V 2589 2950 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2788 2800 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622" H 2750 2950 50  0001 C CNN
+	1    2750 2950
+	0    1    1    0   
+$EndComp
+Text HLabel 2450 2950 0    50   Output ~ 0
+RFout
+Text HLabel 2450 3350 0    50   Output ~ 0
+~RFout
+$Comp
+L Device:C C21
+U 1 1 5FBBD3B4
+P 3710 6960
+AR Path="/5FB9C49B/5FBBD3B4" Ref="C21"  Part="1" 
+AR Path="/5FCE0595/5FBBD3B4" Ref="C?"  Part="1" 
+F 0 "C21" V 3458 6960 50  0000 C CNN
+F 1 "1u" V 3549 6960 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 3748 6810 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649" H 3710 6960 50  0001 C CNN
+	1    3710 6960
+	0    1    1    0   
+$EndComp
+$Comp
+L power:Earth #PWR036
+U 1 1 5FBC0EA1
+P 3560 6960
+F 0 "#PWR036" H 3560 6710 50  0001 C CNN
+F 1 "Earth" H 3560 6810 50  0001 C CNN
+F 2 "" H 3560 6960 50  0001 C CNN
+F 3 "~" H 3560 6960 50  0001 C CNN
+	1    3560 6960
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C22
+U 1 1 5FBCD857
+P 3710 7460
+AR Path="/5FB9C49B/5FBCD857" Ref="C22"  Part="1" 
+AR Path="/5FCE0595/5FBCD857" Ref="C?"  Part="1" 
+F 0 "C22" V 3458 7460 50  0000 C CNN
+F 1 "100n" V 3549 7460 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 3748 7310 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658" H 3710 7460 50  0001 C CNN
+	1    3710 7460
+	0    1    1    0   
+$EndComp
+$Comp
+L power:Earth #PWR037
+U 1 1 5FBCD861
+P 3560 7460
+F 0 "#PWR037" H 3560 7210 50  0001 C CNN
+F 1 "Earth" H 3560 7310 50  0001 C CNN
+F 2 "" H 3560 7460 50  0001 C CNN
+F 3 "~" H 3560 7460 50  0001 C CNN
+	1    3560 7460
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3860 6960 3860 7460
+Connection ~ 3860 6960
+$Comp
+L Device:C C23
+U 1 1 5FC3614B
+P 3710 7960
+AR Path="/5FB9C49B/5FC3614B" Ref="C23"  Part="1" 
+AR Path="/5FCE0595/5FC3614B" Ref="C?"  Part="1" 
+F 0 "C23" V 3458 7960 50  0000 C CNN
+F 1 "100n" V 3549 7960 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 3748 7810 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/100-nf-1206-41658" H 3710 7960 50  0001 C CNN
+	1    3710 7960
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3860 7460 3860 7960
+Connection ~ 3860 7460
+$Comp
+L power:Earth #PWR043
+U 1 1 5FC4AF6D
+P 5820 5310
+AR Path="/5FB9C49B/5FC4AF6D" Ref="#PWR043"  Part="1" 
+AR Path="/5FCE0595/5FC4AF6D" Ref="#PWR?"  Part="1" 
+F 0 "#PWR043" H 5820 5060 50  0001 C CNN
+F 1 "Earth" H 5820 5160 50  0001 C CNN
+F 2 "" H 5820 5310 50  0001 C CNN
+F 3 "~" H 5820 5310 50  0001 C CNN
+	1    5820 5310
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:C C13
+U 1 1 5FBA9C71
+P 2200 4410
+AR Path="/5FB9C49B/5FBA9C71" Ref="C13"  Part="1" 
+AR Path="/5FCE0595/5FBA9C71" Ref="C?"  Part="1" 
+F 0 "C13" V 1948 4410 50  0000 C CNN
+F 1 "1u" V 2039 4410 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2238 4260 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649" H 2200 4410 50  0001 C CNN
+	1    2200 4410
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5FBAAAFF
+P 2400 4660
+AR Path="/5FB9C49B/5FBAAAFF" Ref="R4"  Part="1" 
+AR Path="/5FCE0595/5FBAAAFF" Ref="R?"  Part="1" 
+F 0 "R4" H 2470 4706 50  0000 L CNN
+F 1 "51.1" H 2470 4615 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 2330 4660 50  0001 C CNN
+F 3 "~" H 2400 4660 50  0001 C CNN
+	1    2400 4660
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR030
+U 1 1 5FBAAE74
+P 2400 4810
+AR Path="/5FB9C49B/5FBAAE74" Ref="#PWR030"  Part="1" 
+AR Path="/5FCE0595/5FBAAE74" Ref="#PWR?"  Part="1" 
+F 0 "#PWR030" H 2400 4560 50  0001 C CNN
+F 1 "Earth" H 2400 4660 50  0001 C CNN
+F 2 "" H 2400 4810 50  0001 C CNN
+F 3 "~" H 2400 4810 50  0001 C CNN
+	1    2400 4810
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C19
+U 1 1 5FBAF0F7
+P 3450 4510
+AR Path="/5FB9C49B/5FBAF0F7" Ref="C19"  Part="1" 
+AR Path="/5FCE0595/5FBAF0F7" Ref="C?"  Part="1" 
+F 0 "C19" V 3702 4510 50  0000 C CNN
+F 1 "1u" V 3611 4510 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 3488 4360 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/1-uf-41649" H 3450 4510 50  0001 C CNN
+	1    3450 4510
+	0    -1   -1   0   
+$EndComp
+Text GLabel 5270 4110 0    0    Input ~ 0
+~CS
+Text GLabel 5270 4210 0    0    Input ~ 0
+CLK
+Text GLabel 5270 4310 0    0    Input ~ 0
+SDI
+Text GLabel 5270 4410 0    0    Input ~ 0
+SDO
+Wire Wire Line
+	5660 5010 5660 4240
+Wire Wire Line
+	5660 4240 6730 4240
+Wire Wire Line
+	6730 4240 6730 1880
+Wire Wire Line
+	5950 1880 6730 1880
+Wire Wire Line
+	5210 5010 5660 5010
+$Comp
+L _SDR:LTC6946 D1
+U 1 1 5FC57EC8
+P 4560 5010
+F 0 "D1" H 4560 6175 50  0000 C CNN
+F 1 "LTC6946" H 4560 6084 50  0000 C CNN
+F 2 "Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm_ThermalVias" H 4560 4260 50  0001 C CNN
+F 3 "https://www.analog.com/media/en/technical-documentation/data-sheets/6946fb.pdf" H 4560 5960 50  0001 C CNN
+	1    4560 5010
+	1    0    0    -1  
+$EndComp
+Wire Bus Line
+	5410 4000 5410 4310
+$EndSCHEMATC

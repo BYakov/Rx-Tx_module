@@ -1,0 +1,163 @@
+********************************************************************************
+***                       Micro-Cap 12.2.0.2 (64 bit)                        ***
+***                                                                          ***
+***                                                                          ***
+***                       Transient Analysis of усилок                       ***
+***                           29.09.2020 13:51:25                            ***
+********************************************************************************
+Limits
+======
+Maximum Run Time           4.1u
+Output Start Time (tstart) 4u
+Maximum Time Step          0.1n
+Number of Points           51
+Temperature                Linear 27
+Retrace Runs               1
+Run Options                Normal
+State Variables            Zero
+Operating Point            On
+Operating Point Only       Off
+Auto Scale Ranges          On
+Accumulate Plots           Off
+Fixed Time Step            Off
+Periodic Steady State      Off
+Ignore Expression Errors   Off
+
+
+*****************************************************
+***                Temperature=27                 ***
+*****************************************************
+
+Temperature=27
+
+DC Operating Point Voltages
+===========================
+Node         Voltage  Node         Voltage  Node         Voltage 
+1             0.000   2             0.000   3             1.134  
+4             8.500   5           351.369m  6             3.758  
+7             0.000  
+
+
+Operating Point for Devices of Type Bipolar Junction Transistors NPN
+====================================================================
+Instance:               Q1
+Using model:       BFR193F
+
+Beta Terms:
+BETADC             95.303 
+BETAAC             93.406 
+
+Capacitance Terms:
+CPI                 7.598p
+CMU               348.969f
+CBX                 0.000 
+CJS                 0.000 
+
+Conductance Terms:
+GM                199.452m
+
+Current Terms:
+IB                 55.281u
+IC                  5.268m
+
+Resistance Terms:
+RPI               468.312 
+RX                  1.083 
+RO                  9.031K
+
+Voltage Terms:
+VBE               782.920m
+VBC                -2.624 
+VCE                 3.407 
+
+Frequency Terms:
+FT                  3.994G
+
+Power DC Terms:
+PD                 17.993m
+PS                  0.000 
+
+DC Pin Currents:
+Ib                 55.281u
+Ic                  5.268m
+Ie                 -5.324m
+Is                  0.000 
+
+Condition:
+State                  LIN
+
+Device Variables:
+area                1.000 
+vbe                 0.000 
+vce                 0.000 
+
+
+
+Operating Point for Devices of Type Resistor
+============================================
+Instance:                R1            R2            R3            R4            R5
+V                    0.000         1.134         7.366       351.369m        4.742 
+Power DC Terms:
+PD                   0.000         1.608m       10.851m        1.871m       24.981m
+
+DC Pin Currents:
+Ir                   0.000         1.418m        1.473m        5.324m        5.268m
+
+Device Variables:
+tc1                  0.000         0.000         0.000         0.000         0.000 
+tc2                  0.000         0.000         0.000         0.000         0.000 
+
+
+Instance:                R6         V1.RS
+V                    0.000         0.000 
+Power DC Terms:
+PD                   0.000         0.000 
+
+DC Pin Currents:
+Ir                   0.000         0.000 
+
+Device Variables:
+tc1                  0.000         0.000 
+tc2                  0.000         0.000 
+
+
+
+Operating Point for Devices of Type Capacitor
+=============================================
+Instance:                C1            C2            C3
+V                    1.134       351.369m       -3.758 
+Power DC Terms:
+PS                   0.000         0.000         0.000 
+
+DC Pin Currents:
+Ic                   0.000         0.000         0.000 
+
+Device Variables:
+ic                   0.000         0.000         0.000 
+
+
+
+Operating Point for Devices of Type Sine Source
+===============================================
+Instance:                V1
+Using model:           1MHZ
+V                    0.000 
+Power DC Terms:
+PG                   0.000 
+
+DC Pin Currents:
+ISource              0.000 
+
+
+
+Operating Point for Devices of Type SPICE Source
+================================================
+Instance:               V2
+V                   8.500 
+Power DC Terms:
+PG                 57.304m
+
+DC Pin Currents:
+ISource            -6.742m
+
+

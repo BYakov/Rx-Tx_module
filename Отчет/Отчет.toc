@@ -1,0 +1,48 @@
+\babel@toc {russian}{}
+\contentsline {section}{ВВЕДЕНИЕ}{6}{table.caption.1}%
+\contentsline {section}{\numberline {1}Разработка структурной схемы приемо-передатчика}{9}{section.1}%
+\contentsline {section}{\numberline {2}Выбор элементной базы }{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}АЦП}{10}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Определение разрядности}{10}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Определение частоты дискретизации}{10}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Выбор АЦП}{11}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Стандартная обвязка}{12}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}Понижающий смеситель}{13}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Выбор смесителя}{13}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Стандартная обвязка}{13}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Малошумящий усилитель}{14}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Определение коэф. усиления}{14}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Выбор МШУ}{15}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Стандартная обвязка}{15}{subsubsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.4}Усилитель промежуточной частоты}{16}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Определение коэф. усиления}{16}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Выбор УПЧ}{16}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Стандартная обвязка}{17}{subsubsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.5}ЦАП}{18}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Выбор ЦАП}{18}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Стандартная обвязка}{18}{subsubsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.6}Повышающий смеситель}{19}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Стандартная обвязка}{20}{subsubsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.7}Оконечный усилитель}{20}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Определение коэф. усиления}{20}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}Выбор оконечного усилителя}{21}{subsubsection.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.7.3}Стандартная обвязка}{21}{subsubsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.8}Гетеродин}{22}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Стандартная обвязка}{22}{subsubsection.2.8.1}%
+\contentsline {subsection}{\numberline {2.9}Расчёт фильтров ПЧ}{23}{subsection.2.9}%
+\contentsline {subsubsection}{\numberline {2.9.1}Фильтры в приёмном тракте}{24}{subsubsection.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.9.2}Фильтры в тракте передатчика}{24}{subsubsection.2.9.2}%
+\contentsline {subsection}{\numberline {2.10}Цепи питания}{26}{subsection.2.10}%
+\contentsline {subsubsection}{\numberline {2.10.1}Выбор стабилизатора напряжения}{26}{subsubsection.2.10.1}%
+\contentsline {subsubsection}{\numberline {2.10.2}Стандартная обвязка}{27}{subsubsection.2.10.2}%
+\contentsline {section}{\numberline {3}Выбор конструктивных решений ПП}{28}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Аналоговый тракт}{28}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Цифровой интерфейс}{28}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Цепи питания}{30}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Определение класса ПП}{31}{subsection.3.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{34}{figure.caption.28}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{35}{figure.caption.29}%
+\contentsline {section}{\numberline {А}Структурная схема РЧ модуля}{36}{appendix.A}%
+\contentsline {section}{\numberline {Б}Структурная схема ПЛИС}{38}{appendix.B}%
+\contentsline {section}{\numberline {В}Принципиальная схема ППМ}{40}{appendix.C}%
+\contentsline {section}{\numberline {Г}PCB схема ППМ}{59}{appendix.D}%

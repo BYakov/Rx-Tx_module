@@ -1,0 +1,1430 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 18
+Title "РЧ Модуль"
+Date "2020-12-21"
+Rev ""
+Comp "МГТУ им. Н.Э. Баумана"
+Comment1 "МГТУ.464419.001"
+Comment2 "Белкин М.А."
+Comment3 "Каранкевич А.А."
+Comment4 ""
+$EndDescr
+$Sheet
+S 7300 4600 700  550 
+U 5FB9C49B
+F0 "RF_Generator_1" 50
+F1 "RF_Generator.sch" 50
+F2 "~RFout" O R 8000 4800 50 
+F3 "RFout" O R 8000 4700 50 
+F4 "SPI" B L 7300 4650 50 
+F5 "~MUTE" I L 7300 4750 50 
+F6 "STAT" O L 7300 4850 50 
+$EndSheet
+$Sheet
+S 8450 4250 650  850 
+U 5FCE03EA
+F0 "Modulator_1" 50
+F1 "Modulator.sch" 50
+F2 "LOin" I L 8450 4700 50 
+F3 "Iin" I R 9100 4350 50 
+F4 "~Iin" I R 9100 4450 50 
+F5 "~Qin" I R 9100 4800 50 
+F6 "Qin" I R 9100 4700 50 
+F7 "RFout" O L 8450 4350 50 
+F8 "~LOin" I L 8450 4800 50 
+F9 "~ENB" I R 9100 5000 50 
+$EndSheet
+$Sheet
+S 10800 1850 700  200 
+U 5FD4CB6C
+F0 "Amp_int_1" 50
+F1 "Amp_int.sch" 50
+F2 "RF_in" I L 10800 1950 50 
+F3 "RF_out" O R 11500 1950 50 
+$EndSheet
+$Sheet
+S 9700 1850 550  200 
+U 5FB17334
+F0 "Int_filter_1" 50
+F1 "Int_filter.sch" 50
+F2 "IN1" I L 9700 1950 50 
+F3 "OUT1" O R 10250 1950 50 
+$EndSheet
+$Sheet
+S 9700 2800 550  200 
+U 5FB5DB09
+F0 "Int_filter_2" 50
+F1 "Int_filter.sch" 50
+F2 "IN1" I L 9700 2900 50 
+F3 "OUT1" O R 10250 2900 50 
+$EndSheet
+$Comp
+L Connector:Conn_Coaxial J2
+U 1 1 5FB77EC1
+P 1700 4350
+F 0 "J2" H 1800 4325 50  0000 L CNN
+F 1 "SMA" H 1800 4234 50  0000 L CNN
+F 2 "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" H 1700 4350 50  0001 C CNN
+F 3 " ~" H 1700 4350 50  0001 C CNN
+	1    1700 4350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 5FC34F37
+P 3950 2450
+AR Path="/5FB5214A/5FC34F37" Ref="R?"  Part="1" 
+AR Path="/5FB8941C/5FC34F37" Ref="R?"  Part="1" 
+AR Path="/5FC1FF3A/5FC34F37" Ref="R?"  Part="1" 
+AR Path="/5FC1FF40/5FC34F37" Ref="R?"  Part="1" 
+AR Path="/5FC34F37" Ref="R1"  Part="1" 
+F 0 "R1" V 3743 2450 50  0000 C CNN
+F 1 "10" V 3834 2450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 3880 2450 50  0001 C CNN
+F 3 "~" H 3950 2450 50  0001 C CNN
+	1    3950 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5FC34F3D
+P 4250 2450
+AR Path="/5FB5214A/5FC34F3D" Ref="C?"  Part="1" 
+AR Path="/5FB8941C/5FC34F3D" Ref="C?"  Part="1" 
+AR Path="/5FC1FF3A/5FC34F3D" Ref="C?"  Part="1" 
+AR Path="/5FC1FF40/5FC34F3D" Ref="C?"  Part="1" 
+AR Path="/5FC34F3D" Ref="C4"  Part="1" 
+F 0 "C4" V 3998 2450 50  0000 C CNN
+F 1 "330p" V 4089 2450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 4288 2300 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628" H 4250 2450 50  0001 C CNN
+	1    4250 2450
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3600 2450 3800 2450
+$Comp
+L Device:R R?
+U 1 1 5FC3EEAC
+P 5700 2450
+AR Path="/5FB5214A/5FC3EEAC" Ref="R?"  Part="1" 
+AR Path="/5FB8941C/5FC3EEAC" Ref="R?"  Part="1" 
+AR Path="/5FC1FF3A/5FC3EEAC" Ref="R?"  Part="1" 
+AR Path="/5FC1FF40/5FC3EEAC" Ref="R?"  Part="1" 
+AR Path="/5FC3EEAC" Ref="R2"  Part="1" 
+F 0 "R2" V 5493 2450 50  0000 C CNN
+F 1 "10" V 5584 2450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 5630 2450 50  0001 C CNN
+F 3 "~" H 5700 2450 50  0001 C CNN
+	1    5700 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5FC3EEB6
+P 6000 2450
+AR Path="/5FB5214A/5FC3EEB6" Ref="C?"  Part="1" 
+AR Path="/5FB8941C/5FC3EEB6" Ref="C?"  Part="1" 
+AR Path="/5FC1FF3A/5FC3EEB6" Ref="C?"  Part="1" 
+AR Path="/5FC1FF40/5FC3EEB6" Ref="C?"  Part="1" 
+AR Path="/5FC3EEB6" Ref="C5"  Part="1" 
+F 0 "C5" V 5748 2450 50  0000 C CNN
+F 1 "330p" V 5839 2450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6038 2300 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628" H 6000 2450 50  0001 C CNN
+	1    6000 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L power:Earth #PWR02
+U 1 1 5FC4A77F
+P 1700 4550
+F 0 "#PWR02" H 1700 4300 50  0001 C CNN
+F 1 "Earth" H 1700 4400 50  0001 C CNN
+F 2 "" H 1700 4550 50  0001 C CNN
+F 3 "~" H 1700 4550 50  0001 C CNN
+	1    1700 4550
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 2900 4250 700  200 
+U 5FC50738
+F0 "Power_amp_1" 50
+F1 "Power_amp.sch" 50
+F2 "Rf_in" I R 3600 4350 50 
+F3 "RF_out" O L 2900 4350 50 
+$EndSheet
+$Comp
+L power:Earth #PWR04
+U 1 1 5FC886EA
+P 7350 3000
+F 0 "#PWR04" H 7350 2750 50  0001 C CNN
+F 1 "Earth" H 7350 2850 50  0001 C CNN
+F 2 "" H 7350 3000 50  0001 C CNN
+F 3 "~" H 7350 3000 50  0001 C CNN
+	1    7350 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5FC95397
+P 7350 2850
+AR Path="/5FD13150/5FC95397" Ref="C?"  Part="1" 
+AR Path="/5FC95397" Ref="C6"  Part="1" 
+F 0 "C6" H 7050 2800 50  0000 L CNN
+F 1 "100p" H 7050 2900 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7388 2700 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622" H 7350 2850 50  0001 C CNN
+	1    7350 2850
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:Earth #PWR05
+U 1 1 5FC9579E
+P 7800 3000
+F 0 "#PWR05" H 7800 2750 50  0001 C CNN
+F 1 "Earth" H 7800 2850 50  0001 C CNN
+F 2 "" H 7800 3000 50  0001 C CNN
+F 3 "~" H 7800 3000 50  0001 C CNN
+	1    7800 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5FC957A8
+P 7800 2850
+AR Path="/5FD13150/5FC957A8" Ref="C?"  Part="1" 
+AR Path="/5FC957A8" Ref="C8"  Part="1" 
+F 0 "C8" H 7500 2800 50  0000 L CNN
+F 1 "100p" H 7500 2900 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7838 2700 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622" H 7800 2850 50  0001 C CNN
+	1    7800 2850
+	-1   0    0    1   
+$EndComp
+$Sheet
+S 10800 2800 700  200 
+U 5FCDE39D
+F0 "Amp_int_2" 50
+F1 "Amp_int.sch" 50
+F2 "RF_in" I L 10800 2900 50 
+F3 "RF_out" O R 11500 2900 50 
+$EndSheet
+$Sheet
+S 4200 6250 1650 700 
+U 5FCE96D4
+F0 "Power" 50
+F1 "Power.sch" 50
+$EndSheet
+Wire Wire Line
+	14900 5450 15300 5450
+Entry Wire Line
+	15400 5450 15300 5350
+Wire Wire Line
+	15200 4450 14900 4450
+$Comp
+L power:Earth #PWR?
+U 1 1 5FCF0F6B
+P 15200 4450
+AR Path="/5FB685D2/5FCF0F6B" Ref="#PWR?"  Part="1" 
+AR Path="/5FCF0F6B" Ref="#PWR024"  Part="1" 
+F 0 "#PWR024" H 15200 4200 50  0001 C CNN
+F 1 "Earth" H 15200 4300 50  0001 C CNN
+F 2 "" H 15200 4450 50  0001 C CNN
+F 3 "~" H 15200 4450 50  0001 C CNN
+	1    15200 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 5350 14900 5350
+Wire Wire Line
+	14900 5250 15300 5250
+Wire Wire Line
+	15300 5150 14900 5150
+Wire Wire Line
+	15300 5050 14900 5050
+Wire Wire Line
+	15300 4950 14900 4950
+Wire Wire Line
+	15300 4850 14900 4850
+Wire Wire Line
+	15300 4750 14900 4750
+Wire Wire Line
+	15300 4650 14900 4650
+Wire Wire Line
+	15300 4550 14900 4550
+Wire Wire Line
+	14400 5450 13950 5450
+Wire Wire Line
+	13950 5350 14400 5350
+Wire Wire Line
+	13950 5250 14400 5250
+Wire Wire Line
+	13950 5150 14400 5150
+Wire Wire Line
+	13950 5050 14400 5050
+Wire Wire Line
+	13950 4950 14400 4950
+Wire Wire Line
+	13950 4850 14400 4850
+Wire Wire Line
+	13950 4750 14400 4750
+Wire Wire Line
+	13950 4650 14400 4650
+Wire Wire Line
+	13950 4550 14400 4550
+Wire Wire Line
+	14150 4350 14400 4350
+Wire Wire Line
+	14150 4250 14400 4250
+Wire Wire Line
+	14150 4150 14400 4150
+Wire Wire Line
+	14150 4050 14400 4050
+Wire Wire Line
+	14150 3950 14400 3950
+Wire Wire Line
+	14150 3850 14400 3850
+Wire Wire Line
+	14150 3750 14400 3750
+Wire Wire Line
+	14150 3650 14400 3650
+Entry Wire Line
+	15400 5550 15300 5450
+Entry Wire Line
+	15400 5350 15300 5250
+Entry Wire Line
+	15400 5250 15300 5150
+Entry Wire Line
+	15400 5150 15300 5050
+Entry Wire Line
+	15400 5050 15300 4950
+Entry Wire Line
+	15400 4950 15300 4850
+Entry Wire Line
+	15400 4850 15300 4750
+Entry Wire Line
+	15400 4750 15300 4650
+Entry Wire Line
+	13850 4450 13950 4550
+Entry Wire Line
+	13850 4550 13950 4650
+Entry Wire Line
+	13850 5350 13950 5450
+Entry Wire Line
+	13850 5250 13950 5350
+Entry Wire Line
+	13850 5150 13950 5250
+Entry Wire Line
+	13850 5050 13950 5150
+Entry Wire Line
+	13850 4950 13950 5050
+Entry Wire Line
+	13850 4850 13950 4950
+Entry Wire Line
+	13850 4750 13950 4850
+Entry Wire Line
+	13850 4650 13950 4750
+Entry Wire Line
+	13850 4650 13950 4750
+Wire Wire Line
+	14900 4350 15300 4350
+Wire Wire Line
+	15300 4250 14900 4250
+Wire Wire Line
+	14900 4150 15300 4150
+Wire Wire Line
+	15300 4050 14900 4050
+Wire Wire Line
+	14900 3950 15300 3950
+Wire Wire Line
+	15300 3850 14900 3850
+Wire Wire Line
+	15300 3750 14900 3750
+Wire Wire Line
+	15300 3650 14900 3650
+Entry Wire Line
+	14050 4250 14150 4350
+Entry Wire Line
+	15400 4250 15300 4350
+Entry Wire Line
+	15400 4150 15300 4250
+Entry Wire Line
+	15400 4050 15300 4150
+Entry Wire Line
+	15400 3950 15300 4050
+Entry Wire Line
+	15400 3850 15300 3950
+Entry Wire Line
+	15400 3750 15300 3850
+Entry Wire Line
+	15400 3650 15300 3750
+Entry Wire Line
+	15400 3550 15300 3650
+Entry Wire Line
+	14050 4150 14150 4250
+Entry Wire Line
+	14050 4050 14150 4150
+Entry Wire Line
+	14050 3950 14150 4050
+Entry Wire Line
+	14050 3850 14150 3950
+Entry Wire Line
+	14050 3750 14150 3850
+Entry Wire Line
+	14050 3650 14150 3750
+Entry Wire Line
+	14050 3550 14150 3650
+$Comp
+L Connector_Generic:Conn_02x20_Odd_Even J?
+U 1 1 5FCF0FC8
+P 14600 4450
+AR Path="/5FB685D2/5FCF0FC8" Ref="J?"  Part="1" 
+AR Path="/5FCF0FC8" Ref="J3"  Part="1" 
+F 0 "J3" H 14650 5567 50  0000 C CNN
+F 1 "Conn_02x20_Top_Bottom" H 14700 5500 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical" H 14600 4450 50  0001 C CNN
+F 3 "~" H 14600 4450 50  0001 C CNN
+	1    14600 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7350 2600 7350 2700
+Wire Wire Line
+	7350 2600 7800 2600
+Wire Wire Line
+	7800 2600 7800 2700
+$Comp
+L Device:R R?
+U 1 1 5FE17101
+P 7450 2450
+AR Path="/5FB5214A/5FE17101" Ref="R?"  Part="1" 
+AR Path="/5FB8941C/5FE17101" Ref="R?"  Part="1" 
+AR Path="/5FC1FF3A/5FE17101" Ref="R?"  Part="1" 
+AR Path="/5FC1FF40/5FE17101" Ref="R?"  Part="1" 
+AR Path="/5FE17101" Ref="R3"  Part="1" 
+F 0 "R3" V 7243 2450 50  0000 C CNN
+F 1 "10" V 7334 2450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 7380 2450 50  0001 C CNN
+F 3 "~" H 7450 2450 50  0001 C CNN
+	1    7450 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5FE1710B
+P 7750 2450
+AR Path="/5FB5214A/5FE1710B" Ref="C?"  Part="1" 
+AR Path="/5FB8941C/5FE1710B" Ref="C?"  Part="1" 
+AR Path="/5FC1FF3A/5FE1710B" Ref="C?"  Part="1" 
+AR Path="/5FC1FF40/5FE1710B" Ref="C?"  Part="1" 
+AR Path="/5FE1710B" Ref="C7"  Part="1" 
+F 0 "C7" V 7498 2450 50  0000 C CNN
+F 1 "330p" V 7589 2450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 7788 2300 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628" H 7750 2450 50  0001 C CNN
+	1    7750 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L power:Earth #PWR01
+U 1 1 5FB432C9
+P 1700 2650
+F 0 "#PWR01" H 1700 2400 50  0001 C CNN
+F 1 "Earth" H 1700 2500 50  0001 C CNN
+F 2 "" H 1700 2650 50  0001 C CNN
+F 3 "~" H 1700 2650 50  0001 C CNN
+	1    1700 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_Coaxial J1
+U 1 1 5FB5AC18
+P 1700 2450
+F 0 "J1" H 1800 2425 50  0000 L CNN
+F 1 "SMA" H 1800 2334 50  0000 L CNN
+F 2 "Connector_Coaxial:SMA_Amphenol_132289_EdgeMount" H 1700 2450 50  0001 C CNN
+F 3 " ~" H 1700 2450 50  0001 C CNN
+	1    1700 2450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5FE569B6
+P 2150 2700
+AR Path="/5FE569B6" Ref="C1"  Part="1" 
+AR Path="/5FB5214A/5FE569B6" Ref="C?"  Part="1" 
+AR Path="/5FB8941C/5FE569B6" Ref="C?"  Part="1" 
+AR Path="/5FC1FF3A/5FE569B6" Ref="C?"  Part="1" 
+AR Path="/5FC1FF40/5FE569B6" Ref="C?"  Part="1" 
+F 0 "C1" H 2265 2746 50  0000 L CNN
+F 1 "1.5p" H 2265 2655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2188 2550 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/15-pf-41602" H 2150 2700 50  0001 C CNN
+	1    2150 2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR03
+U 1 1 5FE569BC
+P 2150 3150
+AR Path="/5FE569BC" Ref="#PWR03"  Part="1" 
+AR Path="/5FB5214A/5FE569BC" Ref="#PWR?"  Part="1" 
+AR Path="/5FB8941C/5FE569BC" Ref="#PWR?"  Part="1" 
+AR Path="/5FC1FF3A/5FE569BC" Ref="#PWR?"  Part="1" 
+AR Path="/5FC1FF40/5FE569BC" Ref="#PWR?"  Part="1" 
+F 0 "#PWR03" H 2150 2900 50  0001 C CNN
+F 1 "Earth" H 2150 3000 50  0001 C CNN
+F 2 "" H 2150 3150 50  0001 C CNN
+F 3 "~" H 2150 3150 50  0001 C CNN
+	1    2150 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 2550 2150 2450
+Wire Wire Line
+	2150 2450 2400 2450
+$Comp
+L Device:C C3
+U 1 1 5FE569C7
+P 2550 2450
+AR Path="/5FE569C7" Ref="C3"  Part="1" 
+AR Path="/5FB5214A/5FE569C7" Ref="C?"  Part="1" 
+AR Path="/5FB8941C/5FE569C7" Ref="C?"  Part="1" 
+AR Path="/5FC1FF3A/5FE569C7" Ref="C?"  Part="1" 
+AR Path="/5FC1FF40/5FE569C7" Ref="C?"  Part="1" 
+F 0 "C3" V 2298 2450 50  0000 C CNN
+F 1 "330p" V 2389 2450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2588 2300 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/330-pf-41628" H 2550 2450 50  0001 C CNN
+	1    2550 2450
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C C2
+U 1 1 5FE569CD
+P 2150 3000
+AR Path="/5FE569CD" Ref="C2"  Part="1" 
+AR Path="/5FB5214A/5FE569CD" Ref="C?"  Part="1" 
+AR Path="/5FB8941C/5FE569CD" Ref="C?"  Part="1" 
+AR Path="/5FC1FF3A/5FE569CD" Ref="C?"  Part="1" 
+AR Path="/5FC1FF40/5FE569CD" Ref="C?"  Part="1" 
+F 0 "C2" H 2265 3046 50  0000 L CNN
+F 1 "1.5p" H 2265 2955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 2188 2850 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/15-pf-41602" H 2150 3000 50  0001 C CNN
+	1    2150 3000
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 2900 2200 700  350 
+U 5FB5214A
+F0 "low_noise_amp_1" 50
+F1 "low_noise_amp.sch" 50
+F2 "Rf_in" I L 2900 2450 50 
+F3 "Ven" I L 2900 2300 50 
+F4 "RF_out" O R 3600 2450 50 
+$EndSheet
+$Sheet
+S 4650 2200 700  350 
+U 5FE93DF4
+F0 "low_noise_amp_2" 50
+F1 "low_noise_amp.sch" 50
+F2 "Rf_in" I L 4650 2450 50 
+F3 "Ven" I L 4650 2300 50 
+F4 "RF_out" O R 5350 2450 50 
+$EndSheet
+$Sheet
+S 6400 2200 700  350 
+U 5FEA0824
+F0 "low_noise_amp_3" 50
+F1 "low_noise_amp.sch" 50
+F2 "Rf_in" I L 6400 2450 50 
+F3 "Ven" I L 6400 2300 50 
+F4 "RF_out" O R 7100 2450 50 
+$EndSheet
+$Comp
+L Device:C C?
+U 1 1 5FC0774D
+P 9800 2450
+AR Path="/5FD13150/5FC0774D" Ref="C?"  Part="1" 
+AR Path="/5FC0774D" Ref="C9"  Part="1" 
+F 0 "C9" V 10052 2450 50  0000 C CNN
+F 1 "100p" V 9961 2450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9838 2300 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622" H 9800 2450 50  0001 C CNN
+	1    9800 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:C C?
+U 1 1 5FC0F82D
+P 11400 2450
+AR Path="/5FD13150/5FC0F82D" Ref="C?"  Part="1" 
+AR Path="/5FC0F82D" Ref="C11"  Part="1" 
+F 0 "C11" V 11652 2450 50  0000 C CNN
+F 1 "100p" V 11561 2450 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 11438 2300 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622" H 11400 2450 50  0001 C CNN
+	1    11400 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:Earth #PWR06
+U 1 1 5FC2BE5D
+P 9950 2450
+F 0 "#PWR06" H 9950 2200 50  0001 C CNN
+F 1 "Earth" H 9950 2300 50  0001 C CNN
+F 2 "" H 9950 2450 50  0001 C CNN
+F 3 "~" H 9950 2450 50  0001 C CNN
+	1    9950 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR08
+U 1 1 5FC32F64
+P 11250 2450
+F 0 "#PWR08" H 11250 2200 50  0001 C CNN
+F 1 "Earth" H 11250 2300 50  0001 C CNN
+F 2 "" H 11250 2450 50  0001 C CNN
+F 3 "~" H 11250 2450 50  0001 C CNN
+	1    11250 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR07
+U 1 1 5FC46D7C
+P 9950 3400
+F 0 "#PWR07" H 9950 3150 50  0001 C CNN
+F 1 "Earth" H 9950 3250 50  0001 C CNN
+F 2 "" H 9950 3400 50  0001 C CNN
+F 3 "~" H 9950 3400 50  0001 C CNN
+	1    9950 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 2450 4650 2450
+Wire Wire Line
+	5350 2450 5550 2450
+Wire Wire Line
+	6150 2450 6400 2450
+Wire Wire Line
+	1900 2450 2150 2450
+Connection ~ 2150 2450
+Wire Wire Line
+	2700 2450 2900 2450
+Wire Wire Line
+	7300 2450 7100 2450
+$Sheet
+S 8450 2350 650  900 
+U 5FD13150
+F0 "Demodulator_1" 50
+F1 "Demodulator.sch" 50
+F2 "Iout" O R 9100 2450 50 
+F3 "~Iout" O R 9100 2550 50 
+F4 "~Qout" O R 9100 2900 50 
+F5 "Qout" O R 9100 2800 50 
+F6 "RFin" I L 8450 2450 50 
+F7 "~RFin" I L 8450 2550 50 
+F8 "LOin" I L 8450 2800 50 
+F9 "~LOin" I L 8450 2900 50 
+F10 "~ENB" I R 9100 3150 50 
+$EndSheet
+Wire Wire Line
+	8450 2450 7900 2450
+Wire Wire Line
+	8450 2550 8100 2550
+Wire Wire Line
+	8100 2550 8100 2600
+Wire Wire Line
+	8100 2600 7800 2600
+Connection ~ 7800 2600
+$Comp
+L Device:C C?
+U 1 1 5FC46D72
+P 9800 3400
+AR Path="/5FD13150/5FC46D72" Ref="C?"  Part="1" 
+AR Path="/5FC46D72" Ref="C10"  Part="1" 
+F 0 "C10" V 10052 3400 50  0000 C CNN
+F 1 "100p" V 9961 3400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 9838 3250 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622" H 9800 3400 50  0001 C CNN
+	1    9800 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9100 2450 9400 2450
+Wire Wire Line
+	9400 2450 9400 1950
+Wire Wire Line
+	9400 1950 9700 1950
+Wire Wire Line
+	9100 2550 9500 2550
+Wire Wire Line
+	9500 2550 9500 2450
+Wire Wire Line
+	9500 2450 9650 2450
+Wire Wire Line
+	9100 2900 9400 2900
+Wire Wire Line
+	9400 2900 9400 3400
+Wire Wire Line
+	9400 3400 9650 3400
+Wire Wire Line
+	9100 2800 9500 2800
+Wire Wire Line
+	9500 2800 9500 2900
+Wire Wire Line
+	9500 2900 9700 2900
+$Comp
+L Device:C C?
+U 1 1 5FC77950
+P 11400 3400
+AR Path="/5FD13150/5FC77950" Ref="C?"  Part="1" 
+AR Path="/5FC77950" Ref="C12"  Part="1" 
+F 0 "C12" V 11652 3400 50  0000 C CNN
+F 1 "100p" V 11561 3400 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 11438 3250 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/416-smd/100-pf-41622" H 11400 3400 50  0001 C CNN
+	1    11400 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:Earth #PWR09
+U 1 1 5FC77956
+P 11250 3400
+F 0 "#PWR09" H 11250 3150 50  0001 C CNN
+F 1 "Earth" H 11250 3250 50  0001 C CNN
+F 2 "" H 11250 3400 50  0001 C CNN
+F 3 "~" H 11250 3400 50  0001 C CNN
+	1    11250 3400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10250 1950 10800 1950
+Wire Wire Line
+	10250 2900 10800 2900
+Wire Wire Line
+	11500 2900 11700 2900
+Wire Wire Line
+	11700 2900 11700 2800
+Wire Wire Line
+	11700 2800 12150 2800
+Wire Wire Line
+	12150 2900 11800 2900
+Wire Wire Line
+	11800 2900 11800 3400
+Wire Wire Line
+	11800 3400 11550 3400
+Wire Wire Line
+	12150 2550 11700 2550
+Wire Wire Line
+	11700 2550 11700 2450
+Wire Wire Line
+	11700 2450 11550 2450
+Wire Wire Line
+	12150 2450 11800 2450
+Wire Wire Line
+	11800 2450 11800 1950
+Wire Wire Line
+	11800 1950 11500 1950
+$Comp
+L power:Earth #PWR?
+U 1 1 5FD6277C
+P 15200 3550
+AR Path="/5FB685D2/5FD6277C" Ref="#PWR?"  Part="1" 
+AR Path="/5FD6277C" Ref="#PWR023"  Part="1" 
+F 0 "#PWR023" H 15200 3300 50  0001 C CNN
+F 1 "Earth" H 15200 3400 50  0001 C CNN
+F 2 "" H 15200 3550 50  0001 C CNN
+F 3 "~" H 15200 3550 50  0001 C CNN
+	1    15200 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15200 3550 14900 3550
+$Sheet
+S 12150 4250 900  1400
+U 5FB693D0
+F0 "DAC_1" 50
+F1 "DAC.sch" 50
+F2 "CLOCK" I R 13050 5250 50 
+F3 "Gout" O L 12150 4350 50 
+F4 "Bout" O L 12150 4700 50 
+F5 "Rout" O L 12150 5050 50 
+F6 "Data_R" I R 13050 5050 50 
+F7 "Data_B" I R 13050 4700 50 
+F8 "Data_G" I R 13050 4350 50 
+F9 "~PSAVE" I R 13050 5350 50 
+F10 "~SYNC" I R 13050 5450 50 
+F11 "~BLANK" I R 13050 5550 50 
+F12 "~Rout" O L 12150 5150 50 
+F13 "~Gout" O L 12150 4450 50 
+F14 "~Bout" O L 12150 4800 50 
+$EndSheet
+Text Label 14900 4650 0    50   ~ 0
+DB1
+Text Label 14400 4650 2    50   ~ 0
+DG8
+Text Label 14400 3750 2    50   ~ 0
+DB_1
+Text Label 14900 3750 0    50   ~ 0
+DA_1
+Wire Bus Line
+	13050 2800 14050 2800
+Wire Bus Line
+	13050 2450 15400 2450
+Wire Bus Line
+	13050 4700 13750 4700
+Wire Bus Line
+	13750 5600 15400 5600
+Entry Wire Line
+	15400 4650 15300 4550
+Wire Wire Line
+	13050 5050 13150 5050
+Wire Wire Line
+	12150 5050 12050 5050
+Wire Wire Line
+	12150 5150 12050 5150
+NoConn ~ 12050 5150
+NoConn ~ 12050 5050
+NoConn ~ 13150 5050
+Wire Wire Line
+	13050 5550 13150 5550
+Wire Wire Line
+	13050 5450 13250 5450
+Wire Wire Line
+	13050 5350 13350 5350
+Wire Wire Line
+	13050 5250 13350 5250
+Wire Wire Line
+	13950 4250 13950 4450
+Wire Wire Line
+	13950 4450 14400 4450
+Wire Wire Line
+	14400 3550 14150 3550
+Wire Wire Line
+	14150 3550 14150 2900
+Wire Wire Line
+	14150 2550 13050 2550
+Wire Wire Line
+	13050 2900 14150 2900
+Wire Wire Line
+	14150 2900 14150 2550
+Wire Wire Line
+	13050 3350 13450 3350
+Wire Wire Line
+	13050 3250 13550 3250
+Wire Wire Line
+	13050 3150 13650 3150
+Wire Bus Line
+	13750 4700 13750 5600
+Wire Wire Line
+	13350 4250 13950 4250
+Wire Wire Line
+	13350 4250 13350 5250
+Wire Bus Line
+	13050 4350 13850 4350
+Connection ~ 14150 2900
+Wire Wire Line
+	1900 4350 2900 4350
+Wire Wire Line
+	3600 4350 4650 4350
+Wire Wire Line
+	8450 2800 8200 2800
+Wire Wire Line
+	8200 2800 8200 4700
+Wire Wire Line
+	8200 4700 8450 4700
+Wire Wire Line
+	8450 4800 8300 4800
+Wire Wire Line
+	8300 4800 8300 2900
+Wire Wire Line
+	8300 2900 8450 2900
+Wire Wire Line
+	8300 4800 8000 4800
+Connection ~ 8300 4800
+Wire Wire Line
+	8200 4700 8000 4700
+Connection ~ 8200 4700
+$Sheet
+S 10800 4300 550  200 
+U 5FCDC65D
+F0 "Balanced_filter_1" 50
+F1 "Balanced_filter.sch" 50
+F2 "IN1" I R 11350 4350 50 
+F3 "OUT1" O L 10800 4350 50 
+F4 "IN2" I R 11350 4450 50 
+F5 "OUT2" O L 10800 4450 50 
+$EndSheet
+Wire Wire Line
+	10800 4350 9100 4350
+Wire Wire Line
+	11350 4350 12150 4350
+Wire Wire Line
+	11350 4450 12150 4450
+Wire Wire Line
+	9100 4450 10800 4450
+Wire Wire Line
+	9100 4700 9900 4700
+Wire Wire Line
+	10450 4700 12150 4700
+Wire Wire Line
+	10450 4800 12150 4800
+Wire Wire Line
+	9900 4800 9100 4800
+$Sheet
+S 9900 4650 550  200 
+U 5FD26E70
+F0 "Balanced_filter_2" 50
+F1 "Balanced_filter.sch" 50
+F2 "IN1" I R 10450 4700 50 
+F3 "OUT1" O L 9900 4700 50 
+F4 "IN2" I R 10450 4800 50 
+F5 "OUT2" O L 9900 4800 50 
+$EndSheet
+Wire Wire Line
+	2900 2300 2800 2300
+Wire Wire Line
+	2800 2300 2800 2750
+Wire Wire Line
+	2800 2750 4550 2750
+Wire Wire Line
+	4550 2750 4550 2300
+Wire Wire Line
+	4550 2300 4650 2300
+Wire Wire Line
+	6400 2300 6300 2300
+Wire Wire Line
+	6300 2300 6300 2750
+Wire Wire Line
+	6300 2750 4550 2750
+Connection ~ 4550 2750
+Connection ~ 6300 2750
+Wire Wire Line
+	7300 4850 7200 4850
+Wire Wire Line
+	7200 5800 13050 5800
+Wire Wire Line
+	7200 4850 7200 5800
+Wire Wire Line
+	12950 5900 7100 5900
+Wire Wire Line
+	7100 5900 7100 4750
+Wire Wire Line
+	7100 4750 7300 4750
+Wire Bus Line
+	7300 4650 7000 4650
+Wire Bus Line
+	7000 4650 7000 6000
+Wire Bus Line
+	7000 6000 12850 6000
+Wire Wire Line
+	6300 6100 12750 6100
+Wire Wire Line
+	6300 2750 6300 6100
+Wire Wire Line
+	14400 6200 13650 6200
+Wire Wire Line
+	13650 3150 13650 6200
+Wire Wire Line
+	14400 6300 13550 6300
+Wire Wire Line
+	13550 3250 13550 6300
+Wire Wire Line
+	13450 6400 14400 6400
+Wire Wire Line
+	13450 3350 13450 6400
+Wire Wire Line
+	13350 6500 14400 6500
+Wire Wire Line
+	13350 5350 13350 6500
+Wire Wire Line
+	13250 6600 14400 6600
+Wire Wire Line
+	13250 5450 13250 6600
+Wire Wire Line
+	13150 6700 14400 6700
+Wire Wire Line
+	13150 5550 13150 6700
+Wire Wire Line
+	13050 5800 13050 6800
+Wire Wire Line
+	12950 5900 12950 6900
+Wire Wire Line
+	12950 6900 14400 6900
+Wire Wire Line
+	14400 7100 14150 7100
+Wire Wire Line
+	14400 7200 14150 7200
+Wire Wire Line
+	14400 7400 14150 7400
+Wire Wire Line
+	14400 7500 12750 7500
+Wire Wire Line
+	12750 6100 12750 7500
+Wire Bus Line
+	12850 7000 14050 7000
+Wire Bus Line
+	12850 6000 12850 7000
+Entry Wire Line
+	14050 7000 14150 7100
+Entry Wire Line
+	14050 7100 14150 7200
+Entry Wire Line
+	14050 7200 14150 7300
+Entry Wire Line
+	14050 7300 14150 7400
+$Comp
+L power:+5V #PWR012
+U 1 1 5FE82F44
+P 14400 7800
+F 0 "#PWR012" H 14400 7650 50  0001 C CNN
+F 1 "+5V" V 14415 7928 50  0000 L CNN
+F 2 "" H 14400 7800 50  0001 C CNN
+F 3 "" H 14400 7800 50  0001 C CNN
+	1    14400 7800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR013
+U 1 1 5FE830BB
+P 14400 7900
+F 0 "#PWR013" H 14400 7750 50  0001 C CNN
+F 1 "+5V" V 14415 8028 50  0000 L CNN
+F 2 "" H 14400 7900 50  0001 C CNN
+F 3 "" H 14400 7900 50  0001 C CNN
+	1    14400 7900
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR014
+U 1 1 5FE8328B
+P 14400 8000
+F 0 "#PWR014" H 14400 7850 50  0001 C CNN
+F 1 "+5V" V 14415 8128 50  0000 L CNN
+F 2 "" H 14400 8000 50  0001 C CNN
+F 3 "" H 14400 8000 50  0001 C CNN
+	1    14400 8000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR018
+U 1 1 5FE8349A
+P 14900 7600
+F 0 "#PWR018" H 14900 7450 50  0001 C CNN
+F 1 "+5V" V 14915 7728 50  0000 L CNN
+F 2 "" H 14900 7600 50  0001 C CNN
+F 3 "" H 14900 7600 50  0001 C CNN
+	1    14900 7600
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR019
+U 1 1 5FE83FF8
+P 14900 7700
+F 0 "#PWR019" H 14900 7550 50  0001 C CNN
+F 1 "+5V" V 14915 7828 50  0000 L CNN
+F 2 "" H 14900 7700 50  0001 C CNN
+F 3 "" H 14900 7700 50  0001 C CNN
+	1    14900 7700
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR020
+U 1 1 5FE84189
+P 14900 7800
+F 0 "#PWR020" H 14900 7650 50  0001 C CNN
+F 1 "+5V" V 14915 7928 50  0000 L CNN
+F 2 "" H 14900 7800 50  0001 C CNN
+F 3 "" H 14900 7800 50  0001 C CNN
+	1    14900 7800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR021
+U 1 1 5FE84373
+P 14900 7900
+F 0 "#PWR021" H 14900 7750 50  0001 C CNN
+F 1 "+5V" V 14915 8028 50  0000 L CNN
+F 2 "" H 14900 7900 50  0001 C CNN
+F 3 "" H 14900 7900 50  0001 C CNN
+	1    14900 7900
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR022
+U 1 1 5FE845C5
+P 14900 8000
+F 0 "#PWR022" H 14900 7850 50  0001 C CNN
+F 1 "+5V" V 14915 8128 50  0000 L CNN
+F 2 "" H 14900 8000 50  0001 C CNN
+F 3 "" H 14900 8000 50  0001 C CNN
+	1    14900 8000
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3.3V #PWR011
+U 1 1 5FE8484D
+P 14400 7000
+F 0 "#PWR011" H 14400 6850 50  0001 C CNN
+F 1 "+3.3V" V 14415 7128 50  0000 L CNN
+F 2 "" H 14400 7000 50  0001 C CNN
+F 3 "" H 14400 7000 50  0001 C CNN
+	1    14400 7000
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	14400 7300 14150 7300
+Wire Wire Line
+	14400 6800 13050 6800
+$Comp
+L Connector_Generic:Conn_02x20_Odd_Even J?
+U 1 1 5FDB26F4
+P 14600 7000
+AR Path="/5FB685D2/5FDB26F4" Ref="J?"  Part="1" 
+AR Path="/5FDB26F4" Ref="J4"  Part="1" 
+F 0 "J4" H 14650 8117 50  0000 C CNN
+F 1 "Conn_02x20_Top_Bottom" H 14700 8050 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical" H 14600 7000 50  0001 C CNN
+F 3 "~" H 14600 7000 50  0001 C CNN
+	1    14600 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR010
+U 1 1 5FE8FEB3
+P 14400 6100
+F 0 "#PWR010" H 14400 5950 50  0001 C CNN
+F 1 "+3.3V" V 14415 6228 50  0000 L CNN
+F 2 "" H 14400 6100 50  0001 C CNN
+F 3 "" H 14400 6100 50  0001 C CNN
+	1    14400 6100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3.3V #PWR015
+U 1 1 5FE9021E
+P 14900 6100
+F 0 "#PWR015" H 14900 5950 50  0001 C CNN
+F 1 "+3.3V" V 14915 6228 50  0000 L CNN
+F 2 "" H 14900 6100 50  0001 C CNN
+F 3 "" H 14900 6100 50  0001 C CNN
+	1    14900 6100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3.3V #PWR016
+U 1 1 5FE90537
+P 14900 7000
+F 0 "#PWR016" H 14900 6850 50  0001 C CNN
+F 1 "+3.3V" V 14915 7128 50  0000 L CNN
+F 2 "" H 14900 7000 50  0001 C CNN
+F 3 "" H 14900 7000 50  0001 C CNN
+	1    14900 7000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	14900 6200 15000 6200
+Wire Wire Line
+	15000 6200 15000 6300
+Wire Wire Line
+	15000 6900 14900 6900
+Wire Wire Line
+	14900 6800 15000 6800
+Connection ~ 15000 6800
+Wire Wire Line
+	15000 6800 15000 6900
+Wire Wire Line
+	14900 6700 15000 6700
+Connection ~ 15000 6700
+Wire Wire Line
+	15000 6700 15000 6800
+Wire Wire Line
+	14900 6600 15000 6600
+Connection ~ 15000 6600
+Wire Wire Line
+	15000 6600 15000 6700
+Wire Wire Line
+	14900 6500 15000 6500
+Connection ~ 15000 6500
+Wire Wire Line
+	15000 6500 15000 6600
+Wire Wire Line
+	14900 6400 15000 6400
+Connection ~ 15000 6400
+Wire Wire Line
+	15000 6400 15000 6500
+Wire Wire Line
+	14900 6300 15000 6300
+Connection ~ 15000 6300
+Wire Wire Line
+	15000 6300 15000 6400
+$Comp
+L power:Earth #PWR025
+U 1 1 5FEE26D4
+P 15300 6600
+F 0 "#PWR025" H 15300 6350 50  0001 C CNN
+F 1 "Earth" H 15300 6450 50  0001 C CNN
+F 2 "" H 15300 6600 50  0001 C CNN
+F 3 "~" H 15300 6600 50  0001 C CNN
+	1    15300 6600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	15300 6600 15000 6600
+Wire Wire Line
+	14900 7400 15000 7400
+Wire Wire Line
+	15000 7400 15000 7300
+Wire Wire Line
+	15000 7100 14900 7100
+Wire Wire Line
+	15000 7200 14900 7200
+Connection ~ 15000 7200
+Wire Wire Line
+	15000 7200 15000 7100
+Wire Wire Line
+	15000 7300 14900 7300
+Connection ~ 15000 7300
+Wire Wire Line
+	15000 7300 15000 7200
+Wire Wire Line
+	15000 7300 15300 7300
+$Comp
+L power:Earth #PWR026
+U 1 1 5FF29607
+P 15300 7300
+F 0 "#PWR026" H 15300 7050 50  0001 C CNN
+F 1 "Earth" H 15300 7150 50  0001 C CNN
+F 2 "" H 15300 7300 50  0001 C CNN
+F 3 "~" H 15300 7300 50  0001 C CNN
+	1    15300 7300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+2V5 #PWR017
+U 1 1 5FF35581
+P 14900 7500
+F 0 "#PWR017" H 14900 7350 50  0001 C CNN
+F 1 "+2V5" V 14915 7628 50  0000 L CNN
+F 2 "" H 14900 7500 50  0001 C CNN
+F 3 "" H 14900 7500 50  0001 C CNN
+	1    14900 7500
+	0    1    1    0   
+$EndComp
+$Sheet
+S 4650 4250 700  200 
+U 5FF36AC7
+F0 "Power_amp_2" 50
+F1 "Power_amp.sch" 50
+F2 "Rf_in" I R 5350 4350 50 
+F3 "RF_out" O L 4650 4350 50 
+$EndSheet
+Wire Wire Line
+	5350 4350 8450 4350
+Text Label 14400 7400 2    50   ~ 0
+SDI
+Text Label 14400 7300 2    50   ~ 0
+SDO
+Text Label 14400 7200 2    50   ~ 0
+CLK
+Text Label 14400 7100 2    50   ~ 0
+~CS
+Text Label 14900 4550 0    50   ~ 0
+DB0
+Text Label 14900 4750 0    50   ~ 0
+DB2
+Text Label 14900 4850 0    50   ~ 0
+DB3
+Text Label 14900 4950 0    50   ~ 0
+DB4
+Text Label 14900 5050 0    50   ~ 0
+DB5
+Text Label 14900 5150 0    50   ~ 0
+DB6
+Text Label 14900 5250 0    50   ~ 0
+DB7
+Text Label 14900 5350 0    50   ~ 0
+DB8
+Text Label 14900 5450 0    50   ~ 0
+DB9
+Text Label 14400 5450 2    50   ~ 0
+DG0
+Text Label 14400 5350 2    50   ~ 0
+DG1
+Text Label 14400 5250 2    50   ~ 0
+DG2
+Text Label 14400 5150 2    50   ~ 0
+DG3
+Text Label 14400 5050 2    50   ~ 0
+DG4
+Text Label 14400 4950 2    50   ~ 0
+DG5
+Text Label 14400 4850 2    50   ~ 0
+DG6
+Text Label 14400 4750 2    50   ~ 0
+DG7
+Text Label 14400 4550 2    50   ~ 0
+DG9
+Text Label 14900 4350 0    50   ~ 0
+DA_7
+Text Label 14900 4250 0    50   ~ 0
+DA_6
+Text Label 14900 4150 0    50   ~ 0
+DA_5
+Text Label 14900 4050 0    50   ~ 0
+DA_4
+Text Label 14900 3950 0    50   ~ 0
+DA_3
+Text Label 14900 3850 0    50   ~ 0
+DA_2
+Text Label 14900 3650 0    50   ~ 0
+DA_0
+Text Label 14400 4350 2    50   ~ 0
+DB_7
+Text Label 14400 4250 2    50   ~ 0
+DB_6
+Text Label 14400 4150 2    50   ~ 0
+DB_5
+Text Label 14400 4050 2    50   ~ 0
+DB_4
+Text Label 14400 3950 2    50   ~ 0
+DB_3
+Text Label 14400 3850 2    50   ~ 0
+DB_2
+Text Label 14400 3650 2    50   ~ 0
+DB_0
+Text GLabel 14150 3650 2    0    Input ~ 0
+DB_0
+Text GLabel 14150 3750 2    0    Input ~ 0
+DB_1
+Text GLabel 14150 3850 2    0    Input ~ 0
+DB_2
+Text GLabel 14150 3950 2    0    Input ~ 0
+DB_3
+Text GLabel 14150 4050 2    0    Input ~ 0
+DB_4
+Text GLabel 14150 4150 2    0    Input ~ 0
+DB_5
+Text GLabel 14150 4250 2    0    Input ~ 0
+DB_6
+Text GLabel 14150 4350 2    0    Input ~ 0
+DB_7
+Text GLabel 15300 3650 0    0    Input ~ 0
+DA_0
+Text GLabel 15300 3750 0    0    Input ~ 0
+DA_1
+Text GLabel 15300 3850 0    0    Input ~ 0
+DA_2
+Text GLabel 15300 3950 0    0    Input ~ 0
+DA_3
+Text GLabel 15300 4050 0    0    Input ~ 0
+DA_4
+Text GLabel 15300 4150 0    0    Input ~ 0
+DA_5
+Text GLabel 15300 4250 0    0    Input ~ 0
+DA_6
+Text GLabel 15300 4350 0    0    Input ~ 0
+DA_7
+Text GLabel 14200 4550 0    0    Input ~ 0
+DG9
+Text GLabel 14200 4650 0    0    Input ~ 0
+DG8
+Text GLabel 14200 4750 0    0    Input ~ 0
+DG7
+Text GLabel 14200 4850 0    0    Input ~ 0
+DG6
+Text GLabel 14200 4950 0    0    Input ~ 0
+DG5
+Text GLabel 14200 5050 0    0    Input ~ 0
+DG4
+Text GLabel 14200 5150 0    0    Input ~ 0
+DG3
+Text GLabel 14200 5250 0    0    Input ~ 0
+DG2
+Text GLabel 14200 5350 0    0    Input ~ 0
+DG1
+Text GLabel 14200 5450 0    0    Input ~ 0
+DG0
+Text GLabel 15250 4550 0    0    Input ~ 0
+DB0
+Text GLabel 15250 4650 0    0    Input ~ 0
+DB1
+Text GLabel 15250 4750 0    0    Input ~ 0
+DB2
+Text GLabel 15250 4850 0    0    Input ~ 0
+DB3
+Text GLabel 15250 4950 0    0    Input ~ 0
+DB4
+Text GLabel 15250 5050 0    0    Input ~ 0
+DB5
+Text GLabel 15250 5150 0    0    Input ~ 0
+DB6
+Text GLabel 15250 5250 0    0    Input ~ 0
+DB7
+Text GLabel 15250 5350 0    0    Input ~ 0
+DB8
+Text GLabel 15250 5450 0    0    Input ~ 0
+DB9
+Text GLabel 14250 7100 0    0    Input ~ 0
+~CS
+Text GLabel 14250 7200 0    0    Input ~ 0
+CLK
+Text GLabel 14250 7300 0    0    Input ~ 0
+SDO
+Text GLabel 14250 7400 0    0    Input ~ 0
+SDI
+Wire Wire Line
+	12550 7700 12550 6300
+Wire Wire Line
+	12550 6300 9200 6300
+Wire Wire Line
+	9200 6300 9200 5000
+Wire Wire Line
+	9200 5000 9100 5000
+$Sheet
+S 12150 2350 900  1100
+U 5FB692EB
+F0 "ADC_1" 50
+F1 "ADC.sch" 50
+F2 "ENC_A" I R 13050 2550 50 
+F3 "ENC_B" I R 13050 2900 50 
+F4 "DATA_B" O R 13050 2800 50 
+F5 "DATA_A" O R 13050 2450 50 
+F6 "DFS" I R 13050 3150 50 
+F7 "S1" I R 13050 3250 50 
+F8 "S2" I R 13050 3350 50 
+F9 "Ain" I L 12150 2450 50 
+F10 "~Ain" I L 12150 2550 50 
+F11 "Bin" I L 12150 2800 50 
+F12 "~Bin" I L 12150 2900 50 
+$EndSheet
+Wire Wire Line
+	9300 3150 9300 6200
+Wire Wire Line
+	9300 6200 12650 6200
+Wire Wire Line
+	12650 6200 12650 7600
+Wire Wire Line
+	9100 3150 9300 3150
+Wire Wire Line
+	12650 7600 14400 7600
+Wire Wire Line
+	12550 7700 14400 7700
+Wire Bus Line
+	14050 7000 14050 7300
+Wire Bus Line
+	14050 2800 14050 4250
+Wire Bus Line
+	15400 2450 15400 4250
+Wire Bus Line
+	15400 4650 15400 5600
+Wire Bus Line
+	13850 4350 13850 5350
+$EndSCHEMATC

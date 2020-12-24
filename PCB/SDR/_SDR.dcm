@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD9288
+D ADC 100 MSmp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9288.pdf
+$ENDCMP
+#
+$CMP ADL5375
+D Qadrature_mod
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5375.pdf
+$ENDCMP
+#
+$CMP ADL5380
+D Qadrature demod 600 - 6000MegHz
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADL5380.pdf
+$ENDCMP
+#
+$CMP ADV7123
+D CMOS, 330 MHz Triple 10-Bit High Speed Video DAC
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADV7123.pdf
+$ENDCMP
+#
+$CMP LTC6946
+D Ultralow Noise and Spurious 0.37GHz to 6.39GHz Integer-N Synthesizer with Integrated VCO
+F https://www.analog.com/media/en/technical-documentation/data-sheets/6946fb.pdf
+$ENDCMP
+#
+#End Doc Library

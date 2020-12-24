@@ -1,0 +1,105 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 8268 11693 portrait
+encoding utf-8
+Sheet 17 18
+Title "РЧ Модуль\\nСхема принципиальная"
+Date "2020-12-21"
+Rev ""
+Comp "МГТУ им. Н.Э. Баумана"
+Comment1 "МГТУ.464419.001"
+Comment2 "Белкин М.А."
+Comment3 "Каранкевич А.А."
+Comment4 ""
+$EndDescr
+Text HLabel 3350 5250 0    50   Input ~ 0
+Rf_in
+$Comp
+L Device:C C?
+U 1 1 5FC56240
+P 5100 5250
+AR Path="/5FB5214A/5FC56240" Ref="C?"  Part="1" 
+AR Path="/5FB8941C/5FC56240" Ref="C?"  Part="1" 
+AR Path="/5FC1FF3A/5FC56240" Ref="C?"  Part="1" 
+AR Path="/5FC1FF40/5FC56240" Ref="C?"  Part="1" 
+AR Path="/5FC50738/5FC56240" Ref="C55"  Part="1" 
+AR Path="/5FF36AC7/5FC56240" Ref="C102"  Part="1" 
+F 0 "C102" V 4848 5250 50  0000 C CNN
+F 1 "330p" V 4939 5250 50  0000 C CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" H 5138 5100 50  0001 C CNN
+F 3 "https://new.procontact74.ru/01-elektronnyie-komponentyi-/41-kondensatory/chip-1206/chip-1206-----47-nf-50v" H 5100 5250 50  0001 C CNN
+	1    5100 5250
+	0    1    1    0   
+$EndComp
+Text HLabel 5400 5250 2    50   Output ~ 0
+RF_out
+Wire Wire Line
+	5250 5250 5400 5250
+$Comp
+L Device:L L?
+U 1 1 5FC7420C
+P 4800 4700
+AR Path="/5FB17334/5FC7420C" Ref="L?"  Part="1" 
+AR Path="/5FB5DB09/5FC7420C" Ref="L?"  Part="1" 
+AR Path="/5FC50738/5FC7420C" Ref="L23"  Part="1" 
+AR Path="/5FF36AC7/5FC7420C" Ref="L48"  Part="1" 
+F 0 "L48" V 4990 4700 50  0000 C CNN
+F 1 "120n" V 4899 4700 50  0000 C CNN
+F 2 "Inductor_SMD:L_0402_1005Metric_Pad0.77x0.64mm_HandSolder" H 4800 4700 50  0001 C CNN
+F 3 "https://www.chipdip.ru/product/lqg15hnr12j02d" H 4800 4700 50  0001 C CNN
+	1    4800 4700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	4800 4850 4800 5250
+Connection ~ 4800 5250
+Wire Wire Line
+	4800 5250 4950 5250
+Wire Wire Line
+	4600 5250 4800 5250
+$Comp
+L SDR_lib:AVT-55689 DA1
+U 1 1 5FC790F2
+P 4300 5250
+AR Path="/5FC50738/5FC790F2" Ref="DA1"  Part="1" 
+AR Path="/5FF36AC7/5FC790F2" Ref="DA2"  Part="1" 
+AR Path="/5FC790F2" Ref="DA?"  Part="1" 
+F 0 "DA2" H 4300 5617 50  0000 C CNN
+F 1 "AVT-55689" H 4300 5526 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:SOT-89-3_Handsoldering" H 4450 4750 50  0001 C CIN
+F 3 "https://cdn1.components.ru/174/210174.pdf" H 4950 5050 50  0001 C CNN
+	1    4300 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR065
+U 1 1 5FC79798
+P 4300 5550
+AR Path="/5FC50738/5FC79798" Ref="#PWR065"  Part="1" 
+AR Path="/5FF36AC7/5FC79798" Ref="#PWR0127"  Part="1" 
+F 0 "#PWR0127" H 4300 5300 50  0001 C CNN
+F 1 "Earth" H 4300 5400 50  0001 C CNN
+F 2 "" H 4300 5550 50  0001 C CNN
+F 3 "~" H 4300 5550 50  0001 C CNN
+	1    4300 5550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4800 4550 4800 4450
+$Comp
+L power:+5V #PWR066
+U 1 1 601F1662
+P 4800 4450
+AR Path="/5FC50738/601F1662" Ref="#PWR066"  Part="1" 
+AR Path="/5FF36AC7/601F1662" Ref="#PWR0128"  Part="1" 
+F 0 "#PWR0128" H 4800 4300 50  0001 C CNN
+F 1 "+5V" H 4815 4623 50  0000 C CNN
+F 2 "" H 4800 4450 50  0001 C CNN
+F 3 "" H 4800 4450 50  0001 C CNN
+	1    4800 4450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3350 5250 4000 5250
+$EndSCHEMATC

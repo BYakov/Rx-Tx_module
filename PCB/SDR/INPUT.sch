@@ -1,0 +1,228 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 12 14
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x20_Odd_Even J?
+U 1 1 5FB701E7
+P 6450 3750
+F 0 "J?" H 6500 4867 50  0000 C CNN
+F 1 "Conn_02x20_Top_Bottom" H 6500 4776 50  0000 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_2x20_P1.00mm_Vertical" H 6450 3750 50  0001 C CNN
+F 3 "~" H 6450 3750 50  0001 C CNN
+	1    6450 3750
+	1    0    0    -1  
+$EndComp
+Text HLabel 5600 2650 0    50   Input ~ 0
+Data_ADC
+Entry Wire Line
+	5800 2850 5900 2950
+Entry Wire Line
+	5800 2950 5900 3050
+Entry Wire Line
+	5800 3050 5900 3150
+Entry Wire Line
+	5800 3150 5900 3250
+Entry Wire Line
+	5800 3250 5900 3350
+Entry Wire Line
+	5800 3350 5900 3450
+Entry Wire Line
+	5800 3450 5900 3550
+Entry Wire Line
+	7050 2850 6950 2950
+Entry Wire Line
+	7050 2950 6950 3050
+Entry Wire Line
+	7050 3050 6950 3150
+Entry Wire Line
+	7050 3150 6950 3250
+Entry Wire Line
+	7050 3250 6950 3350
+Entry Wire Line
+	7050 3350 6950 3450
+Entry Wire Line
+	7050 3450 6950 3550
+Entry Wire Line
+	7050 3550 6950 3650
+Entry Wire Line
+	5800 3550 5900 3650
+Wire Wire Line
+	6950 2950 6750 2950
+Wire Wire Line
+	6950 3050 6750 3050
+Wire Wire Line
+	6950 3150 6750 3150
+Wire Wire Line
+	6750 3250 6950 3250
+Wire Wire Line
+	6950 3350 6750 3350
+Wire Wire Line
+	6750 3450 6950 3450
+Wire Wire Line
+	6950 3550 6750 3550
+Wire Wire Line
+	6750 3650 6950 3650
+$Comp
+L power:Earth #PWR?
+U 1 1 5FB93093
+P 6800 2850
+F 0 "#PWR?" H 6800 2600 50  0001 C CNN
+F 1 "Earth" H 6800 2700 50  0001 C CNN
+F 2 "" H 6800 2850 50  0001 C CNN
+F 3 "~" H 6800 2850 50  0001 C CNN
+	1    6800 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 2850 6750 2850
+Text HLabel 5350 3750 0    50   Input ~ 0
+Data_DAC
+Entry Wire Line
+	5800 3950 5900 4050
+Entry Wire Line
+	5800 3950 5900 4050
+Entry Wire Line
+	5800 4050 5900 4150
+Entry Wire Line
+	5800 4150 5900 4250
+Entry Wire Line
+	5800 4250 5900 4350
+Entry Wire Line
+	5800 4350 5900 4450
+Entry Wire Line
+	5800 4450 5900 4550
+Entry Wire Line
+	5800 4550 5900 4650
+Entry Wire Line
+	5800 4650 5900 4750
+Entry Wire Line
+	5800 3850 5900 3950
+Entry Wire Line
+	5800 3750 5900 3850
+Entry Wire Line
+	7050 3950 6950 4050
+Entry Wire Line
+	7050 3950 6950 4050
+Entry Wire Line
+	7050 4050 6950 4150
+Entry Wire Line
+	7050 4150 6950 4250
+Entry Wire Line
+	7050 4250 6950 4350
+Entry Wire Line
+	7050 4350 6950 4450
+Entry Wire Line
+	7050 4450 6950 4550
+Entry Wire Line
+	7050 4550 6950 4650
+Entry Wire Line
+	7050 3850 6950 3950
+Entry Wire Line
+	7050 3750 6950 3850
+Text HLabel 6250 2850 0    50   Input ~ 0
+CLK_ADC
+Connection ~ 5800 2650
+Wire Bus Line
+	5800 2650 5600 2650
+Wire Bus Line
+	5800 2650 7050 2650
+Wire Wire Line
+	5900 2950 6250 2950
+Wire Wire Line
+	5900 3050 6250 3050
+Wire Wire Line
+	5900 3150 6250 3150
+Wire Wire Line
+	5900 3250 6250 3250
+Wire Wire Line
+	5900 3350 6250 3350
+Wire Wire Line
+	5900 3450 6250 3450
+Wire Wire Line
+	5900 3550 6250 3550
+Wire Wire Line
+	5900 3650 6250 3650
+Wire Bus Line
+	5350 3750 5800 3750
+Wire Wire Line
+	5900 3850 6250 3850
+Wire Wire Line
+	5900 3950 6250 3950
+Wire Wire Line
+	5900 4050 6250 4050
+Wire Wire Line
+	5900 4150 6250 4150
+Wire Wire Line
+	5900 4250 6250 4250
+Wire Wire Line
+	5900 4350 6250 4350
+Wire Wire Line
+	5900 4450 6250 4450
+Wire Wire Line
+	5900 4550 6250 4550
+Wire Wire Line
+	5900 4650 6250 4650
+Wire Wire Line
+	6250 4750 5900 4750
+Wire Wire Line
+	6950 3850 6750 3850
+Wire Wire Line
+	6950 3950 6750 3950
+Wire Wire Line
+	6950 4050 6750 4050
+Wire Wire Line
+	6950 4150 6750 4150
+Wire Wire Line
+	6950 4250 6750 4250
+Wire Wire Line
+	6950 4350 6750 4350
+Wire Wire Line
+	6950 4450 6750 4450
+Wire Wire Line
+	6750 4550 6950 4550
+Wire Wire Line
+	6950 4650 6750 4650
+Text HLabel 6250 3750 0    50   Input ~ 0
+CLK_DAC
+$Comp
+L power:Earth #PWR?
+U 1 1 5FC12DDC
+P 6850 3750
+F 0 "#PWR?" H 6850 3500 50  0001 C CNN
+F 1 "Earth" H 6850 3600 50  0001 C CNN
+F 2 "" H 6850 3750 50  0001 C CNN
+F 3 "~" H 6850 3750 50  0001 C CNN
+	1    6850 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6850 3750 6750 3750
+Wire Bus Line
+	7050 3750 7350 3750
+Text HLabel 7350 3750 2    50   Input ~ 0
+Data_DAC
+Entry Wire Line
+	7050 4650 6950 4750
+Wire Bus Line
+	7050 3750 7050 4700
+Wire Bus Line
+	5800 3750 5800 4700
+Wire Bus Line
+	7050 2650 7050 3550
+Wire Bus Line
+	5800 2650 5800 3600
+Wire Wire Line
+	6750 4750 6950 4750
+$EndSCHEMATC

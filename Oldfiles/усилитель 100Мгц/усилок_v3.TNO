@@ -1,0 +1,177 @@
+********************************************************************************
+***                       Micro-Cap 12.2.0.2 (64 bit)                        ***
+***                                                                          ***
+***                                                                          ***
+***                     Transient Analysis of усилок_v3                      ***
+***                           30.09.2020 11:40:13                            ***
+********************************************************************************
+Limits
+======
+Maximum Run Time           4.1u
+Output Start Time (tstart) 4u
+Maximum Time Step          0.1n
+Number of Points           51
+Temperature                Linear 27
+Retrace Runs               1
+Run Options                Normal
+State Variables            Zero
+Operating Point            On
+Operating Point Only       Off
+Auto Scale Ranges          On
+Accumulate Plots           Off
+Fixed Time Step            Off
+Periodic Steady State      Off
+Ignore Expression Errors   Off
+
+
+*****************************************************
+***                Temperature=27                 ***
+*****************************************************
+
+Temperature=27
+
+DC Operating Point Voltages
+===========================
+Node         Voltage  Node         Voltage  Node         Voltage 
+1             0.000   2             0.000   3             3.490  
+4             8.500   5             2.696   6             3.941  
+7             4.615   8             3.145   9             0.000  
+10            4.998   11            3.809  
+
+
+Operating Point for Devices of Type Bipolar Junction Transistors NPN
+====================================================================
+Instance:               Q1            Q2            Q3
+Using model:       BFR193F       BFR193F       BFR193F
+
+Beta Terms:
+BETADC             90.101        90.409        89.013 
+BETAAC             87.711        87.920        85.980 
+
+Capacitance Terms:
+CPI                 9.135p        9.440p       11.244p
+CMU               527.209f      490.871f      541.250f
+CBX                 0.000         0.000         0.000 
+CJS                 0.000         0.000         0.000 
+
+Conductance Terms:
+GM                282.436m      299.615m      396.008m
+
+Current Terms:
+IB                 83.351u       88.210u      119.208u
+IC                  7.510m        7.975m       10.611m
+
+Resistance Terms:
+RPI               310.552       293.442       217.116 
+RX                  1.059         1.056         1.038 
+RO                  6.025K        5.699K        4.245K
+
+Voltage Terms:
+VBE               794.698m      796.401m      805.542m
+VBC              -450.672m     -673.770m     -383.531m
+VCE                 1.245         1.470         1.189 
+
+Frequency Terms:
+FT                  4.652G        4.802G        5.348G
+
+Power DC Terms:
+PD                  9.419m       11.795m       12.713m
+PS                  0.000         0.000         0.000 
+
+DC Pin Currents:
+Ib                 83.351u       88.210u      119.208u
+Ic                  7.510m        7.975m       10.611m
+Ie                 -7.593m       -8.063m      -10.730m
+Is                  0.000         0.000         0.000 
+
+Condition:
+State                  LIN           LIN           LIN
+
+Device Variables:
+area                1.000         1.000         1.000 
+vbe                 0.000         0.000         0.000 
+vce                 0.000         0.000         0.000 
+
+
+
+Operating Point for Devices of Type Resistor
+============================================
+Instance:                R1            R2            R3            R4            R5
+V                    0.000         3.490         5.010         2.696         4.559 
+Power DC Terms:
+PD                   0.000         5.538m        8.365m       20.469m       34.640m
+
+DC Pin Currents:
+Ir                   0.000         1.587m        1.670m        7.593m        7.598m
+
+Device Variables:
+tc1                  0.000         0.000         0.000         0.000         0.000 
+tc2                  0.000         0.000         0.000         0.000         0.000 
+
+
+Instance:             V1.RS            R6            R7            R8            R9
+V                    0.000         3.885         3.145         0.000         3.809 
+Power DC Terms:
+PD                   0.000        31.447m       25.356m        0.000        40.875m
+
+DC Pin Currents:
+Ir                   0.000         8.094m        8.063m        0.000        10.730m
+
+Device Variables:
+tc1                  0.000         0.000         0.000         0.000         0.000 
+tc2                  0.000         0.000         0.000         0.000         0.000 
+
+
+Instance:               R10
+V                    3.502 
+Power DC Terms:
+PD                  37.157m
+
+DC Pin Currents:
+Ir                  10.611m
+
+Device Variables:
+tc1                  0.000 
+tc2                  0.000 
+
+
+
+Operating Point for Devices of Type Capacitor
+=============================================
+Instance:                C1            C2            C3            C4            C5
+V                    3.490         2.696         3.145        -4.998         3.809 
+Power DC Terms:
+PS                   0.000         0.000         0.000         0.000         0.000 
+
+DC Pin Currents:
+Ic                   0.000         0.000         0.000         0.000         0.000 
+
+Device Variables:
+ic                   0.000         0.000         0.000         0.000         0.000 
+
+
+
+Operating Point for Devices of Type Sine Source
+===============================================
+Instance:                V1
+Using model:           1MHZ
+V                    0.000 
+Power DC Terms:
+PG                   0.000 
+
+DC Pin Currents:
+ISource              0.000 
+
+
+
+Operating Point for Devices of Type SPICE Source
+================================================
+Instance:               V2
+V                   8.500 
+Power DC Terms:
+PG                237.774m
+
+DC Pin Currents:
+ISource           -27.973m
+
+

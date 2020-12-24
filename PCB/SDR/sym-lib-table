@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SDR_lib)(type Legacy)(uri ${KIPRJMOD}/SDR_lib.lib)(options "")(descr ""))
+  (lib (name _SDR)(type Legacy)(uri ${KIPRJMOD}/_SDR.lib)(options "")(descr ""))
+)
